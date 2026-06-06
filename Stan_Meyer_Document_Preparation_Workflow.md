@@ -1,6 +1,12 @@
 # Recommended Workflow for Preparing Stan Meyer Water Fuel System Documents
 
 Companion task list document: [[Stan_Meyer_Document_Preparation_Tasklist]]
+
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
+
 ## Purpose
 
 This document outlines a practical workflow for preparing a collection of Stan Meyer water fuel system documents for analysis and for creating a comprehensive replication-guidance document. The main technical focus areas are the **Voltage Intensifier Circuit (VIC)** and the **hydrogen airdation injection system**.

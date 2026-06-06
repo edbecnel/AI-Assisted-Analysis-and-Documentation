@@ -1,3 +1,10 @@
+# Reference Documents — Original to Canonical Filename Mapping
+
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Assembled_Source_Inventory]]
+
 | Original File Name                                                                         | Suggested Canonical File Name                                                                               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | `Stanley Meyer-The Birth of New Technology OCR.docx`                                       | `R001_Meyer_OCR_SOURCE_Birth_of_New_Technology_UNDATED_ocr.docx`                                            |

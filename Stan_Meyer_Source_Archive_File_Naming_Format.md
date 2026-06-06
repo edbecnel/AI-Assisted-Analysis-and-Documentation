@@ -1,6 +1,10 @@
 # Stan Meyer Source Archive File Naming Format
 
-Referenced by: [[Stan_Meyer_Document_Preparation_Tasklist]]
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Assembled_Source_Inventory]]
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
 
 ## Recommended Standard File Naming Format
 

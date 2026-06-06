@@ -8,6 +8,12 @@ Companion documents:
 - [[Stan_Meyer_Document_Preparation_Tasklist]] — Section 3 Patent Verification
 - [[SMeyer_Searchable_PDF_Canonical_Filename_Map]] — original → canonical filename traceability
 
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Assembled_Source_Inventory]]
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
+
 Extracted text for all working-archive patents:
 
 ```text

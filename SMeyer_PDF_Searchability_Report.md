@@ -1,6 +1,9 @@
 # Stan Meyer PDF Searchability Report
 
-Referenced by: [[Stan_Meyer_Document_Preparation_Tasklist]]
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
 
 For digitized versions found and their URLs see: [[SMeyer_Nonsearchable_Patent_Digitized_Versions]]
 

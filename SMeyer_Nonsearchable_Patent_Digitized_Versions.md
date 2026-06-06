@@ -3,6 +3,13 @@
 This list maps the non-searchable patent PDFs from `SMeyer-PDFs.zip` to digitized online versions. Direct PDF links are shown explicitly as **Download PDF** links.
 
 See the original patent file name to canonical file name mapping in: [[SMeyer_Searchable_PDF_Canonical_Filename_Map]]
+
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
+- [[SMeyer_PDF_Searchability_Report]]
+
 ## Summary
 
 | Category | Count |

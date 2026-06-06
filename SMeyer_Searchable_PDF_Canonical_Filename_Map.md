@@ -4,6 +4,14 @@ This file records the completed rename operation for the searchable Stan Meyer p
 
 **Updated:** 2026-06-06
 
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Assembled_Source_Inventory]]
+- [[Stan_Meyer_Patent_Review_Log]]
+- [[SMeyer_Nonsearchable_Patent_Digitized_Versions]]
+- [[SMeyer_PDF_Searchability_Report]]
+
 ## Purpose
 
 This document preserves the original filename for traceability and lists the current canonical filename after renaming with the PowerShell script:

@@ -1,5 +1,10 @@
 # Stan Meyer Source Archive — Practical Source Categories
 
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Assembled_Source_Inventory]]
+
 ## Purpose
 
 This document updates the earlier archive guidance to reflect the actual source material currently gathered for the Stanley Meyer water fuel system documentation project.

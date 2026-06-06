@@ -4,6 +4,11 @@
 
 Companion documents: [[Stan_Meyer_Document_Preparation_Tasklist]], [[Stan_Meyer_Assembled_Source_Inventory]]
 
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Document_Preparation_Tasklist]]
+
 This audit covers **Section 2 — Source Collection** incomplete tasks. It inventories only files in the **working archive** (canonical folders). Files in `00_originals/` are excluded from classification and cross-reference; they are preserved for history only.
 
 Working archive scope:

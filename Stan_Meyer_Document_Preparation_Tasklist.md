@@ -2,6 +2,12 @@
 
 Companion workflow document: [[Stan_Meyer_Document_Preparation_Workflow]]
 
+Referenced by:
+
+- [[README]] — project documentation index
+- [[Stan_Meyer_Patent_Review_Log]]
+- [[Stan_Meyer_Source_Collection_Audit]]
+
 Use this file to track progress while preparing Stan Meyer water fuel system documents for OCR, source indexing, technical extraction, and eventual creation of a comprehensive replication-guidance document.
 
 Primary focus areas:
