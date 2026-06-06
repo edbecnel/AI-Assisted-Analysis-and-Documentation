@@ -6,6 +6,7 @@ Referenced by:
 
 - [[README]] — project documentation index
 - [[Stan_Meyer_Document_Preparation_Tasklist]]
+- [[Stan_Meyer_Evidence_Ranking_Log]]
 
 ## Purpose
 
@@ -200,6 +201,8 @@ Evidence Level X — Conflicts with conventional physics or requires independent
 ```
 
 This allows the final guide to be useful without pretending that every claim is proven.
+
+Working claim log: [[Stan_Meyer_Evidence_Ranking_Log]] — rank individual claims as sources are reviewed (Tasklist Section 10).
 
 ---
 

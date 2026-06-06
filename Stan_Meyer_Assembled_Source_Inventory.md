@@ -8,6 +8,7 @@ Related traceability maps:
 
 - Patents (S001–S033): [[SMeyer_Searchable_PDF_Canonical_Filename_Map]]
 - Patent review notes: [[Stan_Meyer_Patent_Review_Log]]
+- Evidence-ranked claims: [[Stan_Meyer_Evidence_Ranking_Log]]
 - Reference documents and figures (R### / F###): [[Reference_Documents_Original_File_Name_to_Canonical_File_Name_Mapping]]
 - File naming rules: [[Stan_Meyer_Source_Archive_File_Naming_Format]]
 
@@ -16,6 +17,7 @@ Referenced by:
 - [[README]] — project documentation index
 - [[Stan_Meyer_Patent_Review_Log]]
 - [[Stan_Meyer_Source_Collection_Audit]]
+- [[Stan_Meyer_Evidence_Ranking_Log]]
 
 ---
 
@@ -79,7 +81,7 @@ Fill in **TBD** and empty cells **only after each document is reviewed individua
     </tr>
     <tr>
       <td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">PROJECT_NOTE</td>
-      <td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">11 (P001–P011)</td>
+      <td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">12 (P001–P012)</td>
       <td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Project workflow and mapping files</td>
     </tr>
   </tbody>
@@ -372,6 +374,7 @@ Project-management and archive-process documents. These are not technical eviden
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">P009</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">PROJECT_NOTE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Reference_Documents_Original_File_Name_to_Canonical_File_Name_Mapping.md</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">R/F rename traceability map</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">ACTIVE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;"></td></tr>
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">P010</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">PROJECT_NOTE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Stan_Meyer_Source_Collection_Audit.md</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Section 2 source collection audit</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">ACTIVE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;"></td></tr>
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">P011</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">PROJECT_NOTE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Stan_Meyer_Patent_Review_Log.md</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Individual patent review notes</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">ACTIVE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;"></td></tr>
+    <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">P012</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">PROJECT_NOTE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Stan_Meyer_Evidence_Ranking_Log.md</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Evidence-ranked claim tracking</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">ACTIVE</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;"></td></tr>
   </tbody>
 </table>
 

@@ -32,6 +32,7 @@ Stan_Meyer_Source_Archive/
 |---|---|
 | [Stan_Meyer_Assembled_Source_Inventory.md](Stan_Meyer_Assembled_Source_Inventory.md) | Master index of assembled working-archive sources (S###, R###, F###, P###) |
 | [Stan_Meyer_Patent_Review_Log.md](Stan_Meyer_Patent_Review_Log.md) | Individual patent review notes, subsystem tags, and review queue |
+| [Stan_Meyer_Evidence_Ranking_Log.md](Stan_Meyer_Evidence_Ranking_Log.md) | Evidence-ranked technical claims with source traceability (A–X levels) |
 | [Stan_Meyer_Source_Collection_Audit.md](Stan_Meyer_Source_Collection_Audit.md) | Section 2 audit — VIC candidates, injector/airdation, briefings, duplicates, gaps |
 
 ### Classification and Naming
@@ -58,4 +59,5 @@ Stan_Meyer_Source_Archive/
 2. [Stan_Meyer_Actual_Source_Categories_and_Classification.md](Stan_Meyer_Actual_Source_Categories_and_Classification.md)
 3. [Stan_Meyer_Assembled_Source_Inventory.md](Stan_Meyer_Assembled_Source_Inventory.md)
 4. [Stan_Meyer_Patent_Review_Log.md](Stan_Meyer_Patent_Review_Log.md)
-5. [Stan_Meyer_Document_Preparation_Tasklist.md](Stan_Meyer_Document_Preparation_Tasklist.md)
+5. [Stan_Meyer_Evidence_Ranking_Log.md](Stan_Meyer_Evidence_Ranking_Log.md)
+6. [Stan_Meyer_Document_Preparation_Tasklist.md](Stan_Meyer_Document_Preparation_Tasklist.md)
