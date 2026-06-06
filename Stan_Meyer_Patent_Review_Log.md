@@ -8,6 +8,7 @@ Companion documents:
 - [[Stan_Meyer_Document_Preparation_Tasklist]] — Section 3 Patent Verification
 - [[SMeyer_Searchable_PDF_Canonical_Filename_Map]] — original → canonical filename traceability
 - [[Stan_Meyer_Evidence_Ranking_Log]] — transfer confirmed claims after each patent review
+- [[Stan_Meyer_Analysis_Findings]] — promote cross-source conclusions (`AF###`)
 
 Referenced by:
 
@@ -15,6 +16,7 @@ Referenced by:
 - [[Stan_Meyer_Assembled_Source_Inventory]]
 - [[Stan_Meyer_Document_Preparation_Tasklist]]
 - [[Stan_Meyer_Evidence_Ranking_Log]]
+- [[Stan_Meyer_Analysis_Findings]]
 
 Extracted text for all working-archive patents:
 
@@ -40,7 +42,8 @@ Reviews are **content-based**, not inferred from filenames or archive folder nam
 4. Update the matching row in [[Stan_Meyer_Assembled_Source_Inventory]] (Technical Focus, Notes, Status = `REVIEWED`).
 5. If subsystem relevance is confirmed, add a row to Inventory Section 7 (Technical Focus cross-reference).
 6. Add or update evidence-ranked claims in [[Stan_Meyer_Evidence_Ranking_Log]].
-7. Note any figures worth extracting to `03_figures_and_diagrams/`.
+7. Promote cross-source conclusions to [[Stan_Meyer_Analysis_Findings]] when warranted (`AF###`).
+8. Note any figures worth extracting to `03_figures_and_diagrams/`.
 
 ### Review status values
 

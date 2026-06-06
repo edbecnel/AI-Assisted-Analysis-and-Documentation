@@ -8,6 +8,7 @@ Referenced by:
 - [[Stan_Meyer_Patent_Review_Log]]
 - [[Stan_Meyer_Source_Collection_Audit]]
 - [[Stan_Meyer_Evidence_Ranking_Log]]
+- [[Stan_Meyer_Analysis_Findings]]
 - [[Stan_Meyer_Document_Preparation_Workflow]]
 
 Use this file to track progress while preparing Stan Meyer water fuel system documents for OCR, source indexing, technical extraction, and eventual creation of a comprehensive replication-guidance document.
@@ -418,6 +419,8 @@ Use this section after uploading batches for analysis.
 ## 10. Evidence Ranking
 
 Working claim log: [[Stan_Meyer_Evidence_Ranking_Log]] — add and rank claims as sources are reviewed.
+
+Analysis synthesis: [[Stan_Meyer_Analysis_Findings]] — record confirmed concepts, negative findings, and unsupported assumptions.
 
 Evidence level definitions: [[Stan_Meyer_Document_Preparation_Workflow]] Section 7; source-scale mapping: [[Stan_Meyer_Actual_Source_Categories_and_Classification]].
 

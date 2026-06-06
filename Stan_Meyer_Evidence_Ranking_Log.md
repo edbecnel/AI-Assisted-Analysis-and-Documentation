@@ -9,6 +9,7 @@ Companion documents:
 - [[Stan_Meyer_Actual_Source_Categories_and_Classification]] — simplified source scale (A–E) and mapping rules
 - [[Stan_Meyer_Assembled_Source_Inventory]] — source IDs and Evidence Default column
 - [[Stan_Meyer_Patent_Review_Log]] — patent summaries used to derive claim entries
+- [[Stan_Meyer_Analysis_Findings]] — synthesized findings (`AF###`); negative and unsupported claims
 
 Referenced by:
 
@@ -18,6 +19,7 @@ Referenced by:
 - [[Stan_Meyer_Assembled_Source_Inventory]]
 - [[Stan_Meyer_Actual_Source_Categories_and_Classification]]
 - [[Stan_Meyer_Patent_Review_Log]]
+- [[Stan_Meyer_Analysis_Findings]]
 
 ---
 
@@ -38,6 +40,7 @@ Claim ranking is **content-based**, not inferred from filenames, community label
 5. After patent review, transfer confirmed claims from [[Stan_Meyer_Patent_Review_Log]] into this log.
 6. Mark cross-cutting flags (bench test required, electrochemistry conflict, thermodynamics conflict) in the Notes column or **Cross-Cutting Flags** section.
 7. Update Section 10 checklist progress in [[Stan_Meyer_Document_Preparation_Tasklist]] when a subsystem group is complete.
+8. Promote synthesized conclusions (debunks, cross-patent patterns, unsupported community claims) to [[Stan_Meyer_Analysis_Findings]] (`AF###`).
 
 ### Claim evidence levels (replication guide)
 
@@ -79,7 +82,7 @@ WITHDRAWN — claim not supported after review
 
 ## Master Claim Index
 
-**Progress:** 5 claims ranked (seed entries from initial patent reviews); subsystems incomplete.
+**Progress:** 6 claims ranked (seed entries from initial patent reviews); subsystems incomplete.
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <colgroup>
@@ -109,7 +112,8 @@ WITHDRAWN — claim not supported after review
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E002</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">WFC</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Resonant cavity hydrogen generator operated with pulsed voltage at cavity resonant frequency</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">A</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S019</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Resonant cavity geometry; not the same as standalone VIC coil package.</td></tr>
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E003</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">INJECTOR</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Water mist in zone between conductive members subjected to unipolar pulsed voltage at circuit resonance</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">A</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S022</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Claim 1 paraphrase; CA application abandoned but text is Evidence A as Meyer source.</td></tr>
     <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E004</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">VIC</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Series inductors + diode + pulsed source + electron sink form resonant charging path at injector (Fig. 5)</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">B</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S022</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">VIC-adjacent topology; patent does not use the term “Voltage Intensifier Circuit.” Compare with US4798661 when available.</td></tr>
-    <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E005</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">AIRDATION</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Fresh H₂/O₂ mixed with returned exhaust (non-combustible gas) to reduce burn rate before air intake and combustion</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">A</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S011, S012</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Core airdation / exhaust-recycle claim; see patent review sections for component detail.</td></tr>
+    <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E005</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">AIRDATION</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">Fresh hydrogen gas from the generator intermixed with returned exhaust (non-combustible / non-volatile gas) to reduce burn rate; oxygen and air added on separate paths before combustion</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">A</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S011, S012</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S011: H₂ + exhaust to mixing chamber; O₂ via generator outlet and air intake. S012: H₂ + non-combustible exhaust; then H₂, non-volatile gas, and O₂ with air at combustion.</td></tr>
+    <tr><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">E006</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">AIRDATION</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">System designed to produce ammonia (NH₃) and recycle it from exhaust as part of the fuel loop</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">D</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">S034</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">RANKED</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">2026-06-07</td><td style="vertical-align: top; overflow-wrap: anywhere; word-break: break-word;">**Negative vs patents:** no “ammonia” in S001–S033 extracts. S034 (Murakami secondary) only. Synthesis: [[Stan_Meyer_Analysis_Findings#AF007]].</td></tr>
   </tbody>
 </table>
 

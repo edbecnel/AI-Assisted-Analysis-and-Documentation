@@ -5,6 +5,7 @@ Referenced by:
 - [[README]] — project documentation index
 - [[Stan_Meyer_Assembled_Source_Inventory]]
 - [[Stan_Meyer_Evidence_Ranking_Log]]
+- [[Stan_Meyer_Analysis_Findings]]
 
 ## Purpose
 
