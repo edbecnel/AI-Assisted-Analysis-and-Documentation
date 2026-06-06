@@ -1,0 +1,140 @@
+m 
+buropaisches  Patentamt 
+European  Patent  Office  ©  Publication  number:  0  122  472 
+Office  europeen  des  brevets  A3 
+(12) EUROPEAN  PATENT  APPLICATION 
+©  Application  number:  84102824.4 
+@  Date  of  filing:  15.03.84 
+©  IntCI.4:  F  02  B  43/10 
+F  02  M  21/06 
+(so)  Priority:  23.03.83  US  478207 
+©  Date  of  publication  of  application: 
+24.10.84  Bulletin  84/43 
+©  Date  of  deferred  publication  of  search  report:  14.08.85 
+©  Designated  Contracting  States: 
+AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE 
+©Applicant:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123IUS) 
+©  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+©  Representative:  Wasmeier,  Arfons,  Dipl.-lng. Postfach  382 
+D-8400  Regensburg  1(DE) 
+N 
+s 
+M 
+N 
+(5j)  Hydrogen  airdation  injection  system. 
+©  System  and  apparatus  for  the  controlled  intermixing  of 
+hydrogen/oxygen  gasses  with  non-combustible  gasses  to 
+reduce  the  burning  temperature  and  velocity  of  the  hydrogen 
+gas  in  a  burner.  The  system  utilizes  a  non-electrolysis 
+hydrogen  generator  for  developing  the  hydrogen/oxygen 
+gasses.  The  hydrogen  gas  with  non-volatile  gasses  are 
+intermixed  in  a  controlled  air  intake  chamber.  The  exhaust 
+gasses  of  the  burner  are  returned  as  the  non-volatile  gasses to  the  mixing  chamber  in  a  closed  loop  arrangement.  Upon 
+attaining  the  proper  burning  temperature  and  velocity  of  the 
+hydrogen  gas  the  ratio  of  hydrogen/oxygen  and  non-volatile 
+gasses  is  maintained.  To  effect  a  practical  utilization,  the 
+generation  of  the  hydrogen/oxygen  gasses  are  controlled  in 
+start-up  and  in  quantity.  The  control  of  the  generation  of 
+gasses  is  effected  by  one  or  more  variable  parameters;  such 
+as  varying  the  voltage  applied  to  the  plates,  varying  the  pulse 
+rate  of  the  voltage  on  the  plates,  varying  the  spacing 
+between  the  plates,  switching  the  number  of  plates,  and 
+plate  configuration.  The  hydrogen/oxygen  generation  is  on 
+demand;  that  is  the  hydrogen/oxygen  generation  on  start-up is  only  on  demand  and  thereafter  generation  is  controlled  in 
+quantity  by  the  need  much  in  the  same  manner  as  an 
+accelerator. 
+a. 
+JJ /... 
+roydon  Printing  Company  Ltd. 
+
+
+European  Patent 
+Office EUROPEAN  SEARCH  REPORT 
+0122472 
+Application  number 
+EP  84  10  2824 
+DOCUMENTS  CONSIDERED  TO  BE  RELEVANT 
+Category Citation  of  document  with  indication,  where  appropriate, of  relevant  passages 
+Relevant to  claim CLASSIFICATION  OF  THE APPLICATION  (Int.  CI.  3) 
+E EP-A-0  111  574  (MEYER) 
+*  Whole  document  * 
+EP-A-0  086  439  (MEYER) 
+*  Whole  document  * 
+US-A-3  616  779  (NEWKIRK) 
+*  Column  3,  line  37  -  column  4, 
+line  7;  column  4,  lines  48-59; 
+column  5,  lines  4-7;  figure  1  *  & 
+FR-A-2  096  416  (Cat.  A,  claim  14) 
+US-A-3  648  668  (PACHECO) 
+*  Column  3,  lines  39-58;  figure  1 
+EP-A-0  101  761  (MEYER) 
+*  Page  3,  lines  10-24;  abstract; 
+figure  1  * 
+GB-A-1  517  799  (NISSAN) 
+-A 
+The  present  search  report  has  been  drawn  up  for  all  claims 
+1-21 
+1,3-5, 
+7,8,  10 
+,11,14 
+1,3-5, 
+7-9,12 
+,13 
+14 
+1,3-5 
+7-9,1 
+,13 
+lfc 
+1,3-5L 
+7-9,  lk 
+F  02  B  43/1C 
+F  02  M  21/06 
+TECHNICAL  FIELDS SEARCHED  (Int.  CI.  ») 
+F  02  B  43/00 
+F  02  M  21/00 
+F  02  M  25/00 
+F  02  B  75/12 
+Place  of  search 
+BERLIN 
+Date  of  completion  of  the  search 
+22-04-1985 
+Examiner 
+NORDSTROEM  U.L.N. 
+Si 
+3  1 
+Ui  I 
+CATEGORY  OF  CITED  DOCUMENTS 
+X  :  particularly  relevant  if  taken  alone Y  :  particularly  relevant  if  combined  with  another document  of  the  same  category A  :  technological  background 0  :  non-written  disclosure 
+P  :  intermediate  document 
+T  :  theory  or  principle  underlying  the  invention E  :  earlier  patent  document,  but  published  on,  or after  the  filing  date D  :  document  cited  in  the  application L  :  document  cited  for  other  reasons 
+&  :  member  of  the  same  patent  family,  corresponding document 
+
+I) jropean  Patent 
+ffice 
+UHUrtAN  StAKUri  nCfUn  I 
+>OCUMENTS  CONSIPEHfcU  lUBt  HtLtVAH  i 
+Pi  Zi^r/^ 
+Application  number 
+Page  2 
+.  1 
+ategory itation  ot  aocumeni  wiin  inaicauuii.  wneie  ap|jiuH"<«e, of  relevant  passages 3  claim ^PPLICATI0N  (Int.  CI.  ') 
+["R-A-l  178  241  (  CHARDONNEREAU  ) 
+JS-A-3  971  847  (HOUSEMAN) 
+SEARCHED  (Int.  CI.  ») 
+me  present  searcn  repon  nas  oeen  uiam-  up  iui  an  u»™is 
+Place  ot  searcn BERLIN 22-04-1985 NORDSTROEM  U.L.N. 
+CATcliUHY  Ut"  Ul  I  fcU  UUOUMHM  I  o 
+X  :  particularly  relevant  iiiaKenaione 
+Y  :  particularly  relevant  if  combined  with  another 
+document  of  the  same  category A  :  technological  background 
+0  :  non-written  disclosure 
+P  :  intermediate  document 
+l  .  uieuiyui  [Jiiiiwpio  uiiuvtijitia  »'v E  :  earlier  patent  document,  but  published  on,  or 
+after  the  filing  date 
+D  :  document  cited  in  the  application 
+L  :  document  cited  for  other  reasons 
+Ot  .  tllCIIILTCl  Ul  ^Jt4i  @  ^«-»»w.  J  »  —  —  I document 

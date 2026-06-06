@@ -1,0 +1,256 @@
+19) 
+Europaisches  Patentamt 
+European  Patent  Office 
+Office  europeen  des  brevets 
+©  Publication  number: 0  101  761 
+A2 
+.12) EUROPEAN  PATENT  APPLICATION 
+©  Application  number:  82111597.9 
+@  Date  of  filing:  14.12.82 
+©  Int.  CI.3:  F  02  B  43/10 
+C  12  Q  1/60 
+©  Priority:  25.08.82  US  411977  ©  Applicant:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+©  Date  of  publication  of  application: 
+07.03.84  Bulletin  84/10  ©  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway 
+©  Designated  Contracting  States:  Grove  City  Ohio  43123(US)  - 
+AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE 
+©Representative:  Wasmeier,AKons,Dipf.-tng.  tt  si, 
+Postfach  382  Greflingerstrasse  7 
+D-8400  Regensburg(DE) 
+CM 
+O 
+is 
+©  Controlled  hydrogen  gas  flame. 
+@  A  sustained  controllable  gas  flame.  The  hydrogen 
+generator  utilized  is  that  for  separating  gasses  from  water 
+having  impurities  and  other  gasses  entrapped  therein.  The 
+gasses  separated  from  the  water  comprises  hydrogen, 
+oxygen,  and  the  non-combustible  gasses,  such  as  nitrogen. 
+The  nitrogen,  oxygen  and  hydrogen  are  mixed  as  they  are 
+released  in  the  process  by  the  generator  and  collected  as  the 
+mixture  of  gasses  in  the  collection  chamber  of  the  generator. 
+The  method  and  system  comprises  a  nozzle  of  a  given 
+configuration  connected  through  a  line  to  the  uppermost 
+region  of  the  gas  collection  chamber  of  the  hydrogen 
+generator.  The  nitrogen  reduces  the  velocity  and  tempera- 
+ture  of  the  burning  flame  from  that  of  the  hydrogen/oxygen 
+mixture.  To  further  control  the  temperature  and  velocity  of 
+the  burning  gas  mixture  there  is  added  to  the  collection 
+chamber  other  non-burnable  gasses.  The  configuration  of 
+the  nozzle  and  its  port  opening  is  dependant  on  the  mixture 
+of  gasses  utilized  and  restricted  thereby.  An  increase  in  the 
+size  of  the  flame  requires  additional  port  openings  to  prevent 
+blowout. 
+CROSS  REFERENCE: 
+The  hydrogen/oxygen  generator  utilized  in  the  present 
+invention  is  that  disclosed  and  claimed  in  my  co-pending 
+U.S.  patent  application,  Serial  Number:  302,807,  filed: 
+September  16,  1981,  for:  HYDROGEN  GENERATOR  SYS- 
+TEM.  In  that  process  for  separating  hydrogen  and  oxygen atoms  from  water  having  impurities,  the  water  Is  passed between  two  plates  of  similar  non-oxidizing  metal.  No 
+electrolyte  is  added  to  the  water.  The  one  plate  has  placed 
+thereon  a  positive  potential  and  the  other  a  negative 
+potential  from  a  very  low  amperage  direct-current  power source.  The  sub-atomic  action  of  the  direct  current  voltage 
+on  the  non-electrolytic  water  causes  the  hydrogen  and 
+oxygen  atoms  to  be  separated  -  and  similarly  other  gasses 
+entrapped  in  the  water  such  as  nitrogen.  The  contaminants 
+in  the  water  that  are  not  released  are  forced  to  disassociate 
+themselves  and  may  be  collected  or  utilized  and  disposed  of 
+in  a  known  manner. 
+The  direct  current  acts  as  a  static  force  on  the  water 
+molecules;  whereas  the  non-regulated  rippling  direct  current 
+acts  as  a  dynamic  force.  Pulsating  the  direct  current  further 
+enhances  the  release  of  the  hydrogen  and  oxygen  atoms 
+from  the  water  molecules. 
+
+
+The  electrolysis  process  for  generating  hydrogen  and 
+oxygen  gas  is  well  known  in  the  art.  It  is,  of course,  fur- 
+ther  understood  with  a  proper  mixture  of  oxygen  gas,  the 
+hydrogen  gas  is  combustible  and  under  ideal  conditions  a 
+flame,  may  be  had.  Reference  is  made to  U.S.  Patent  Nuber: 
+4,184,921..However, in that  the  burning  velocity  of  hydrogen 
+is  265-325  cm./sec.  versus  37-45  cm./sec.  of  that  of  gasoline, 
+the  velocity  of  hydrogen  is  so  great  that  the  hydrogen  en- 
+suing  from  a  nozzle  will  not  under  ordinary  circumstances 
+sustain  a  flame. 
+Therefore,  to  sustain  a  flame at  a  nozzle  attached  to  a 
+hydrogen  generator  the  burning  velocity  of  the  hydrogen  gas 
+must  be  reduced. 
+It  has  been  found  that  all  water  in  its  natural  state 
+whether  it  be  tap  water,  well  water,  sea  water,  or  fresh 
+water  is a saturate  of  ambient  air.  Further,  in that  ambient 
+air  contains  a  substantial  amount  of  nitrogen,  all  natural 
+water  will  have  entrapped  therein  nitrogen.  Again,  the  per- 
+centage  of  nitrogen  entrapped  in  natural  water  has  been  de- 
+termined  to  be  a fixed  percentage  and  very  uniform  at  seventeen 
+(17%)  percent  ---  irrespective  of  the  source  of  the  water  or 
+its  impurities.  Hence,  a  natural  water gas  analysis  will 
+show  a  seventeen  percent  of  nitrogen  relative to  the  hydrogen 
+and  oxygen. 
+
+The  nozzle  connected  to  the  collection  chamber  via  an 
+appropriate  line,  has  a  port  opening  of  a  controlled  size 
+and  configuration,  related  to  the  size  of the  flame  and  the 
+temperature  and  velocity  of  the  burning  gas  mixture.  To 
+maintain  the  flame,  that  is  to  prevent  blowout,  additional 
+nozzles  are  included  when  the  overall  flame  size  is  to  be 
+increased. 
+OBJECTS: 
+It  is  accordingly  a  principal  object  of  the  present 
+invention  to  provide  a  new  and  improved  hydrogen/oxygen 
+generator  that  is  operable  from  a  water  source  that  provides 
+hydrogen/oxygen  output  that  will  have  a sustained  burn. 
+Another  object  of  the  present  invention  is  to  provide 
+a  hydrogen/oxygen  generator  that  in  addition  to  the  hydrogen 
+and  oxygen  gasses  releases  non-combustible  nitrogen  gas 
+capable  of  reducing  the  burning  velocity  and  temperature  of 
+a  pure  hydrogen/oxygen  flame. 
+A  further  object  of  the  present  invention  is  to  provide 
+a  hydrogen  generator  that includes the  controlled  addition  of 
+other  non-combustible  gasses to  the  gas  chamber  thereof  to 
+thereby  further  control  the  burning  velocity  and temperature 
+of  the  hydrogen  gas. 
+Other  objects  and  features  of  the present  invention  will 
+become  apparent  from  a  reading  of  the  detailed  description 
+
+of  the  preferred  embodiment  taken  in  conjunction  with  the 
+single  figure  drawings  in  which: 
+BRIEF  DESCRIPTION  OF  THE  DRAWINGS: 
+Figure  1  is  a  crossection  of  a  hydrogen  generator  il- 
+lustrating  the  features  of  the present  invention  in  its  most 
+preferred  embodiment  incorporated  therein. 
+Figure  2  schematically  shows  the  increased  number  of 
+nozzle  ports to  increase  the flame  size. 
+DETAILED  DESCRIPTION  OF  DRAWINGS: 
+The  hydrogen  generator  10  is  that  of my  co-pending  patent 
+application,  supra.  This  generator  comprises a  closed  water- 
+tight  housing  12  having  therein  natural  water  13.  Submerged 
+in  the water  13  is  a  pair  of  plates  15  (one  not  shovm) 
+having  a  direct  current  low  amperage  voltage,  via'connector 
+11,  applied  thereto. As  set  forth  in  my  co-pending  patent 
+application supra,  the electrical  potential  applied  to  the 
+similar non-oxidizing  metal plates  is  a  sub-atomic  action. 
+In  this way  the  hydrogen  atoms  14  a  xxx  n and the  oxygen 
+atoms  a  xxx  n  are released from  the  water  molecule. 
+Unlike  the  electrolysis  process  for  generating  hydrogen 
+from  distilled  water,  the  hydrogen  generator  of  my  afore- 
+mentioned  patent  application,  utilizes  water  13  that  need 
+not be  pure  ---  simply  any  water  irrespective  of  contaminents 
+and  source. 
+
+Natural  water  such  as  tap,  well,  sea,  or  fresh  water  is 
+an  absorber  of  ambient  air.  Ambient  air  in  turn,  contains 
+a  substantial  amount  of  nitrogen  gas.  Water  as  an absorbar 
+of  ambient  air  will  entrap  seventeen  percent  (17%)  of  ni- 
+trogen  gas;  that  is  natural  water,absorbs  seventeen  percent 
+(17%)  of  nitrogen  gas  in  comparison  to  its  hydrogen  and  oxygen 
+gas  content.  In  operation  of  the  hydrogen  generator,  in  that 
+it is  a  subatomic  or  force-type  of  generator  the  gasses  in 
+the  water  will  be  released.  Therefore, when  natural  water 
+is  used  the  nitrogen  gas  will  be  released  together  with  the 
+hydrogen  and  oxygen  gasses. 
+In  the  preferred  embodiment  utilizing  tap  water,  the 
+nitrogen  gasses  16  a  xxx n  are  intermixed  with  the  hydrogen 
+gasses  14  a  xxx  n  and  the  oxygen  gasses  18  a  xxx  n  in  the 
+chamber  19  of  the  hydrogen  generator  10. 
+Upon  release  of  the  gasses  via  line  24  and  nozzle  20 
+and  then  port  22  the  gas  mixture  is  ignited  to  provide 
+flame  25. 
+The  flame  25  is  sustained  in  that  the  nitrogen  gasses 
+16  a  xxx n  reduces  the  burning  velocity  and  temperature  of 
+the  hydrogen  gas  14  a  xxx  n. 
+A  realistic  and  practical  manner of  further  controlling 
+the  burning  velocity  and  temperature  of  the  hydrogen  gasses 
+14  a  xxx  n,  is by  adding non-combustible  gasses  directly  to 
+the hydrogen  and  oxygen  gasses  generated.  This  is  accomplished 
+
+by  inlet  30  to  the upper  gas  chamber  19  of  the  hydrogen 
+generator.  Valve  means  35  is  adjustable  to  control  the  amount 
+of  non-combustible  gasses  16  a  xxx  n,  added  to  the  gas chamber 19 
+The  nozzle  20  connected  to  the  chamber  19  of  the  generator 
+10  via  line  17,  is  of  a  given  congiguration  to  permit  a  pre- 
+determined  quantity  of  gasses  to  be  expelled  from  the  port  22. 
+The  port  size  is  dependant  on  the  gasses  generated,  and  collected 
+in  the  chamber  19, the  pressure  of  the  chamber  19  of  the  gener- 
+ator  10,  and  the  size  of  the  flame  dexired. 
+To  increase the  size  of  the  flame  25  would  appear  to  be  a 
+simple  matter  of  increaseing  the  rate  of  gasses  generzted: 
+However;  an  increase  of  gasses  merely  causses  a  blowout  at  the 
+port  22  opening  of  the  nozzle  20.  This  flame blowout  will occur 
+since  an  increase  in  hydrogen  gas  generation  disrupts  the  ratio 
+of  the  initial  mixture even  though  the percentages  remain  const- 
+ant.  Typically,  tap  water  will  contain  62%  hydrogen,  31%  oxygen, 
+and  17%  nitrogen.  In  actuality  the  percentages  may  be  somewhat 
+less  dependant  on the  other  gasses  that  may  be  trapped  in  the 
+tap  water.  The  increase  in  production  will  not  affect  the per- 
+centages  but  it  must  be appreciated  that  the  volume  of  the gasses 
+will  be  proportionately  increased.  In  turn,  the volume  being 
+directly  related  to  pressure,  the  pressure  will  be  similarly  in- 
+creased. 
+To  effectively  reduce  or  counter  the  velocity  due  to  the 
+increased  pressure  of  the  hydrogen  gas  mixture  in  the  chamber  
+19 
+a  larger  port  22  would  appear  to  be  capable  of  handling  the 
+increased  pressure.  But,  as  aforesaid,  a  larger  port  and  the 
+
+and  the  concentration  of  the  high  velocity  hydrogen gas  mixture 
+will  cause  a  flame  blowout.  To  sustain  a  larger  flame  with  in- 
+creased  pressure,  additional  nozzles  2a xxx  n  having  ports 
+22  a  xxx  n  or  a  nozzle  20  with  multiple  ports  20 a  xxx n  as 
+shown  in  Figure  2,  of  a  port  size  a  predetermined  as  aforesaid, 
+will  be  added  to  the  line  17.  Accordingly,  the larger  the  des- 
+ired  flame  the  greater  the  number  of  ports. 
+It  can  be  understood  that  a  port  that  will  not  sustain  a flame 
+does  present  a  safety  factor  relative  to  hydrogen  spark  back  to 
+the chamber  19.  Hence,  controlling  the  size  of  the  port  22  in 
+effect  as  a  quencher  of  hydrogen  spark  back. 
+Although  certain  and  specific  embodiments  are  shown  and  
+deser- 
+ibed  it  is  within  the  scope  and  spirit  of  the  present  invention 
+to  include  alternatives  and  modifications  thereto. 
+
+1.  A  hydrogen/oxygen  generator  capable  of  sustaining  the  con- 
+trolled  burning  of  the  gasses generated  thereby  comprising: 
+a  housing  having  natural  water  therein  including  en- 
+trapped  non-combustible gasses, 
+a  pair  of similar  non-oxidizing  plates  having  direct 
+current  low  amperage  voltage  applied  thereto  to  provide  a 
+sub-atomic,  force-type  action  on  said  water, 
+said  action  liberating  the  hydrogen  atoms and  oxygen 
+atoms  from  said  water  molecule,  and  further  liberating  said 
+non-combustible  gasses Arom  said  water, 
+a  gas  collection  chamber  in  said generator for  collecting 
+and  intermixing  said  released  gasses, 
+a  nozzle  attached  to  the  gas  collection  chamber  of  said 
+housing  including  an  inlet  for  receiving  the  mixture of 
+hydrogen,  oxygen  and  non-combustible  gas, 
+said  nozzle  of.a  predetermined  size  and  configuration 
+on  a  port  for  expelling  said  mixed  gasses,  and  means  for  ig- 
+niting  said  mixed  gasses. 
+2.  The  hydrogen/oxygen  generator  of  Claim  1  wherein  said 
+non-combustible  gas  is  nitrogen. 
+3.  The  hydrogen/oxygen  generator  of  Claim  2  wherein  said 
+gasses  intermixed  in  said collection  chamber  of  the  hydrogen 
+generator comprise  62%  hydrogen,  31%  oxygen,  and  17%  nitrogen. 
+
+4.  The  hydrogen/oxygen  generator  of  Claim  3  wherein  said 
+means  comprises  an  inlet  connected  to  said  gas  collection 
+chamber  of  said  housing,  and  means  for  introducing  non-com- 
+bustible  gasses  to  said  chamber. 
+5.  The  hydrogen/oxygen  generator  of  Claim  4  wherein  said 
+inlet  further  comprises  valve  means  for  controlling  the  amount 
+of  non-combustible  gasses  introduced  to  said  chamber. 
+6.  The  hydrogen/oxygen  generator  of  Claim  5  wherein  said 
+port  on  said  nozzle  of  a  predetermined  size  and  configuration 
+is  related  to  the  ratio  of  gasses  in  said  collection  chamber 
+to  provide  a  flame  of  a  predetermined  velocity  and  size  at 
+said  port. 
+7.  The  hydrogen/oxygen  generator  of  Claim  6  wherein  said 
+port  size  and  configuration  is  maintained  with  a  plurality 
+of  ports  to  thereby  permit  a  proportional  increase  in  flame 
+size. 
+
+

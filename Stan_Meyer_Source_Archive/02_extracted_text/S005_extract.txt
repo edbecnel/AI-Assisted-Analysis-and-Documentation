@@ -1,0 +1,121 @@
+J» 
+Europaisches  Patentamt 
+European  Patent  Office 
+Office  europeen  des  brevets 
+0  101  761 
+A3 
+uO  Publication  number: 
+EUROPEAN  PATENT  APPLICATION 
+©  int.  ci.3:  F  02  B  43/10 
+C  12  Q  1/60 @  Application  number:  82111597.9 
+©  Date  of  filing:  14.12.82 
+2)  Applicant:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+(72)  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+@  Representative:  Wasmeier,  Alf  ons,  Dipl.-lng.  et  al, 
+Postfach  382  Greflingerstrasse  7 
+D-8400  Regensburg(DE) 
+©  Priority:  25.08.82  US  411977 
+@  Date  of  publication  of  application: 
+07.03.84  Bulletin  84/10 
+@  Date  of  deferred  publication  of  search  report:  22.08.84 
+@  Designated  Contracting  States: 
+AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE 
+(3)  Controlled  hydrogen  gas  flame. 
+@  A  sustained  controllable  gas  flame.  The  hydrogen 
+generator  utilized  is  that  for  separating  gasses  from  water 
+having  impurities  and  other  gasses  entrapped  therein.  The 
+gasses  separated  from  the  water  comprises  hydrogen, 
+oxygen,  and  the  non-combustible  gasses,  such  as  nitrogen. 
+The  nitrogen,  oxygen  and  hydrogen  are  mixed  as  they  are 
+released  in  the  process  by  the  generator  and  collected  as  the 
+mixture  of  gasses  in  the  collection  chamber  of  the  generator. 
+The  method  and  system  comprises  a  nozzle  of  a  given 
+configuration  connected  through  a  line  to  the  uppermost 
+region  of  the  gas  collection  chamber  of  the  hydrogen 
+generator.  The  nitrogen  reduces  the  velocity  and  tempera- 
+ture  of  the  burning  flame  from  that  of  the  hydrogen,  oxygen 
+mixture.  To  further  control  the  temperature  and  velocity  of 
+the  burning  gas  mixture  there  is  added  to  the  collection 
+chamber  other  non-burnable  gasses.  The  configuration  of 
+the  nozzle  and  its  port  opening  is  dependant  on  the  mixture 
+of  gasses  utilized  and  restricted  thereby.  An  increase  in  the 
+size  of  the  flame  requires  additional  port  openings  to  prevent 
+blowout. 
+Cross  reference: 
+The  hydrogen/oxygen  generator  utilized  in  the  present 
+invention  is  that  disclosed  and  claimed  in  my  co-pending 
+U.S.  patent  application.  Serial  Number:  302,807,  filed: 
+September  16,  1981,  for:  HYDROGEN  GENERATOR 
+SYSTEM. 
+In  that  process  for  separating  hydrogen  and  oxygen 
+atoms  from  water  having  impurities,  the  water  is  passed 
+between  two  plates  of  similar  non-oxidizing  metal.  No 
+electrolyte  is  added  to  the  water.  The  one  plate  has  placed 
+thereon  a  positive  potential  and  the  other  a  negative 
+potential  from  a  very  low  amperage  direct-current  power 
+source.  The  sub-atomic  action  of  the  direct  current  voltage 
+on  the  non-electolytic  water  causes  the  hydrogen  and 
+oxygen  atoms  to  be  separated  —  and  similarly  other  gasses 
+entrapped  in  the  water  such  as  nitrogen.  The  contaminents 
+in  the  water  that  are  not  released  are  forced  to  disassociate 
+themselves  and  may  be  collected  or  utilized  and  disposed  of 
+in  a  known  manner. 
+The  direct  current  acts  as  a  static  force  on  the  water 
+molecules;  whereas  the  non-regulated  rippling  direct  current 
+acts  as  a  dynamic  force.  Pulsating  the  direct  current  further 
+enhances  the  release  of  the  hydrogen  and  oxygen  atoms 
+from  the  water  molecules. 
+< 
+o. 
+LU •/••• 
+Croydon  Printing  Company  Ltd. 
+
+2S 
+tcsrxn 
+\5 
+—  I4axxxn art —19 0  O 0 
+-  ISaxxn 
+-10 
+Q> & O 
+c  c  ®  o  —  - 
+-f2 FIG.  / 
+s 
+
+J) 
+0101761 
+Application  number 
+EP  82  11  1597 
+/V|1|  European  Patent 
+MJlii  Office EUROPEAN  SEARCH  REPORT 
+DOCUMENTS  CONSIDERED  TO  BE  RELEVANT 
+Citation  of  document  with  indication,  where  appropriate, of  relevant  passages 
+Relevant 
+to  claim CLASSIFICATION  OF  THE APPLICATION  (Int.  01.  ») Category 
+F  02  B  43/10 
+C  12  Q  1/60 
+F  23  L  7/00 
+E EP-A-0  086  439  (MEYER) 
+*  Figures  1,2;  claim  1  * 
+US-A-3  977  365  (VIERLING) 
+*  Abstract;  figure  1;  column  2, 
+lines  1-65  * 
+GB-A-1  549  738  (BELL) 
+*  Page  1,  lines  1-91  * 
+US-A-3  982  878 
+*  Abstract  * 
+(NISSAN) 
+TECHNICAL  FIELDS SEARCHED  (tnt.CI.1) 
+F  02  B 
+F  23  L  7/00 
+The  present  search  report  has  been  drawn  up  for  all  claims 
+±i±fc,  ilAL>UJi Date  of  completion  of  the  search 27-04-1984 Examiner 
+WASSENAAR  G. 
+T  :  theory  or  principle  underlying  the  invention E  :  earlier  patent  document,  but  published  on,  or after  the  filing  date D  :  document  cited  in  the  application L  :  document  cited  for  other  reasons 
+CATEGORY  OF  CITED  DOCUMENTS 
+X  :  particularly  relevant  if  taken  alone 
+Y  :  particularly  relevant  if  combined  with  another 
+document  of  the  same  category A  :  technological  background O  :  non-written  disclosure P  :  intermediate  document &  :  member  of  the  same  patent  family,  corresponding document 

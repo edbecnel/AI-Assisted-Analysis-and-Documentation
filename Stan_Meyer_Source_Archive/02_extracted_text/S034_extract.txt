@@ -1,0 +1,1217 @@
+1 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+WATER 
+FUEL 
+SECRETS 
+The Key to Stan Meyer's Technology 
+ 
+ 
+By 
+ 
+Aaron Murakami, BSNH 
+ 
+Version 1.2 - April 16, 2013 
+2 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Published by 
+White Dragon Press 
+Spokane, Washington 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2013  Murakami, LLC 
+ 
+All Rights Reserved, Worldwide.  No part of this publication may be reproduced, stored in an electronic 
+retrieval system, or transmitted in any form, or by any means, without the prior, written permission of 
+the copyright holders or the publisher.  Unauthorized copying of this digital file is prohibited by 
+International Law. 
+ 
+ 
+Digital Edition Published by: White Dragon Press 
+        PO Box 10029 
+        Spokane, WA 99209 
+             
+http://whitedragonpress.com   
+ 
+ 
+3 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ Newsletter 
+ 
+ 
+ 
+ 
+Before doing anything else, make sure to sign up for the free White Dragon Press 
+newsletter at 
+http://whitedragonpress.com/whitedragonpress.php. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Introduction 
+ 
+ 
+ 
+About fourteen years ago, a friend of mine, Lawrence Kennedy, gave me a bunch 
+of VHS tapes with all kinds of exotic energy technology presentations. Lawrence 
+used to tour the lecture circuit with Stan Meyer and other well-known 
+individuals in the alternative energy scene.  
+ 
+I was quickly introduced to the work of Roger Billings and Stan Meyer. 
+Lawrence is retired now but does enjoy showing people his Lincoln Continental 
+with its water fuel cell that helps him get more mileage than most people would 
+believe possible with a big car like that. 
+ 
+Like most experimenters, I started building my own water fuel cell assuming this 
+is the place to start in order to figure out what Stanley Meyer actually did. 
+However, a few years ago, a couple people pointed out the importance of 
+nitrogen to me and its role in the Meyer technology. Bit by bit, I eventually 
+figured out the key. 
+ 
+All these concepts were placed openly in some online discussion forums by 
+myself and a few others and only a handful of people embraced it enough to see 
+the light. The rest called us names and claimed that we were spreading 
+disinformation to put people on the wrong track. 
+ 
+After reviewing the Stan Meyer material once again, it was all too obvious what 
+Meyer was doing and it was in his own words. Suddenly, it all made sense. This 
+brief report will give you a bit of my insights that I have gained on this journey 
+along with some of the most important documents of Stan Meyer - the ones that 
+every so-called "Stan Meyer" expert appears to be completely clueless about since 
+they always deny that Meyer ever mentioned nitrogen! You will see the truth as 
+you now have it in your possession. 
+ 
+In summary of this introduction, I want to publicly thank the following people 
+that helped me out on this path. 
+5 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Lawrence Kennedy - For giving me the videos of Stan Meyer almost 15 years 
+ago. 
+ 
+Michael John Nunnerley - For first telling me about his jet engine project where 
+he was accomplishing what Stan Meyer did but using heterodyning radio waves 
+to create the water fuel instead of electrolysis.  
+ 
+Alex N. from Italy - For his relentless pursuit of the truth and never giving up. 
+ 
+Dr. Stiffer - For being one of the few people in the world to ever show a slow 
+burning water gas flame. This is of the highest significance! 
+ 
+"Rock" - For bringing to my attention one of the documents that was not just 
+evidence but PROOF that everything we discussed about Stan Meyer and 
+nitrogen was 100% correct. 
+ 
+Sincerely, 
+Aaron Murakami, BSNH  
+ 
+ 
+6 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Table of Contents 
+ 
+ 
+ 
+Nitrogen - The KEY to Stan Meyer's Technology         7 
+ 
+Non-Combustible Gas References               16 
+ 
+An Undeniable Nitrogen Reference              19 
+ 
+Notable Meyer Patent References               35 
+ 
+Conditioning the Electrodes                 48 
+ 
+Catalysts                       51 
+ 
+Vacuum                            55 
+ 
+Ernest E. Punches                    58 
+ 
+Summary                       64 
+7 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Nitrogen 
+The KEY to Stan Meyer's Technology 
+ 
+ 
+First of all, if you purchased this report but aren't familiar with Stan Meyer, a 
+simple Google search will bring up all kinds of videos, documents, "replication" 
+attempts by others, etc... Basically, Stan Meyer had a water/air powered dune 
+buggy and yes, it was for real. 
+ 
+Here is the Google search: 
+https://www.google.com/search?q="stan+meyer" 
+ 
+He has dozens of patents covering all aspects of his technology and I'm not 
+providing them here because they are in such abundance online that you can't 
+miss them.  
+ 
+So, this report at least expects that you have followed Stanley Meyer's work and 
+are familiar with the concepts. Evevn if you haven't, you will be able to see that 
+common ducted electrolyzed water gas is NOT a suitable fuel. The bottom line is 
+that water is electrolyzed efficiently and that water gas "hho" leaves the water 
+cell and is modified to burn slowly so that it can run an engine or be used for 
+cooking, heating water, etc...  
+ 
+Before I go on, you can see my work on the Jet Engine project that came out of 
+MJN's studies - 
+http://howtobuildajetengine.com. I wouldn't necessarily 
+recommend getting that unless you want to build a jet engine, but what isn't 
+shown in that is how I recycled the exhaust/thrust to boil water and inject back to 
+the impeller of the turbine. And, it isn't necessary to use a jet turbine. That was 
+just part of my path. 
+ 
+That was also a test engine for my plasma ignition that does burn water on 
+contact and is in my opinion the preferable ignition method for water fuel 
+purposes. You can see my work on that here: http://ignitionsecrets.com. Just 
+about every bit of that package is online for free and you're welcome to spend 
+8 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+the time to look it all up but that package will shave hundreds to thousands of 
+hours of research time. 
+ 
+You can see my other work here: http://whitedragonpress.com.  
+ 
+Anyway, to cut to the chase, here is what this is all about. If you electrolyze 
+water in a common ducted cell, meaning hydrogen and oxygen aren't separated, 
+it all stays in one single gaseous mixture, you have a mixture of about a dozen 
+positively charged and negatively charged atoms and molecules. This kind of cell 
+is known as a Rhodes Cell or a Brown's Gas Cell and the mixture of gas is known 
+as "HHO", but that isn't an accurate description of what it is.  
+ 
+People use this mixture as a fuel supplement on gas and diesel vehicles and get 
+an increase in power, mileage and a reduction in emissions. Those benefits do 
+NOT come from this extra hydrogen. Instead, the reactive oxygen species created 
+in the water fuel cell such as hydrogen peroxide, ozone, and other positively 
+charged oxygen based molecules will come in contact with a large hydrocarbon 
+molecule and will strip electrons from it breaking it into smaller pieces and what 
+this does is increase the BTUs that you are able to use from the same amount of 
+fuel.  
+ 
+In a way, the "HHO" is acting like a catalyst, but is not technically a catalyst, it 
+just modifies the fuel that is there and that is where the gain comes from. There is 
+not enough hydrogen available to account for the gains that are experienced by 
+this kind of fuel supplementation. 
+ 
+The big trend in the water fuel world has been to make as much gas as possible 
+for as little energy as possible. That's great, but large anomalous amounts of this 
+water gas is NOT what Stan Meyer was doing even though he discussed high 
+volumes of water gas production.  
+ 
+Once you see the facts in this document that are indisputable as I have claimed, 
+you will see that Stan Meyer did everything in his power to misdirect everyone's 
+attention away from the KEY and have them focus on all the complicated 
+electronics and other parts of his method. He was obviously a smart man and 
+with the money invested in dozens of international patents, he wasn't going to 
+9 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+simply allow everyone to see what he was really doing and veiled it in confusing 
+language. And it is not just possible but highly probable that Meyer didn't even 
+understand all the electrochemistry involved in the reactions. 
+ 
+So, it is about the QUALITY of fuel and not QUANTITY! 
+ 
+As I was on this path off and on over the years to figure out Stan Meyer's secret, I 
+was approached by a few people that seemed to have it figured out. I had no 
+proof of that, but everything they said just plain made sense and as I had a new 
+perspective and reviewed Meyer's work, it all jumped out as being completely 
+obvious. 
+ 
+Much of this public discussion was in specific relation to ionization of the air in 
+conjunction with the water gas to create the correct atomic and molecular 
+mixture to produce a fuel that can run an engine. 
+ 
+The normal "HHO" burns VERY FAST. As soon as it explodes, the hydrogen and 
+oxygen rapidly recombine to form water, which is always touted as a benefit - 
+even though it is the most detrimental thing that can happen since that destroys 
+your chances of getting real energy from it. What that means is that you get no 
+real expansive push that can move your pistons with any significant power. If it 
+just turns to water and shrinks in volume, you have no real net push to speak of. 
+As a supplement, that is fine, but as a standalone fuel, you won't create enough 
+to power an engine to make enough electricity to make enough fuel. You will 
+always be operating at a loss and that is expected. So QUALITY not QUANTITY! 
+ 
+If this fast burn or "POP" of the HHO fuel is worthless as a standalone fuel, how 
+do we slow this burn down?  
+ 
+We interfere with the ability of the hydrogen and oxygen to recombine while 
+creating new molecules at the same time. That is about it. 
+ 
+How do we do that? The air is composed of 78% nitrogen. Every breath we take 
+has that much nitrogen.  
+ 
+10 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Nitrogen molecules have a triple electron bond and are the strongest normal 
+electron bond in nature.  
+ 
+ 
+ 
+It normally takes a lot of energy by conventional means to split a nitrogen 
+molecule in order to have atomic nitrogen. Once you split this nitrogen, you have 
+atomic or "active" nitrogen that is very unstable and usually bonds with other 
+atomic nitrogen rapidly so it doesn't stay in atomic form very long.  
+ 
+If you strip the electrons from molecular nitrogen, you wind up with a positively 
+charged nitrogen atom. 
+ 
+Let's say you have ionized this nitrogen so you have a certain quantity of 
+positively charged nitrogen atoms and it is in the vicinity of the water gas when 
+combustion happens, where do you think any negatively charged hydrogen will 
+go? To the oxygen or to the way stronger positive charge of atomic nitrogen? The 
+NITROGEN of course. And, if three hydrogen atoms bond to that nitrogen, you 
+have just created trace amounts of ammonia NH3 as a combustion by product. 
+Stan Meyer personally told a friend of mine who met him in the UK in the 90's 
+that his exhaust smelled like ammonia. Well, no wonder! 
+ 
+In the past, I pointed out a lot of references that includes the works of people 
+such as Sir Humphrey Davy who said in 1807, "...electrolytic hydrogen will 
+combine with nitrogen in the presence of water, while ordinary hydrogen will not." It 
+helps to go back to the old references, because you will often get the straight 
+answers. 
+ 
+And what else? You just prevented the formation of a water molecule and 
+thereby allowed the thermal energy of the hydrogen to be realized.  
+ 
+What that translates to is a SLOW controlled burn. Now ionizing the nitrogen is 
+the ultimate but conceptually, blending normal ambient air with a water fuel cell 
+gas can also dilute it enough to slow the burn as well - or so Stanley Meyer 
+11 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+claims. Therefore, this is a controllable reaction where you can increase or 
+decrease the burn rate of the fuel for whatever purposes you want.  
+ 
+Some of the air will be ionized anyway during the combustion process and 
+especially if plasma ignition is used. If some of the exhaust is recycled, this is a 
+benefit and some of that recycled NH3 and other molecules can condense and 
+build up bit by bit. The plasma ignition is capable of cracking the hydrogen from 
+the NH3. And, NH3 has a higher density of hydrogen than practically anything 
+else.  
+ 
+If you want to get into increasing the ionization of the air, water gas and/or 
+recycled exhaust gases, you can explore Stan Meyer's patented methods for 
+doing that.  
+ 
+If you want to experiment with something simpler, one concept that I have come 
+up with and I'm giving absolutely no claims for it is to use the One Atmosphere 
+Uniform Glow Discharge Plasma (OAUGDP) method. Naudin shows a very 
+simple way to create a discharge panel here: 
+http://jnaudin.free.fr/html/s_gdp1.htm 
+ 
+What my concept involves instead of wrapping those windings around a flat 
+plate is to wind the wire on the inside or outside of a PCV tube. If outside, then 
+have another larger plastic tube where there is airspace and then block the center 
+of the inner tube so the only place air and water gas can go through is between 
+the tubes hitting the windings with the ionizing plasma glow.  
+ 
+When I was talking to a friend about his successes in these experiments, he 
+mentioned this exact website of Naudin's as a basic foundation for the concept 
+except he had some enhancements that makes it even better, but those are 
+proprietary to him so he'll reveal those on his own if he chooses, but in any case, 
+that is a very effective ionization method at low cost and high simplicity.  
+ 
+To learn more about One Atmosphere Uniform Glow Discharge Plasma, go here: 
+https://www.google.com/search?q="One+Atmosphere+Uniform+Glow+Discharg
+e+Plasma" it is very interesting and is still a very unexplored area with high 
+potential for many applications. 
+12 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Anyway, for engines, you want a slower burning fuel and not a quick pop. For a 
+burner flame to cook food or to heat water, you want a slower burning flame. 
+You don't want to cut your water pipes and cookware in half with a Brown's Gas 
+flame!  
+ 
+Stan Meyer has repeated countless times in his documents and commonly 
+known patents that there are non-combustible gases mixed in the water already 
+and this is known. There are in fact various dissolved gases in regular water at it 
+simply comes from the air. That is no mystery and nobody debates that. But 
+Meyer does claim that the dissolved nitrogen in common water is 17%. 
+ 
+Stan Meyer also says that these non-combustible gases must be added to the 
+water fuel in certain proportions to control the burn rate of the fuel. From what I 
+learned from certain individuals and what we were all trying to get everyone to 
+understand is that these non-combustible gases is nitrogen and that is what 
+Meyer was explaining. 
+ 
+Meyer spelled out NITROGEN in an early patent and later hid this by only 
+referring to non-combustible gases.  
+ 
+So here you go - just replace every single reference Meyer ever made to "non-
+combustible" gases and you will see the truth. Just tonight (March 5, 2013), one 
+so-called Stan Meyer "replicator" tries to say that Argon is what Meyer is 
+referencing. Well, Argon is only part of the 1% of trace gases in the atmosphere, 
+78% nitrogen and the rest is oxygen. Beware of these argon claims because 
+they're bogus so keep your guard up. 
+ 
+There are so many self-proclaimed Meyer experts who have denied nitrogen has 
+any part of his technology that it would be a long list to tell you about each and 
+every one of them who would be revealed as frauds once this document is 
+released. They know who they are and so do thousands of others all over the 
+Internet all over the world who follow these subjects in online discussion forums. 
+ 
+13 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Let me start by pointing out the logical deductions that I made from Stan Meyer's 
+own papers and then I will show you in Stan Meyer's own words that he was 
+indeed talking about Nitrogen the entire time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Non-Combustible Gas References 
+ 
+ 
+This chapter is simply showing that Stan Meyer had many obvious references to 
+"non-combustible" gases, which do not directly spell out nitrogen, but we will get 
+to that soon. 
+ 
+ 
+ 
+15 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+The previous image shows that ambient air and exhaust are blending with the 
+water cell and the management system is ionizing it before it goes to get 
+combusted. He is ionizing NITROGEN exactly as described previously. At the 
+bottom of the image, you can see the non-combustible and dissolved gases. 
+Those are all NITROGEN. That is what Meyer is pointing out without naming it.  
+ 
+ 
+ 
+The above image shows the same and you can see that Meyer is saying, "The 
+combustible ionic gas mixture is composed of hydrogen, oxygen and ambient air 
+gases. The hydrogen gas provides the thermal explosive force, the oxygen atoms 
+aids the gas thermal ignition, and the ambient air gases retard the gas thermal 
+ignition process to a controllable state." 
+ 
+If we go no further, is should be glaringly obvious to the reader that without 
+modifying the water fuel with air, we will only have a volatile mix that will not 
+give a controllable burn. 
+ 
+What Meyer is talking about is that the NITROGEN is slowing the burn of the 
+water fuel in order to get the thermal energy out of it.  
+ 
+16 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+He isn't naming Nitrogen yet, but again, we'll get to that soon enough. 
+ 
+ 
+ 
+Above you can see the diagram about his injectors (that never actually worked - 
+it was just an idea he was working with). But #3 is the addition of NITROGEN to 
+accomplish EXACTLY what I have previously described.  
+ 
+17 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+And you can see in that previous image that in multiple patents, he is addressing 
+the same concept and one he does indeed mention nitrogen by name. 
+ 
+18 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+If some of the text in those images are too small, simply download the full 
+patents for free here: 
+http://worldwide.espacenet.com/advancedSearch?locale=en_EP  
+ 
+Just use the PUBLICATION NUMBER field to search those patent numbers, but I 
+think it is fairly easy to see what Meyer is talking about NITROGEN!  
+19 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+An Undeniable Nitrogen Reference 
+ 
+ 
+Now, let's read Meyer's own words where he spells out NITROGEN over and 
+over and is basically one of the most important topic for an early Canadian 
+Patent that the online Meyer experts refuse to admit that it even exists. 
+ 
+"The gasses separated from the water comprise combustible gasses such as 
+hydrogen and oxygen and non-combustible gasses, such as NITROGEN." 
+ 
+"The NITROGEN, oxygen and hydrogen are mixed as they are released in the 
+process..." 
+ 
+"The NITROGEN reduces the velocity and temperature of the burning flame 
+from that of the hydrogen/oxygen mixture. To further control the temperature 
+and velocity of the burning gas mixture there are added to the collection chamber 
+other non-burnable gasses." 
+ 
+"The action of direct current voltage on the non-electrolytic water causes the 
+hydrogen and oxygen atoms to be separated and also released are other gases 
+entrapped in the water such as NITROGEN." 
+ 
+"It has been found that all water in its natural state whether it be tap water, 
+well water, sea water, or fresh water is a saturate of ambient air. Further, in 
+that ambient air contains a SUBSTANTIAL AMOUNT OF NITROGEN, all 
+natural water will have entrapped therein NITROGEN. Again, the percentage of 
+NITROGEN entrapped in natural water has been determined to be a fixed 
+percentage..." 
+ 
+"Another object of the present invention is to provide a hydrogen/oxygen 
+generator that in addition to the hydrogen and oxygen gases releases NON-
+COMBUSTIBLE NITROGEN GAS capable of reducing the burning velocity and 
+temperature of a pure hydrogen/oxygen flame." 
+ 
+20 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+"...non-combustible gases to the gas chamber thereof to thereby further control 
+the burning velocity and temperature of the hydrogen gas." 
+ 
+"...a housing having a chamber for containing natural water therein including 
+entrapped non-combustible gases;" 
+ 
+"...which liberates the hydrogen atoms and oxygen atoms from said water and 
+thereby producing a mixture of hydrogen, oxygen and non-combustible gases;" 
+ 
+"...housing including an inlet for receiving said mixture of hydrogen, oxygen and 
+non-combustible gases;" 
+ 
+"Natural water such as tap, well, sea, or fresh water is an absorber of ambient 
+air and since ambient air contains a substantial amount of NITROGEN gas so 
+does the natural water with the ambient air absorbed therein. In operation of the 
+hydrogen generator, the gases released from natural water are thus nitrogen, 
+hydrogen and oxygen." 
+ 
+"In the preferred embodiment utilizing tap water, the NITROGEN gasses 16 a 
+xxx n are intermixed with the hydrogen..." 
+ 
+"Upon the release of the gases...the gas mixture is ignited to provide flame..." 
+ 
+"The flame 25 is sustained in that the NITROGEN gases 16 a xxx n REDUCES 
+THE VELOCITY AND TEMPERATURE OF THE HYDROGEN GAS 14 a xxx n." 
+ 
+"A realistic and practical manner of further controlling the burning velocity and 
+temperature of the hydrogen gases 14 a xxx n, is by ADDING NON-
+COMBUSTIBLE GASES DIRECTL TO THE HYDROGEN AND OXYGEN 
+GASES GENERATED." 
+ 
+"Typically, tap water contains known percentages of hydrogen, oxygen and 
+NITROGEN. The percentages vary somewhat dependent on the other gases that 
+may be trapped in the tap water." 
+ 
+21 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Am I just taking my earlier advice to just replace the term "non-combustible" 
+gases with the word NITROGEN?  
+ 
+NO! These are Meyer's actual words! The patent is included towards the end of 
+this book and you can see here that it is provided in full original form: 
+http://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&II=0&
+ND=3&adjacent=true&locale=en_EP&FT=D&date=19880426&CC=CA&NR=12356
+69A1&KC=A1 
+ 
+Go get the ORIGINAL DOCUMENT in the left column menu and you can 
+download the original just as I have included it. It may have a few notations 
+different depending on where it is pulling it from, but these are MEYER'S OWN 
+WORDS SPELLING OUT THE INDISPUTABLE FACT THAT NITROGEN IS 
+THE KEY TO MODIFYING THE GAS COMING FROM A WATER FUEL CELL 
+IN ORDER TO SLOW DOWN THE BURN SO YOU CAN ACTUALLY GET THE 
+THERMAL ENERGY FROM IT! 
+ 
+This is Canadiant Patent #420,890. 
+ 
+22 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+23 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+24 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+25 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+26 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+27 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+28 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+29 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+30 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+31 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+32 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+33 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+34 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+
+35 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Notable Meyer Patent References 
+ 
+ 
+Besides nitrogen, Stan Meyer was modifying the water gas with magnetic fields, 
+he was using electrode points and plates before he ever went to the concentric 
+tube electrodes and he even spelled out that he is creating a SYNTHETIC GAS
+ 
+word for word although this is heavily denied by so-called Meyer "experts." 
+ 
+In one of the earliest if not the earliest US Patent for Meyer relating to hydrogen 
+fuel, he specifically states he is creating a synthetic gas, which means it is not 
+simply electrolyzed water gas. US Patent 4,389,981 states: 
+ 
+ 
+ 
+It is easy to see that the new fuel that is created by properly blending oxygen, 
+hydrogen and non-combustible gas, which is nitrogen, this slower non-volatile 
+fuel is a new synthetic gas.  
+ 
+In US Patent 4,421,474, Meyer clearly explains the recycling of exhaust as being 
+part of the non-combustible gases, but also spells out that nitrogen is indeed the 
+dissolved non-combustible gas in water: 
+ 
+36 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+37 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+38 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+This image from this patent clearly shows the recycling of exhaust and the 
+mixing of ambient air (nitrogen): 
+ 
+ 
+ 
+39 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+For another cross reference on the Synthetic Gas reference, see European Patent 
+EP0086439A1: 
+ 
+ 
+ 
+Although Meyer abandoned the US Patent being referenced, it doesn't change 
+the fact that Meyer is clearly creating a new fuel that is different from simply 
+electrolyzed common ducted water gas (hho). 
+ 
+In the following European Patent EP0101761A3, we see several references to 
+nitrogen, by name, just in the abstract alone: 
+ 
+40 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+We can also see in this same patent that Meyer shows that he is diluting the 
+water gas with ambient air. This is in multiple patents by the way. The port on 
+the left allows ambient air to come into the water cell and you can also see that 
+Meyer was not using concentric tubes, but rather very simple flat plates. 
+ 
+41 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+In the following European Patent EP0101761B1, we can see that Meyer again 
+describes the fact that plain hydrogen and oxygen water gas burns too fast and 
+that to slow it down, it must be mixed with nitrogen. And furthermore, he states 
+that water is saturated with 17% nitrogen.  This is a false claim as nitrogen 
+dissolved in water is in the parts per million. 
+ 
+Throughout Meyer's patents, we can also easily see that the nitrogen in water is 
+also split during the electrolysis stage along with hydrogen and oxygen. And 
+according to Sir Davy in 1807, electrolyzed hydrogen will bind to nitrogen in the 
+presence of water! So, we are able to create some traces of ammonia as not just an 
+exhaust by product but as a possible fuel source. 
+ 
+42 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+In the same European Patent, we can see further clarification that it is indeed 
+nitrogen that is reducing the burn rate of the "hho" fuel so that it will equal the 
+burn rate of fossil fuels such as gasoline, which will enable the fuel to burn slow 
+and actually release a lot of heat or thermal combustive energy. 
+ 
+43 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+  
+ 
+In one of Meyer's first Canadian patents, if not the first, he is showing that he is 
+electrolyzing water with points and this is before plates. He is also showing that 
+he is magnetizing the fuel. The overall concept is that with magnetized water 
+fuel can induce a current into electromagnetic windings for the purposes of 
+producing electricity as a power source. See this diagram from his Canadian 
+Patent CA1213671A1: 
+ 
+44 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+In one of his next Canadian Patents CA1227094A1, we can clearly see his method 
+of recycling the exhaust and mixing the water fuel with ambient air. In his 
+European patents, he calls this process "Hydrogen Aeration Injection System." 
+ 
+45 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+In Canadian Patent CA1228833A1, we can see that Meyer is again showing the 
+magnetization of the fuel and this is used to create electricity in windings:  
+46 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Some have claimed that the magnetic conditioning of the fuel is required but this 
+does not seem to hold up to the claims of researchers who have slowed the burn 
+of fuel without magnetizing the fuel. If you want to experiment with this, you'll 
+ultimately find out what the truth is. 
+ 
+However, in regards to the heated denials from the "experts" who claim that 
+Meyer never even talked about Nitrogen, THE DEBATE IS OVER! This report is 
+the final nail in the coffin that puts this to rest once and for all. 
+ 
+EVERY reference to non-combustible fuel that Stan Meyer has used IS a reference 
+to NITROGEN and EXAHUST that contains the NITROGEN.  
+ 
+This is not a matter of perspective, interpretation or semantics. Stan Meyer 
+explicitly spells out word for word in all of these early patents that NITROGEN 
+IS THE NON-COMBUSTIBLE GAS that MUST be mixed with the hydrogen and 
+oxygen water fuel in order to slow down the burn rate. So, essentially, Meyer's 
+47 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+dune buggy was running on water AND NITROGEN (AIR) as plain "HHO" is 
+considered a volatile fuel that is not suitable for combustion in an engine. 
+ 
+48 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Conditioning the Electrodes 
+ 
+ 
+There has always been a question as to whether Stan Meyer ever put his tubes 
+through some kind of conditioning process but very few people have ever put 
+some serious time into actually testing out the idea.   
+ 
+One of the problems with speculating about conditioning is what are the 
+electrodes conditioned with? I'm not even sure where I first learned of the idea. 
+All I know is that I simply submerged my concentric tubes into tap water and 
+applied electricity and after a short while, the negative tubes had a very fine 
+white powder coating, which was a dielectric.  
+ 
+  
+Conditioned Tubes 
+ 
+Many people report that they have never been able to develop this and they get a 
+chronic scum in the water. My experience is that this only happened just a bit, it 
+disappeared and that was that.  
+ 
+Since Meyer in his later patents focused on creating water gas with VOLTAGE 
+POTENTIAL with little to no current, an obvious benefit to this dielectric white 
+powder coating is that you are able to increase the voltage between the 
+49 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+electrodes to a higher than normal voltage since the dielectric is holding back 
+current. There are numerous methods that Meyer describes to limit current to the 
+electrodes. There are no claims here that Meyer was using a white powder 
+coating but suffice to say, it does indeed limit current. 
+ 
+Another benefit to this conditioning process is that over time, it has been claimed 
+by various electro-metal chemistry experts that a "hydrogen loading" process is 
+happening whereby hydrogen evolves at the negative electrodes and actually 
+impregnates the metal. It is unclear as to how the powder coating assists this 
+"hydrogen loading" concept and it is unclear whether this is actually happening. 
+However, from my experience, after the tubes are fully conditioned, there is 
+much more gas created for the same amount of electricity after the conditioning 
+process than without.  
+ 
+Also, when the tubes are conditioned, there is somewhat of an electret effect. The 
+powder gives an inherent negative potential to the inside tube in relation to the 
+outside positive tube. What that means is that the conditioned tubes maintains 
+up to a 2.0 volt potential difference even when there is no external electricity 
+applied. What this means is that the water simply sitting in the gap will be 
+automatically polarized without expending any energy.  
+ 
+If you are using a pulsed DC power supply, when the pulse is off, the water 
+molecules will still be polarized because of the electret effect from the 
+conditioned tubes and it is my contention that this is an obvious efficiency 
+enhancement that Meyer never discussed, but the experiments suggest to be true. 
+ 
+Here is a short video with some clips from around 2007 showing the 
+conditioning method and showing how the layer is non-conductive. It's my belief 
+that the coating is primarily calcium and magnesium oxides.  
+ 
+http://www.youtube.com/watch?v=Lo6iS9LIdmQ  
+ 
+For reference, Ravi, a very proficient engineer in India learned this conditioning 
+method from me and then refined the process and achieved spectacular results.  
+ 
+50 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+You can see some of his videos here: 
+http://www.youtube.com/user/raviwfc/videos  
+ 
+Again, there are no claims that Stanley Meyer did this, but it is something that 
+has shown to increase the gas production in a WFC (water fuel cell) for the same 
+electricity compared to unconditioned tubes. Actually, considering that tap water 
+was used, this process would happen automatically even if there were no intent 
+to do so.  
+51 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Catalysts 
+ 
+ 
+In Meyer's later patents, he disclosed various electrical means to ionize air 
+(dissociate nitrogen molecules) and gas mixtures for the purpose of creating his 
+new "synthetic fuel". But what was he doing early on before using electrical 
+means to ionize the air mixtures? The combustion process itself will ionize a fair 
+amount of the mixture but this is not what I'm referring to. 
+ 
+Stan Meyer does discuss in some of his material a "catalystic dome" or "catalytic 
+block" which is above a flame in certain applications, but this is different from 
+the purpose of this section. 
+ 
+A catalyst is something that speeds a reaction but does not itself get consumed. 
+What I am going to propose is something that sticks out to me like a sore thumb 
+and it is very surprising that there are no references online to any discussions on 
+this concept. Perhaps this is the first time this idea has been proposed in relation 
+to Stanley Meyer's work. This is pure speculation, but the evidence is clear 
+enough to suggest a high probability that Meyer did indeed hide a catalyst "in 
+plain sight".   
+ 
+If we look at one of Meyer's very important patent diagrams, we learn something 
+interesting. The following diagram is from one of his many aeration patents. This 
+one in particular is from patent number EP0111574A1.  
+ 
+We see that the exhaust exits the engine block. Some of the exhaust vents to the 
+environment and some of the exhaust gases are recycled in a closed loop through 
+a cooling chamber #50 before it mixes with the water fuel from the electrolysis 
+cell.   
+52 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+This is what Stan Meyer has to say about the cooling chamber: 
+53 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+ 
+The cooling chamber not only cools the recycled exhaust gases, but doubles as a 
+spark arrestor! Many of us who experiment with HHO know that common steel 
+wool stuffed into a tube is one of the best back flash arrestors and no double will 
+make a great spark arrestor.  
+ 
+Meyer obviously claims that his spark arrestor is to prevent sparks from igniting 
+the water fuel. Of course this is a valid use of a spark arrestor. However, a simple 
+screen or a few layers of screen such as what is commonly put over a generator 
+exhaust outlet can function as a perfectly suitable spark arrestor. So, why does he 
+not simply show where a screen or other simple spark arrestor is inside of the 
+cooling chamber #50?  
+ 
+It is my speculation that the cooling chamber was stuffed with steel wool, since 
+hot IRON is a catalyst that helps to dissociate (ionize) nitrogen molecules!  
+ 
+Iron is a catalyst commonly used in the Haber-Bosch process, which creates the 
+great majority of all industrial ammonia. The temperatures are normally at 
+around 400C but a simple gas generator for example easily has exhaust 
+temperatures between 300-400C  so the required high temperatures is practically 
+met. This would make the steel wool obviously very hot.  
+ 
+Normally in the Haber-Bosch process, extremely high pressures are needed to 
+create ammonia out of nitrogen and hydrogen. However, all we have to do is 
+look back to 1807 when Sir Davy clearly found that electrolytic hydrogen would 
+bind to nitrogen in the presence of water when normal hydrogen would not! 
+And, this was at normal atmospheric pressure and very low temperatures. 
+54 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Stan Meyer did tell my friend in the early 90's in the UK that his exhaust smelled 
+like ammonia.  Even if he wasn't creating ammonia in this stage of the process, 
+the recycled exhaust going through 300-400C hot iron wool would absolutely 
+have a plentiful amount of ionized nitrogen, which would then mix with the 
+water gas from the water fuel cell.  
+ 
+Here is an excerpt from the paper Ammonia Synthesis Promoted by Hot Iron Catalyst 
+by Sandra Bencic: 
+ 
+ 
+ 
+Non-stainless iron wool is abundant and inexpensive and using as a catalyst in 
+an exhaust cooling chamber is a pregnant idea that warrants some serious 
+consideration. 
+ 
+ 
+55 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Vacuum 
+ 
+ 
+It is fairly well known in the field that applying a vacuum to an electrolysis cell 
+will cause more gas production for less energy. This is because the vacuum being 
+pulled on the water itself is trying to pull the water molecules apart.  
+ 
+If we apply a strong enough vacuum to a water chamber, we can cause the water 
+to boil at room temperature. The more pressure there is on the water, the more 
+energy is required to split or boil the water and the less pressure there is, the less 
+energy is required. 
+ 
+Many experimenters apply their engine's vacuum directly to their electrolyzers 
+to increase gas production for less input but it is also an obvious direct route to 
+suck the water fuel right into the intake manifold. 
+ 
+Meyer wasn't applying a direct vacuum to his water fuel cell chamber because it 
+isn't needed. Remember, Meyer was not creating a high quantity of water fuel, 
+but a high QUALITY so pulling a vacuum on a cell to increase production is not 
+needed. 
+ 
+However, if there is certain amount of water gas that is subjected to a vacuum, it 
+will help pull the molecules apart and this would enhance the creation of a new 
+synthetic fuel when it is mixed with ionized air and exhaust gases. 
+ 
+Again, let's look at the very important diagram from Stan Meyer's aeration 
+patent: 
+ 
+56 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+Look specifically at #48 in the diagram. This is the mixing chamber: 
+57 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+ 
+This is the location at which the water fuel is subjected to a negative pressure 
+(vacuum) before it exits the water cell and mixes with the recycled exhaust gases.  
+ 
+The exhaust is obviously going through a restricted diameter area, which speeds 
+it up and increases pressure. As this goes over the small restricted opening, it 
+will pull the water gas out using the Venturi effect, which causes a reduced 
+pressure underneath where the water gas is. Therefore, Meyer obviously is 
+pulling the water gas molecules out of the tube at negative pressure, which will 
+help to break them apart better right as they mix with the recycled exhaust gases.  
+ 
+For all intents and purposes, this mixing valve is no different than a simple 
+carburetor throat with a jet right in the middle where the intake air is sped up 
+through a reduced opening as it goes over the fuel jet's opening, which pulls the 
+fuel out under a negative pressure. 
+ 
+Therefore, even though it has been claimed that Meyer does not apply a vacuum 
+to the cell, it is more than obvious that the water gas is absolutely pulled out 
+under a negative pressure right as it is mixing with the recycled exhaust gases. 
+58 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Ernest E. Punches 
+ 
+ 
+An early patent that I had come across deals with a "mixing device" to mix 
+hydrogen gas from an electrolytic cell with air in order to create a combustible 
+mix for the purposes of running a car on water.  
+ 
+Stan Meyer's early patents look curiously like a knock-off of Earnest E. Punches 
+early patent showing almost the same concept.  
+ 
+Here it is for reference followed by a copy of a very old magazine article on this 
+inventor. US Patent 1,283,891 patented November 5, 1918. Thank you to Artoj for 
+posting this old article online for everyone to see. 
+ 
+ 
+ 
+59 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+60 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+61 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+Obviously there can be no real claims that Stan Meyer copied Ernest E. Punches, 
+but it sure is curious! One thing is for sure, the overall concept that Stan Meyer 
+was dealing with certainly was nothing new contrary to what many Stan Meyer 
+experts claim. 
+ 
+62 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+63 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+
+64 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Summary 
+ 
+ 
+Please take this and run with it. The water fuel world is long overdue for a new 
+path to follow. Some have already been experimenting with these concepts all 
+along but the mass majority of experimenters continue to be deceived by the 
+"experts" or they allow themselves to be seduced by resonant circuits and other 
+parts of Meyer's technology, which will not give the synthetic fuel that Meyer 
+was creating. 
+ 
+No amount of fancy circuitry, PLL (Phase Loop Lock) circuits, special electrode 
+plate materials, or anything else related will allow you to accomplish what Stan 
+Meyer did without recognizing and applying the all-important KEY to his whole 
+method - NITROGEN! 
+ 
+Stan Meyer started out early telling the truth to what he did and how he did it 
+and as soon as those patents were locked in, he changed all the language to hide 
+and obscure the simple key that actually did create the new synthetic fuel.  
+ 
+It is true that the pulsed circuits will produce hho more efficiently, but it's 
+pointless without mixing ambient air and exhaust in order to dilute this water 
+gas so that we can create a new synthetic fuel that has the same burn rate as 
+gasoline. This is not a mystery and it is not some unknown IF Meyer actually did 
+accomplish the feat of running a car on water.  
+ 
+And if he did it, it was clearly by the methods described here and it had nothing 
+to do with creating some large anomalous amount of hho gas in an attempt to 
+beat Faraday's Law of Electrolysis, which is what so many people are trying to 
+do.  
+ 
+I fell for this trap myself and it should be obvious to the reader why the initial 
+step in replicating Stanley Meyer's technology is to first understand what he 
+actually set out to do in his own words and you can see that any common 
+electrolysis cell with basic pulsed DC can create enough hho to prove the point.  
+65 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+This not only clears up what Stan Meyer was actually claiming he was doing, it 
+puts the project back into the hands of the average builder who will never be able 
+to build resonant circuits. 
+ 
+If you do pursue some experiments according to what Stan Meyer actually said 
+he did, please share your results here: 
+http://www.energyscienceforum.com/water-fuel/697-stan-meyer-nitrogen-
+key.html  
+ 
+My hope is that this book will make enough impact so that these concepts that 
+Stan Meyer DID talk about will not fade away to obscurity and be forgotten 
+about again. 
+ 
+Sincerely, 
+Aaron Murakami 
+ 
+ 
+ 
+ 
+ 
+66 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+Tesla Chargers 
+ 
+World's Most Efficient, 
+Effective & Advanced Battery 
+Chargers 
+ 
+DESIGNED BY JOHN BEDINI 
+ 
+Built to Order 
+http://teslachargers.com  
+67 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ 
+ 
+John Bedini - Peter Lindemann 
+ 2013 Science & Technology 
+Conference 
+  
+Another * EXCLUSIVE * One-Of-A-Kind Conference 
+Hosted By A & P Electronic Media, White Dragon Press & EnergenX 
+ 
+Friday June 28th (optional early registration & social evening), 
+Saturday June 29th & Sunday June 30th, 2013 
+ 
+ 
+ 
+Come meet John Bedini & 
+Peter Lindemann 
+PERSONALLY! 
+ 
+Special Guests: 
+Eric Dollard & Jim Murray 
+ 
+68 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+Learn more here: 
+http://www.energyscienceforum.com/bedini-lindemann-2013/  
+ 
+MAKE SURE TO JOIN THE UPDATE MAILING LIST! 
+69 
+ 
+http://waterfuelsecrets.com               http://whitedragonpress.com              http://energyscienceforum.com 
+ 
+ENERGY 
+SCIENCE 
+FORUM 
+ 
+ 
+Where more exciting energy 
+information will be released! 
+ 
+http://www.energyscienceforum.com/register.php 
+ 

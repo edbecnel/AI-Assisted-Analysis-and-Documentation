@@ -1,0 +1,40 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 4493-9453
+
+ Directory of D:\Energy\Water Fuel and Hydrogen\Stanley Meyer\AI Assisted Analysis and Documentation\Stan_Meyer_Source_Archive\01_ocr_searchable_pdfs\canonical_file_names
+
+06/06/2026  09:04 AM         1,065,977 S001_Meyer_PATENT_EP0086439A1_Hydrogen_Gas_Injection_System_for_Internal_Combustion_Engine_UNDATED_ocr.pdf
+06/06/2026  09:04 AM           762,775 S002_Meyer_PATENT_EP0086439B1_Hydrogen_Gas_Injection_System_for_Internal_Combustion_Engine_UNDATED_ocr.pdf
+06/06/2026  09:05 AM           819,168 S003_Meyer_PATENT_EP0098897A2_Electrical_Generator_Utilizing_Magnetized_Particles_UNDATED_ocr.pdf
+06/06/2026  09:05 AM           538,824 S004_Meyer_PATENT_EP0101761A2_Controlled_Hydrogen_Gas_Flame_UNDATED_ocr.pdf
+06/06/2026  09:07 AM           205,664 S005_Meyer_PATENT_EP0101761A3_Controlled_Hydrogen_Gas_Flame_UNDATED_ocr.pdf
+06/06/2026  09:07 AM           382,877 S006_Meyer_PATENT_EP0101761B1_Controlled_Hydrogen_Gas_Flame_UNDATED_ocr.pdf
+06/06/2026  09:08 AM         1,043,621 S007_Meyer_PATENT_EP0103656A2_Resonant_Cavity_for_a_Hydrogen_Generator_UNDATED_ocr.pdf
+06/06/2026  09:08 AM           174,387 S008_Meyer_PATENT_EP0103656A3_Resonant_Cavity_for_a_Hydrogen_Generator_UNDATED_ocr.pdf
+06/06/2026  09:08 AM           874,008 S009_Meyer_PATENT_EP0106917A1_Gas_Electrical_Hydrogen_Generator_UNDATED_ocr.pdf
+06/06/2026  09:09 AM         1,199,781 S010_Meyer_PATENT_EP0111573A1_Hydrogen_Generator_System_UNDATED_ocr.pdf
+06/06/2026  09:09 AM           469,794 S011_Meyer_PATENT_EP0111574B1_Hydrogen_Aeration_Injection_System_UNDATED_ocr.pdf
+06/06/2026  09:10 AM         1,276,157 S012_Meyer_PATENT_EP0122472A2_Hydrogen_Aeration_Injection_System_UNDATED_ocr.pdf
+06/06/2026  09:10 AM           237,787 S013_Meyer_PATENT_EP0122472A3_Hydrogen_Aeration_Injection_System_UNDATED_ocr.pdf
+06/06/2026  09:14 AM           317,884 S014_Meyer_PATENT_CA1213671A1_Electrical_Particle_Generator_UNDATED_ocr.pdf
+06/06/2026  09:15 AM           269,754 S015_Meyer_PATENT_CA1227094A1_Hydrogen_Air_and_Non_Combustible_Gas_Mixing_Combustion_System_UNDATED_ocr.pdf
+06/06/2026  09:15 AM           322,291 S016_Meyer_PATENT_CA1228833A1_Gas_Electrical_Hydrogen_Generator_UNDATED_ocr.pdf
+06/06/2026  09:16 AM           385,272 S017_Meyer_PATENT_CA1231872A1_Hydrogen_Injection_System_UNDATED_ocr.pdf
+06/06/2026  09:16 AM           458,514 S018_Meyer_PATENT_CA1233379A1_Hydrogen_Gas_Injection_for_Internal_Combustion_Engine_UNDATED_ocr.pdf
+06/06/2026  09:17 AM           301,786 S019_Meyer_PATENT_CA1234773A1_Resonant_Cavity_Hydrogen_Generator_That_Operates_with_a_Pulsed_Voltage_Electrical_Potential_UNDATED_ocr.pdf
+06/06/2026  09:17 AM           322,309 S020_Meyer_PATENT_CA1234774A1_Hydrogen_Generator_System_UNDATED_ocr.pdf
+06/06/2026  09:17 AM           351,961 S021_Meyer_PATENT_CA1235669A1_Controlled_Hydrogen_Gas_Flame_UNDATED_ocr.pdf
+06/06/2026  09:18 AM           322,133 S022_Meyer_PATENT_CA2067735A1_Water_Fuel_Injection_System_UNDATED_ocr.pdf
+06/06/2026  09:18 AM           389,438 S023_Meyer_PATENT_EP0333854A4_Controlled_Process_for_the_Production_of_Thermal_Energy_UNDATED_ocr.pdf
+06/06/2026  09:18 AM           573,966 S024_Meyer_PATENT_EP0381722A4_Process_and_Apparatus_for_the_Production_of_Fuel_Gas_UNDATED_ocr.pdf
+06/06/2026  09:19 AM           489,062 S025_Meyer_PATENT_JPS58202352A_Hydrogen_Gas_Injector_for_Internal_Combustion_Engine_UNDATED_ocr.pdf
+06/06/2026  09:19 AM           315,960 S026_Meyer_PATENT_JPS58207610A_Electric_Particle_Generator_UNDATED_ocr.pdf
+06/06/2026  09:10 AM           814,811 S027_Meyer_PATENT_US3970070_Solar_Heating_System_UNDATED_ocr.pdf
+06/06/2026  09:11 AM         1,187,095 S028_Meyer_PATENT_US4265224_MultiStage_Solar_Storage_System_UNDATED_ocr.pdf
+06/06/2026  09:11 AM         5,299,264 S029_Meyer_PATENT_US4275950_Light_Guide_Lens_UNDATED_ocr.pdf
+06/06/2026  09:11 AM           907,676 S030_Meyer_PATENT_US4389981_Hydrogen_Gas_Injector_System_For_Internal_Combustion_Engine_UNDATED_ocr.pdf
+06/06/2026  09:12 AM           488,250 S031_Meyer_PATENT_US4421474_Hydrogen_Gas_Burner_UNDATED_ocr.pdf
+06/06/2026  09:13 AM           616,011 S032_Meyer_PATENT_US4613304_Gas_Electrical_Hydrogen_Generator_UNDATED_ocr.pdf
+06/06/2026  09:13 AM           815,622 S033_Meyer_PATENT_US4613779_Electrical_Pulse_Generator_UNDATED_ocr.pdf
+              33 File(s)     23,999,879 bytes
+               0 Dir(s)  241,013,321,728 bytes free

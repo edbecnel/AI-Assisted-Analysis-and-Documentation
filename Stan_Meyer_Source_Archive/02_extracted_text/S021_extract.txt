@@ -1,0 +1,151 @@
+Controlled hydrogen gas flame
+Abstract
+ABSTRACTA sustained controllable gas flame. The hydrogen generator utilized provides gasses from waterhaving impurities and other gasses entrapped therein. The hydro-gen generator has a chamber forholding a quantity of water and a pair of non-oxidizing electrodes are located in the chamber. Arippling wave form electric potential is applied across the electrodes without any change of polarityand the current flow is limited. The gasses separated from the water comprise combustible gassessuch as hydro-gen and oxygen and non-combustible gasses, such as nitrogen.The nitrogen, oxygen and hydrogen are mixed as they are released in the process and collected as amixture of gasses in a collection chamber of the generator. A nozzle having one or more ports of agiven configuration is con-nected through a line to the uppermost region of the gas collectionchamber of the hydrogen generator. The nitrogen reduces the velocity and temperature of theburning flame from that of the hydrogren/oxygen mixture. To further control the temperature andvelocity of the burning gas mixture there are added to the collection chamber other non-burnablegasses. The configuration of the nozzle and its port opening for sustaining a flame is dependent onthe mixture of gasses utilized and restricted thereby. An increase in the size of the flame requiresadditional port openings to prevent blowout.
+Classifications
+F02B43/10 Engines or plants characterised by use of other specific gases, e.g. acetylene,oxyhydrogen
+View 2 more classifications
+Landscapes
+Engineering & Computer Science
+Chemical & Material Sciences
+CA1235669A
+Canada
+ Find Prior Art  Similar
+Other languages: French
+Inventor: Stanley A. Meyer
+Current Assignee: Individual
+Worldwide applications
+1982DEATEP1983CAJP
+Application CA000420890A events 
+1983-02-04Application filed by Individual
+1988-04-26Application granted
+1988-04-26Publication of CA1235669A
+Status Expired
+Info: Patent citations (11), Cited by (5), Legal events, Similardocuments, Priority and Related Applications
+External links: Espacenet, Global Dossier, CIPO, Discuss
+Claims (9) Hide Dependent 
+THE EMBODIMENTS OF THE INVENTION IN WHICH AN EXCLUSIVE PROPEROR PRIVILEGE IS CLAIMED ARE DEFINED AS FOLLOWS:
+1. An apparatus for generating gases from water and for the controlled burning of the gases generated thereby comprising:a housing having a chamber for containing natural water therein including entrapped non-combustible gasses;a pair of similar non-oxidizing electrodes in said chamber and adapted to be connected to a source of rippling wave form direct current voltage in which the current flow isrestricted to provide a force action on water in said chamber, which liberates the hydrogen atoms and oxygen atoms from said water as well as non-combustible gasesdissolved in said water and thereby producing a mixture of hydrogen, oxygen and non-combustible gases;a gas collection chamber in said housing for collecting and intermixing said released gases; and a nozzle attached to the gas collection chamber of said housing including aninlet for receiving said mixture of hydrogen, oxygen and non-combustible gases;said nozzle having a port of predetermined size and configuration for expelling said mixed gases at a rate so as to sustain a flame from the gases that are liberated from thewater.
+2. The apparatus of Claim 1 including means for separately introducing non-combustible gases to said gas collection chamber.
+3. The apparatus of Claim 2 including valve means for controlling the amount of non-combustible gases introduced into said chamber.
+4. The apparatus of Claim 1 wherein said nozzle has a plurality of separate ports to thereby control the flame.
+5. A method of producing a combustible gaseous mixture and sustaining controlled burning thereof comprising:(a) providing a quantity of water in a water holding chamber having a pair of similar non-oxidizing electrodes therein;(b) applying a rippling wave form electric potential across said electrodes without any change of polarity and limiting the current flow so as to liberate hydrogen atoms andoxygen atoms from the water molecules as well as non-combustible gases dissolved in the water and thereby provide combustible and non-combustible gases;(c) collecting and intermixing said gases; and (d) providing a nozzle having at least one port of predetermined size and configuration such that the gaseous mixture flowstherethrough at a rate so as to sustain a flame.
+6. The method of Claim 5 including the step of burning said gaseous mixture at said nozzle port.
+  P a t e n t s
+Show more
+
+7. The method of Claims 5 or 6 including the step of adding further non-combustible gases to said intermixed gases to provide a combustible gas mixture with a selectedburn rate.
+8. The method of Claim 7 including the step of burning said gaseous mixture at said nozzle port.
+9. The method of Claims 7 or 8 including the step of adding further non-combustible gases to said intermixed gases to provide a combustible gas mixture with a selectedburn rate.
+Description
+~ ~5~9 This invention relates to appara~us for generating gases from water and for the controlled burning of such generated gases.
+The present invention utilizes the hydrogen/oxygen generator disclosed and claimed in my co-pending Canadian Patent Application Serial No. 420,908 filed 4 February,1983 and entitled "HYDROGEN GENERATOR SYSTEM". In the process disclosed in said application for separating hydrogen and oxygen atoms from lO water havingimpurities, water is passed between two plates of similar non-oxidizing metal~ No electrolyte is added to the water. The one plate has placed thereon a positive potentialand the other a negative potential from a very low amperage direct-current power source. The action of the direct current voltage 15 on the non-electrolytic water causesthe hydrogen and oxy~en atoms to be separated and also released are other gases entrapped in the water such as nitrogen. Contaminants in the water that are notreleased as gases are forced to separate from the water and may be collected or utilized and disposed of in a ~nown 20 manner.
+Direct current acts as a static force on the water molecules and a non-regulated rippling direct current acts as a dynamic force. Pulsating the direct current furtherenhances the release of the hydrogen and oxygen atoms from the water 25 molecules.
+The electrolysis process for generating hydrogen and oxygen gas from water is well known in the art. It is, of course, further understood with a proper mixture of oxygengas, the hydrogen gas is combustible and under ideal conditions a 30 flame, may be had. ~eference i~ made to U.~. Patent 4,1~,921.However, in that the burning velocity of hydrogen i~ so great (265-S25 cm./sec. versus 37-45 cm./sec. for gasoline~ the hydrogen ensuing from a nozzle will not underordinary circumstances sustain a flame.
+~356~7 Therefore, to sustain a flame at a nozæle attached to a hydrogen generator the burning velocity of the hydrogen ga3 must be reduced.
+It has been found that all water in its natural state 5 whether it be tap water, well water, sea water, or fresh water i3 a saturate of ambient air. Further, in ~hat ambient aircontains a substantial amount of nitrogen, all natural water will have entrapped therein nitrogen. Again, the percentage of nitrogen entrapped in natural water has beendetermined to be a fixed 10 percentage and very uniform irrespective of the source of the water or its impurities.
+A principal object of the present invention is to provide a new and improved hydrogen/oxygan generator that is operable from a water source that provideshydrogen/oxygen output lS that will have a sustained burn.
+Another object of the present invention is to provide a hydrogen/oxygen generator that in addition to the hydrogen and oxygen gases releases non-combustible nitrogengas capable of reducing the burning velocity and temperature of a pure 20 hydrogen/o~ygen flame.
+A further object of the present invention is to provide a hydrogen generator that includes the controlled addition of other non-combustible gases to the gas chamberthereof to thereby further control the burning velocity and 25 temperature of the hydrogen gas.
+In accordance with the present invention a nozæle i~connected to a gas collection chamber via an appropriate line and has a port opening of a controlled size and configuration, related to the si~e of the flame and thetemperature and velocity 30 of the burning gas mixture. To maintain the flame, i.e. prevent blowout, additional nozzles are included when the overall flame 35~69 size isto be increased.
+More particularly there is provi~ed in accordance with the present invention an apparatus for generating gases from water and for the controlled burning of the gasesgenerated S thereby comprising:a housing having a chamber for containing natural water therein including entrapped non-combustible gases;a pair of similar non-o~idizing electrodes in said chamber and adapted to be connected to a source of rippling 10 wave form direct current voltage in which the currentflow is restricted to provide a force action on water in said chamber, which liberates the hydrogen atoms and oxygen atoms from said water as well as non-combustiblegases dissolved in said water and thereby producing a mixture of hydrogen, oxygen and non-15 combustible gases;a gas collection chamber in said housing forcollecting and intermixing said released gases; and a nozzle attached to the gas collection chamber of said housingincluding an inlet for receiving said mixture of 20 hydrogen, oxygen and non-combustible gases;said nozzle having a port of predetermined size and configuration for expelling said mixed gases at a rate so as to sustain a flame from the gases that are liberated fromthe water~
+The invention is illustrated by way of example i~ the accompanying drawings wherein:Figure 1 is a cross-sectional view of a hydrogen generator illustrating the features of the present invention in its most preferred embodiment incorporated therein; andFigure 2 is a front face vlew of a nozzle having increased number of nozzle ports to increase the flame size.
+Referring to the drawings the hydrogen generator 10 i~ the subject of my aforementioned co-pending application Serial l~S6~;~
+No. 420,908. The generator 10 comprises a closed watertight housing 12 having a quantity of natural water 13 in the bottom thereof. Submerged in the water 13 is a pairof plates 15 (one not shown) which have a direct curren-t low amperage voltage, 5 applied thereto via connector 11 during operation. A~ 3et forth in my co-pendingpatent application supra, the electrical potential applied to the similar non-oxidizing metal plate~ is a sub-atomic action. In this way the hydrogen atoms 14 a xxx n andthe oxygen atoms 18 a xxx n are released from the water molecule.
+Unlike the electrolysis process for generatlng hydrogen from distilled water, the hydrogen generator of my aforementioned patent application, utilizes water 13 that neednot be pure --- simply any water irrespective of contaminants and source.
+Natural water such as tap, well, sea, or fresh water is an absorber of ambient air and since ambient air contain~ a substantial amount of nitrogen gas so does the natural
+water with the ambient air absorbed therein. In operation of the hydrogen generator, the gases released from natural water are thus 20 nitrogen, hydrogen and oxygen.
+In the preferred embodiment utilizing tap water, the nitrogen gasses 16 a xxx n are intermixed with the hydrogen gases 14 a xxx n and the oxygen gases 1~ a xxx n in thechamber 19 of the hydrogen generator 10.
+Upon release of the gases via line 24 and nozzle 20 and then port 22 the gas mixture is ignited to provide flame 25.
+The flame 25 is sustained in that the nitrogen gases 16 a xxx n reduces the burning velocity and temperature of the hydrogen gas 14 a xxx n.
+A realistic and practical manner of further 5~6~
+controlling the burning velocity and temperature of the hydrogen gases 14 a xxx n, is by adding non-combustible gases directly to the hydrogen and oxygen gasesgenerated. This 18 accompli3hed by inlet 30 to -the upper yas chamber 19 of the hydrogen generator.Valve means 35 is adjustable to control the amount of non-combustible gases 37, added to the gas chamber 19.
+The nozzle 20 connected to the chamber 19 of the generator 10 via line 17, is of a given configuration to permit a predetermined quantity of gases to be expelled from theport 22.The port sizw is dependent on the gases generated, and collected in the chamber 19, the pressure of the chamber 19 of the generator 10, and the size of the flamedesired.
+To increase the size of the flame 25 would appear to be a simple matter of increasing the rate of gases generated.lS However, an increa~e of gases merely causes a blowout at the port or opening 22 of the nozzle 20. This flame blowout will occur since an increase in hydrogen gasgeneration disrupts the ratio of the initial mixture even thou~h the percentages remain constant. Typically, tap water contains known percentages of hydrogen, oxygen,and nitrogen. The percentages vary somewhat dependent on the other gases that may be trapped in the tap water. The increase in production will not affect thepercentages but it must be appreciated that the volume of the gases will be proportionately increased. In turn, the volume being directly related to pressure, the pressurewill be similarly increased.
+To effectively reduce or counteract the velocity due to the increased pres3ure of the hydrogen gas mixture in the chamber l9 a large port 22 would appear to be capableof handling the increased pressure, but as aforesaid, a larger port with a high velocity hydrogen gas mixture will cau~e a flame blowout. To sustain a larger flame withincreased pressure, additional nozzles having ports 22 a xxx n 5;69 or, a no~le 20 with multiple ports 22 a ~x n as ~hown in Figure
+2, can be used. The larger the de~ired flame the yreater will be the number of ports required.
+It can be understood that a port that will not 5 sustain a flame does present a safety factor relative to hydrogen spark back to the chamber 19. Hence, controlling the sizeof the port 22 in effect provides a quencher of hydrogen spark back, Although certain and specific embodiments are shown and described it is within the 3cope and spiritof the present 10 invention to include alternatives and modifications thereto.
+Patent Citations (11)
+Publication number Priority datePublication dateAssignee Title
+Family To Family Citations
+FR721354A * 1931-08-141932-03-02 Method and device for increasing the power of automobile engines and thelike
+FR1178241A * 1957-07-061959-05-05 Apparatus for making an explosive gas mixture
+US3616779A * 1970-06-221971-11-02 American EnvironmentalResearc Gas fueled internal combustion engine
+US3648668A * 1970-07-081972-03-14 Ebert Michael Gas-operated internal combustion engine
+US3977365A * 1973-08-061976-08-31 Vierling Donald E Method of oxidizing fuels
+US3982878A * 1975-10-091976-09-28 Nissan Motor Co., Ltd. Burning rate control in hydrogen fuel combustor
+US4184921A 1976-03-251980-01-22 Boehringer Mannheim GmbhProcess and reagent for determining cholesterol
+US4111160A * 1976-04-161978-09-05 Talenti Pier F Method and apparatus for operating combustion engines
+DE2641228A1 * 1976-09-141978-06-01 Rudolf Werner Schmitz Gas mixt. powered vehicle - uses hydrogen and oxygen produced byelectrolysis as fuel source
+GB1549738A * 1977-04-041979-08-08 Bell R Method and apparatus for producing and burning hydrogen gas
+US4389981A * 1982-02-171983-06-28 Meyer Stanley A Hydrogen gas injector system for internal combustion engine
+* Cited by examiner, †  Cited by third party
+Cited By (5)
+Publication number Priority date Publication date Assignee Title
+WO2008017153A1 * 2006-08-10 2008-02-14 Cropley Holdings Ltd. Method and apparatus for producing a visible hydrogen flame
+Family To Family Citations
+CA1231872A * 1983-03-23 1988-01-26 Stanley A. Meyer Hydrogen injection system
+KR100379768B1 * 1999-09-04 2003-04-10 김상남 Energy creating and producting device from cycling combustion of brown gas
+TW409828U * 1999-10-29 2000-10-21 Lin Yang Cheng High oxygen gas generator
+CN111156078A * 2020-01-03 2020-05-15 北京工业大学Two-stroke hydrogen-oxygen fuel rotor machine and control strategy thereof
+* Cited by examiner, †  Cited by third party, ‡  Family to family citation
+Similar Documents
+Publication Publication DateTitle
+WO1991007525A3 1991-10-17 Apparatus for gas generation
+HUT74703A 1997-02-28 Arrangement and method for the electrolysis of water plasma furnace, thermal furnace and method for supplying gas into them,burner arrangement, gas generator, as well as apparatus for welding and cutting
+IL97099A0 1992-03-29 Infusion pump with safety means controlling the electrolytic cell
+CA2036291A1 1991-08-16 Operation method for power generation system using fuel cell
+CA2025654A1 1991-03-20 Method of and apparatus for utilizing and recovering co2 combustion exhaust gas
+CA2141880A1 1994-02-17 Hydrogen/oxygen fuel cell
+CA1235669A 1988-04-26 Controlled hydrogen gas flame
+JP3420565B2 2003-06-23 Rich oxygen gas generator
+WO2002015309A3 2003-01-30 Electrochemical fuel depletion means for high temperature fuel cell generators
+US3888749A 1975-06-10 Electrolytic separation of oxygen from air
+JPS56127781A 1981-10-06 Vibration-proof type water electrolysis device
+JPH0397879A 1991-04-23 Gaseous oxygen and hydrogen generator
+DE112023000013T52024-01-18 The drive process for the combined combustion of nuclear energy and chemical energy from fossil fuels
+JPS5595602A 1980-07-21 Oxygen concentration controlling method
+JPS5439383A 1979-03-26 Continuous reactor
+JPS579803A 1982-01-19 Sintering method
+JPS5719974A 1982-02-02 Molten salt fuel cell system
+JPS54109387A 1979-08-27 Etching method
+RU95100140A 1996-08-10 Method for controlling moisture content of low-temperature oxyhydrogen storage cell
+US3347759A 1967-10-17 Electrochemical method and apparatus for producing a protective gas mixture consisting of nitrogen and hydrogen
+Silin 1992 Functional Dependence of the Burning Rate of Magnesium+ NaNO sub 3 Mixtures on Many Variables
+JPS578289A 1982-01-16 Fuel for welding and cutting
+JPS5511013A 1980-01-25 Tritium separating apparatus
+JPS52121959A 1977-10-13 Electrically floating and separating apparatus
+JPS56124488A 1981-09-30 Water purifier
+Priority And Related Applications
+Applications Claiming Priority (2)
+Application Filing date Title
+US41197782A 1982-08-25
+US411,977 1989-09-25
+Legal Events
+Date Code Title Description
+2005-04-26 MKEX Expiry
+Concepts
+machine-extracted  DownloadFilter table
+Name Image Sections Count Query match
+Hydrogen title,abstract,description400.000
+gas claims,abstract,description620.000
+hydrogen claims,abstract,description390.000
+hydrogen claims,abstract,description390.000
+water claims,abstract,description360.000
+mixture claims,abstract,description160.000
+atomic oxygen claims,abstract,description150.000
+oxygen claims,abstract,description150.000
+oxygen claims,abstract,description150.000
+method claims,abstract,description90.000
+oxidative effect claims,abstract,description50.000
+natural water claims,description80.000
+hydrogen atom claims,description60.000
+oxygen atom claims,description60.000
+gaseous mixture claims40.000
+Atomic nitrogen abstract,description240.000
+nitrogen abstract,description110.000
+dependent effect abstract,description30.000
+impurity abstract,description30.000
+sustained effect abstract,description30.000
+Show all concepts from the description section
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

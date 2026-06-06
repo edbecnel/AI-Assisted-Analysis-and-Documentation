@@ -1,0 +1,384 @@
+(ffi)  Qjjt  European  Patent  Office  ®  Publication  number:  0101  761 
+Office  europeen  des  brevets  B  1 
+©  EUROPEAN  PATENT  SPECIFICATION 
+®  Dateof  publication  of  patent  specification:  28.03.90  ©  Int.  CI.5:  F  23  D  14/02,  C  25  B  1/04 
+®  Application  number:  82111597.9 
+®  Date  of  filing:  14.12.82 
+@  An  apparatus  for  generating  gases  from  water  and  for  contolled  burning  of  said  gases. 
+(§)  Priority:  25.08.82  US  41  1977  ®  Proprietor:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123  (US) 
+(43)  Dateof  publication  of  application: 
+07.03.84  Bulletin  84/10 
+®  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway 
+(45)  Publication  of  the  grant  of  the  patent:  Grove  City  Ohio  43123  (US) 
+28.03.90  Bulletin  90/13 
+(§)  Representative:  Wasmeier,  Alfons,  Dipl.-lng. 
+(§)  Designated  Contracting  States:  etal 
+AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE  Postfach  382  Greflingerstrasse  7 
+D-8400  Regensburg  (DE) 
+@)  References  cited: 
+EP-A-0  086439 
+DE-A-2  641  228 
+FR-A-721  354 
+FR-A-1  178241 
+FR-A-2  096416 
+GB-A-1549738 
+US-A-3  648  668 
+US-A-3977  365 
+US-A-3982878 
+US-A-4111  160 
+Note:  Within  nine  months  from  the  publication  of  the  mention  of  the  grant  of  the  European  patent,  any  person  may 
+give  notice  to  the  European  Patent  Office  of  opposition  to  the  European  patent  granted.  Notice  of  opposition  shall 
+be  filed  in  a  written  reasoned  statement.  It  shall  not  be  deemed  to  have  been  filed  until  the  opposition  fee  has  been 
+paid.  (Art.  99(1  )  European  patent  convention). 
+Europaisches  Patentamt 
+European  Patent  Office 
+Office  europeen  des  brevets 
+Courier  Press,  Leamington  Spa,  England. 
+
+1 EP  0  101  761  B1 2 
+Description 
+This  invention  refers  to  an  apparatus  according 
+to  the  introductory  part  of  claim  1. 
+The  electrolysis  process  for  generating  hydro- 
+gen  and  oxygen  gas  is  well  known  in  the  art.  With 
+a  proper  mixture  of  oxygen  gas  the  hydrogen  gas 
+is  combustible  and  under  ideal  conditions  a  flame 
+may  be  obtained.  However,  because  the  burning 
+velocity  of  hydrogen  is  265  —  325  cm/sec  versus 
+37  —  45  cm/sec  of  that  of  gasoline,  the  velocity  of 
+hydrogen  is  so  high  that  the  hydrogen  ensuing 
+from  a  nozzle  will  not  under  ordinary  circum- 
+stances  sustain  a  flame. 
+Therefore,  to  sustain  a  flame  at  a  nozzle 
+attached  to  a  hydrogen  generator  the  burning 
+velocity  of  the  hydrogen  gas  must  be  reduced. 
+It  has  been  found  that  all  water  in  its  natural 
+state,  whether  it  be  tap  water,  well  water,  sea 
+water,  or  fresh  water  is  a  saturate  of  ambient  air. 
+As  ambient  air  contains  a  substantial  amount  of 
+nitrogen,  all  natural  water  will  have  entrapped 
+therein  nitrogen.  The  percentage  of  nitrogen 
+entrapped  in  natural  water  has  been  determined 
+to  be  a  fixed  percentage  of  very  uniform  at 
+seventeen  (17%)  percent  irrespective  of  the 
+source  of  the  water  or  its  impurities.  Hence,  a 
+natural  water  gas  analysis  will  show  a  seventeen 
+percent  of  nitrogen  relative  to  the  hydrogen  and 
+oxygen. 
+From  Applicant's  EP—  A—  0  086  439  a  hydrogen 
+gas  generator  system  with  a  mixing  chamber  is 
+known,  in  which  hydrogen  gas,  ambient  air  as  a 
+source  of  oxygen  and  exhaust  gas  are  mixed. 
+Said  mixing  chamber  is  provided  with  a  trap  area 
+to  which  the  hydrogen  gas  and  the  exhaust  gas 
+are  supplied  and  are  mixed  so  that  the  mixture  of 
+hydrogen  and  exhaust  gas  is  directed  down- 
+wardly  and  the  ambient  air  inlet  flow  is  directed 
+opposite  to  the  outlet  flow  of  the  mixed  gases. 
+This  system  uses  entirely  different  apparatus  as  a 
+hydrogen  generator  and  a  mixing  chamber,  and 
+the  gas  generator  itself  does  not  teach  any  nozzle 
+with  an  outlet  port  for  providing  a  flame  nor  any 
+adjustable  valve  means  for  controlling  the 
+amount  of  non-combustible  gases. 
+A  hydrogen  generator  with  the  features  stated 
+in  the  preamble  of  the  main  claim  of  this  applica- 
+tion  is  described  by  DE—  A—  26  41  228.  This 
+known  system  shows  a  water  disintegrating 
+device  for  generating  hydrogen  and  oxygen  sup- 
+plied  to  the  cylinders  of  an  engine,  and  uses 
+destilled  water  with  10%  sulfuric  acid  for  generat- 
+ing  hydrogen  and  oxygen  by  electrolysis,  how- 
+ever,  does  not  teach  an  apparatus  according  to 
+the  subject  invention. 
+US  —  A—  41  11  160  describes  an  apparatus  for 
+generating  hydrogen  by  electrolysis  and  for  oper- 
+ating  an  internal  combustion  engine  with  hydro- 
+gen,  air  and  hydrocarbon  fuel.  The  hydrogen 
+generator  uses  tap  water  instead  of  destilled 
+water,  however,  this  system  otherwise  has 
+nothing  in  common  with  the  apparatus  according 
+to  this  invention. 
+Moreover,  US—  A—  36  48  668  shows  a  gas 
+operated  internal  combustion  engine  using  sea 
+water  highly  saturated  with  salt.  This  is  contrary 
+to  the  teaching  of  the  subject  invention,  which 
+operates  with  any  type  of  water.  Besides  of  this 
+5  difference,  the  subject  matter  of  this  application 
+according  to  the  characterising  clause  of  the  new 
+main  claim  cannot  be  derived  from  this  docu- 
+ment. 
+US—  A—  39  82  878  and  39  77  365  both  describe 
+10  the  possibility  of  adding  a  diluent  for  controlling 
+the  burning  of  fuel  oxygen  mixture;  such  diluent 
+gas  can  be  carbon  dioxide  or  argon,  however, 
+from  these  two  documents  an  apparatus  accord- 
+ing  to  the  subject  invention  cannot  be  derived  by 
+15  the  average  expert. 
+The  object  of  the  present  invention  is  to  provide 
+a  hydrogen/oxygen  generator,  which  in  addition 
+to  the  hydrogen  and  oxygen  gases  releases  non- 
+combustible  nitrogen  gas  capable  of  reducing  the 
+20  burning  velocity  and  temperature  of  a  pure  hydro- 
+gen/oxygen  flame,  and  includes  the  controlled 
+addition  of  other  non-combustible  gases  to  the 
+gas  chamber  thereof  to  thereby  further  control 
+the  burning  velocity  and  temperature  of  the 
+25  hydrogen  gas  and  to  adjust  the  burn-rate  of  the 
+hydrogen/air  gas-mixture  to  co-equal  the  burn 
+rate  of  fossile  fuels  to  obtain,  sustain  and  main- 
+tain  an  open-air  hydrogen/oxygen  flame  without 
+the  aid  of  a  second  re-heat  energy  source. 
+30  In  accordance  with  the  present  invention  an 
+apparatus  according  to  the  introductory  part  of 
+claim  1  is  provided  with  the  features  of  the 
+characterising  part  of  claim  1.  The  natural  water 
+hydrogen  generator  is  a  multi-gas  generator 
+35  releasing  hydrogen,  oxygen  and  ambient  air 
+gases  in  a  uniform  gas  mixture  by  way  of  voltage 
+stimulation,  the  non-combustible  gases  (which 
+means  gases  that  do  not  support  the  gas  combus- 
+tion  process)  derived  from  the  ambient  air  gases 
+40  entrapped  in  the  natural  water  intermix  with  the 
+hydrogen/oxygen  gases  forming  a  uniform  gas 
+mixture. 
+The  nozzle  connected  to  the  collection  chamber 
+via  an  appropriate  line  has  a  port  opening  of  a 
+45  controlled  size  and  configuration  related  to  the 
+size  of  the  flame  and  the  temperature  and  velocity 
+of  the  burning  gas  mixture.  To  maintain  the 
+flame,  that  is  to  prevent  blowout,  additional 
+nozzles  are  included  when  the  overall  flame  size  is 
+so  to  be  increased. 
+The  invention  is  illustrated  by  way  of  example 
+in  the  accompanying  drawings,  wherein: 
+Figure  1  is  a  cross-section  view  of  a  hydrogen 
+generator  illustrating  the  features  of  the  present 
+55  invention  in  its  most  preferred  embodiment  incor- 
+porated  therein,  and 
+Figure  2  is  a  front  face  view  of  a  nozzle  having 
+an  increased  number  of  nozzle  ports  to  increase 
+the  flame  size. 
+bo  The  hydrogen  generator  10  comprises  a  closed 
+water-tight  housing  12  having  therein  natural 
+water  13.  Submerged  in  the  water  13  is  a  pair  of 
+plates  15  having  a  direct  current  low  amperage 
+voltage,  via  connector  11,  applied  thereto. 
+65  Unlike  the  electrolysis  process  for  generating 
+2 
+
+3 EP  0  101  761  B1 
+hydrogen  from  distilled  water,  the  hydrogen 
+generator  utilizes  water  13  that  needs  not  be 
+pure  —  simply  any  water  irrespective  of  contami- 
+nents  and  source. 
+Natural  water  such  as  tap,  well,  sea  or  fresh 
+water  is  an  absorber  of  ambient  air.  Ambient  air  in 
+turn  contains  a  substantial  amount  of  nitrogen 
+gas.  Water  as  an  absorber  of  ambient  air  will 
+entrap  seventeen  percent  (17%)  of  nitrogen  gas; 
+that  is  natural  water  absorbs  seventeen  percent 
+(17%)  of  nitrogen  gas  in  comparison  to  its  hydro- 
+gen  and  oxygen  gas  content.  In  operation  of  the 
+hydrogen  generator  the  gases  in  the  water  will  be 
+released.  Therefore,  when  natural  water  is  used 
+the  air  will  be  released  together  with  the  hydro- 
+gen  and  oxygen  gases. 
+In  the  preferred  embodiment  utilizing  tap  water, 
+the  nitrogen  gases  16a  —  16n  are  intermixed  with 
+the  hydrogen  gases  14a  —  14n  and  the  oxygen 
+gases  18a—  18n  in  the  chamber  19  of  the  hydro- 
+gen  generator  10. 
+Upon  release  of  the  gases  via  line  24  and  nozzle 
+20  and  then  port  22  the  gas  mixture  is  ignited  to 
+provide  a  flame  25.  Flame  25  is  sustained  in  that 
+the  nitrogen  gases  16a  —  16n  reduce  the  burning 
+velocity  and  temperature  of  the  hydrogen  gas 
+14a  —  14n. 
+A  realistic  and  practical  manner  of  further  con- 
+trolling  the  burning  velocity  and  temperature  of 
+the  hydrogen  gases  14a  —  14n  is  by  adding  non- 
+combustible  gases  directly  to  the  hydrogen  and 
+oxygen  gases  generated.  This  is  accomplished  by 
+inlet  30  to  the  upper  gas  chamber  19  of  the 
+hydrogen  generator.  Valve  means  35  is  adjustable 
+to  control  the  amount  of  non-combustible  gases 
+16a  —  16n  added  to  the  gas  chamber  19. 
+The  nozzle  20  connected  to  the  chamber  19  of 
+the  generator  10  via  line  17  is  of  a  given  con- 
+figuration  to  permit  a  predetermined  quantity  of 
+gases  to  be  expelled  from  the  port  22.  The  port 
+size  is  dependent  on  the  gases  generated  and 
+collected  in  the  chamber  19,  the  pressure  of  the 
+chamber  19  of  the  generator  10,  and  the  size  of 
+the  flame  desired. 
+Increasing  the  size  of  the  flame  25  would 
+appear  to  be  a  simple  matter  of  increasing  the 
+rate  of  gases  generated.  However,  an  increase  of 
+gases  merely  causes  a  blowout  at  the  port  22 
+opening  of  the  nozzle  20.  This  flame  blowout  will 
+occur  since  an  increase  in  hydrogen  gas  genera- 
+tion  disrupts  the  ratio  of  the  initial  mixture  even 
+though  the  percentages  remain  constant. 
+Typically,  tap  water  will  contain  62%  hydrogen, 
+31%  oxygen,  and  17%  nitrogen,  in  actuality  the 
+percentages  may  be  somewhat  less  dependent 
+on  the  other  gases  that  may  be  tapped  in  the  tap 
+water.  The  increase  in  production  will  not  affect 
+the  percentages  but  it  must  be  appreciated  that 
+the  volume  of  the  gases  will  be  proportionately 
+increased.  In  turn,  the  volume  being  directly 
+related  to  pressure,  the  pressure  will  be  similarly 
+increased. 
+To  effectively  reduce  or  counter  the  velocity 
+due  to  the  increased  pressure  of  the  hydrogen  gas 
+mixture  in  the  chamber  19,  a  larger  port  22  would 
+appear  to  be  capable  of  handling  the  increased 
+pressure.  But,  as  aforesaid,  a  larger  port  and  the 
+concentration  of  the  high  velocity  hydrogen  gas 
+mixture  will  cause  a  flame  blowout.  To  sustain  a 
+5  larger  flame  with  increased  pressure,  additional 
+nozzles  20a—  20n  having  ports  22a—  22n  or  a 
+nozzle  20  with  multiple  ports  22a—  22n  shown  in 
+Figure  2,  of  predetermined  port  size,  will  be  added 
+to  line  24.  Accordingly,  the  larger  the  desired 
+w  flame  the  greater  the  number  of  ports. 
+It  can  be  understood  that  a  port  that  will  not 
+sustain  a  flame  does  present  a  safety  factor 
+relative  to  hydrogen  spark  back  to  the  chamber 
+19.  Hence,  the  size  of  the  port  22  has  the  effect  as 
+15  a  quencher  of  hydrogen  spark  back. 
+Claims 
+1.  An  apparatus  for  generating  gases  from 
+20  water  and  for  controlled  burning  of  said  gases, 
+comprising  a  water-tight  housing  (12)  with  a 
+chamber  containing  water  (13)  in  its  lower  part,  a 
+pair  of  similar  non-oxidizing  electrodes  (15)  in 
+said  lower  part  of  said  chamber  having  direct 
+25  current  of  low  amperage  voltage  applied  thereto, 
+a  gas  collection  room  (19)  in  the  upper  part  of  said 
+chamber  for  collecting  said  generated  gases,  a 
+nozzle  (20)  connected  to  the  top  of  said  collection 
+room  (19)  of  said  chamber,  said  nozzle  including 
+30  an  inlet  for  receiving  said  released  gases  and 
+having  an  outlet  port  of  a  predetermined  size  and 
+configuration,  characterized  in  that  the  water  in 
+said  chamber  is  natural  water  including  entrap- 
+ped  air,  in  that  the  generated  hydrogen  and 
+35  oxygen  gases  and  the  released  air  out  of  said  air 
+containing  water  are  collected  in  said  collection 
+room  (19)  in  the  upper  part  of  said  chamber,  in 
+that  an  inlet  (30)  supplying  non-combustible 
+gases  to  said  collection  room  (19)  is  provided  at 
+40  the  upper  part  of  said  chamber,  said  inlet  being 
+connected  to  a  supply  line  with  an  adjustable 
+valve  (35)  controlling  the  amount  of  non-com- 
+bustible  gases  supplied  to  said  collection  room 
+(19)  of  said  chamber,  and  in  that  said  outlet  port 
+45  (22)  is  related  to  the  ratio  of  gases  in  the  collection 
+chamber  to  provide  a  flame  of  a  predetermined 
+velocity  and  size  at  said  port. 
+2.  An  apparatus  according  to  claim  1,  wherein 
+said  port  size  and  configuration  is  maintained 
+so  with  a  plurality  of  ports  to  thereby  permit  a 
+proportional  increase  in  flame  size. 
+Patentanspriiche 
+55  1.  Vorrichtung  zur  Erzeugung  von  Gasen  aus 
+Wasser  und  zur  kontrollierten  Verbrennung  dieser 
+Gase,  die  ein  wasserdichtes  Gehause  (12)  mit 
+einer  Wasser  (13)  im  untersten  Teil  enthaltenden 
+Kammer,  einem  Paar  von  ahnlichen,  nicht  oxidie- 
+60  renden  Elektroden  (15)  im  untersten  Teil  der 
+Kammer,  denen  Gleichstrom  geringer  Strom- 
+starke  und  Spannung  zugefuhrt  wird,  und  einem 
+Gassammelraum  (19)  im  oberen.Teil  der  Kammer 
+zum  Sammein  der  erzeugten  Gase,  einer  Diise 
+65  (20),  die  mit  der  Oberseite  des  Sammelraumes 
+3 
+
+EP  0  101  761  B1 6 
+(19)  der  Kammer  verbunden  ist,  wobei  die  Diise 
+einen  EinlalJ  zum  Aufnehmen  der  freigegebenen 
+Gase  und  eine  Ausla(56ffnung  vorbestimmter 
+GrolSe  und  Konfiguration  besitzt,  dadurch 
+gekennzeichnet,  dalS  das  Wasser  in  der  Kammer 
+nattirliches  Wasser  mit  eingeschlossener  Luft  ist, 
+da(5  die  erzeugten  Wasserstoff-  und  Sauerstoff- 
+gase  und  die  freigegebene  Luft  aus  dem  Luft 
+enthaltenden  Wasser  in  dem  Sammelraum  (19) 
+im  oberen  Teil  der  Kammer  gesammelt  werden, 
+daB  ein  EinialS  (30)  zum  Einspeisen  von  nicht 
+brennbaren  Gasen  in  den  Sammelraum  (19)  am 
+unteren  Teil  der  Kammer  vorgesehen  ist,  wobei 
+dieser  EinlalS  an  eine  Speiseleitung  mit  einem 
+einstellbaren  Ventil  (35)  angeschlossen  ist,  das 
+die  Menge  an  nicht  brennbaren  Gasen,  die  dem 
+Sammelraum  (19)  der  Kammer  zugefuhrt  werden, 
+steuert,  und  dalS  die  AuslalSoffnung  (20)  auf  das 
+Verhaltnis  von  Gasen  in  der  Sammelkammer 
+bezogen  ist,  urn  eine  Flamme  mit  vorbestimmter 
+Geschwindigkeit  und  GrolSe  an  dieser  Offnung  zu 
+erzeugen. 
+2.  Einrichtung  nach  Anspruch  1,  dadurch 
+gekennzeichnet,  dalS  die  GrolSe  und  Konfiguration 
+der  Offnung  bei  einer  Vielzahl  von  Offnungen 
+aufrecht  erhalten  wird,  um  damit  eine  proportio- 
+nale  Zunahme  der  FlammengroBe  zu  erreichen. 
+Revendications 
+1.  Appareil  pour  la  production  de  gaz  a  partirde 
+I'eau  et  pour  la  combustion  controlee  de  ces  gaz 
+comprenant  un  logement  etanche  a  I'eau  (12) 
+avec  une  chambre  contenant  de  I'eau  (13)  dans  sa 
+partie  inferieure,  une  paire  d'electrodes  non  oxy- 
+dantes,  similaires  (15)  dans  la  partie  inferieure 
+precitee  de  la  chambre  precitee  auxquelles  est 
+appliquee  une  tension  continue  produisant  un 
+courant  de  faibie  intensite,  un  compartiment  (19) 
+de  recuperation  de  gaz  dans  la  partie  superieure 
+5  de  la  chambre  precitee  pour  recueillir  les  gaz 
+produits  precites,  une  buse  (20)  reliee  au  dessus 
+du  compartiment  de  recuperation  (19)  precite  de 
+la  chambre  precitee,  la  buse  precitee  comprenant 
+une  entree  pour  la  reception  des  gaz  liberes 
+w  precites  et  ayant  un  orifice  de  sortie  de  dimen- 
+sions  et  de  configuration  predeterminees, 
+caracterise  en  ce  que  I'eau  dans  la  chambre 
+precitee  est  de  I'eau  naturelle  comprenant  de  I'air 
+emprisonne,  I'hydrogene  et  I'oxygene  gazeux 
+15  produits  et  I'air  libere  a  partir  de  I'eau  precitee 
+contenant  de  I'air  sont  recueillis  dans  le  compartr- 
+ment  de  recuperation  (19)  precite  dans  la  partie 
+superieure  de  la  chambre  precitee,  une  entree 
+(30)  amenant  des  gaz  non  combustibles  dans  le 
+20  compartiment  de  recuperation  (19)  precite  est 
+prevue  a  la  partie  superieure  de  la  chambre 
+precitee,  cette  entree  etant  reliee  a  un  conduit 
+d'alimentation  avec  une  soupape  reglable  (35) 
+commandant  la  quantite  de  gaz  non  combustibles 
+25  amenes  dans  le  compartiment  de  recuperation 
+(19)  precite  de  la  chambre  precitee,  et  I'orifice  de 
+sortie  (22)  precite  est  en  relation  avec  le  rapport 
+de  gaz  dans  la  chambre  de  recuperation  afin 
+d'obtenir  une  flamme  de  vitesse  de  combustion  et 
+30  de  dimensions  predeterminees  a  I'orifice  precite. 
+2.  Appareil  selon  la  revendication  1  caracterise 
+en  ce  que  les  dimensions  et  la  configuration  de 
+I'orifice  precite  sont  maintenues  avec  une  plura- 
+lity  d'orifices  de  maniere  a  permettre  ainsi  une 
+35  augmentation  proportionnelle  des  dimensions  de 
+flamme. 
+40 
+45 
+50 
+55 
+>0 
+>5 
+
+EP  0  101  761  B1 
+i 
+
+EP  0  101  761  B1 
+FIG.  2 

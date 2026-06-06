@@ -1,0 +1,8 @@
+# Obsidian workspace settings and cache
+.obsidian/
+
+# Original source PDFs (large binaries; keep out of version control)
+Stan_Meyer_Source_Archive/00_originals/
+
+# Pre-rename searchable PDF copies (canonical copies live in canonical_file_names/)
+Stan_Meyer_Source_Archive/01_ocr_searchable_pdfs/original_file_names/

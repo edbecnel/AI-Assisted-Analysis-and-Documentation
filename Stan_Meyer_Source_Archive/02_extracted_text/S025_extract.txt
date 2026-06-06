@@ -1,0 +1,224 @@
+Hydrogen gas injector for internal combustion engine
+Abstract
+System and apparatus for the controlled intermixing of a volatile hydrogen gas with oxygen andother non-combustible gasses in a combustion system. In a preferred arrangement the source ofvolatile gas is a hydrogen source, and the non-combustible gasses are the exhaust gasses of thecombustion system in a closed loop arrangement. Specific structure for the controlled mixing of thegasses, the fuel flow control, and safety are disclosed.
+Classifications
+F02M25/12 Engine-pertinent apparatus for adding non-fuel substances or small quantities ofsecondary fuel to combustion-air, main fuel or fuel-air mixture adding acetylene, non-waterbornehydrogen, non-airborne oxygen, or ozone the apparatus having means for generating such gases
+View 2 more classifications
+Landscapes
+Engineering & Computer Science
+Chemical & Material Sciences
+JPS58202352A
+Japan
+ Find Prior Art  Similar
+Other languages: Japanese
+Inventor: スタンリ − ・エイ・メイヤ −
+Current Assignee: Individual
+Worldwide applications
+1982US1983CADEEPATJP
+Application JP58023667A events 
+1983-02-15Application filed by Individual
+1983-11-25Publication of JPS58202352A
+Status Pending
+Info: Patent citations (14), Cited by (33), Similar documents,Priority and Related Applications
+External links: Espacenet, Global Dossier, Discuss
+Claims (1) Hide Dependent translated from Japanese
+[Claims] (!) A housing with a reservoir for retaining natural water and gas collection vines for maintaining a predetermined pressurized gas: a pair of similar reservoirs disposedwithin said reservoir; Non-oxidizing plate: and a DC rolling mill connected to the above plate to dissociate hydrogen and oxygen atoms from the water molecules.[a hydrogen/oxygen generator comprising a flow source; a gas mixing chamber; means for connecting a water-based gas obtained from said hydrogen generator to said mixingchamber; and regulating the flow of hydrogen gas to said mixing means. a linear fuel control valve disposed in said hydrogen gas connection means for said port and including saidboat and an annular element disposed within said port and connecting said opening thereof; a non-volatile gas supply source; means for connecting a non-volatile gas obtainedfrom a non-volatile gas source to said mixing chamber; and means connected to an inlet of said mixing chamber for merging air with said hydrogen gas and said non-volatile gas.Confinement/111 Air intake means and a gas burner using a predetermined amount of hydrogen gas supplied from the above-mentioned non-volatile gas and the air from theabove-mentioned air intake means. Combustion equipment on standby. (21) The field air intake means has a housing, and a variable position plate valve is disposed on thehousing.(31) The combustion apparatus according to claim 11, wherein the air intake lid to the mixing pipe of e is controlled. 14+ The combustion device according to claim 11, furthercomprising a housing having a middle four-port, and said cross-shaped element is located in said port. The combustion device according to claim (1), which is a structure having achi/4. Claim 1 comprising means for displacing the first and second structures of the first and second parts.The combustion device according to item 41. +6+ The combustion apparatus according to claim 10, wherein the mixing chamber has a cooling device at its hydrogen gas inlet anda quenching device at its nonvolatile gas inlet. (7) The above-mentioned gas mixing chamber has a trap area in its upper glum region, and the hydrogen gas connection to the upperone joint chamber is located in the uppermost area of the above-mentioned trap area.The combustion device according to item 11. (81) The above-mentioned ambient air intake section is the combustion device of Claim (7) Ring 8r2, which is located in the lowestboundary area of the above-mentioned truck. (9) The above-mentioned ambient air intake means is provided with a control valve. , the non-flammable gas intake means is providedwith control valves, these valves are freely operable to introduce into the mixing chamber a mixture of air and non-flammable gas in a fixed ratio of Pis. 1111 The above-mentionedair intake means releases excess hydrogen in the trap area of -Fae in the combustion chamber and reduces the amount of hydrogen in the combustion chamber. The combustiondevice according to item (8). A control valve is provided to fit the parbu of OuF and the hydrogen gas M! connection means of upper 6C, and the on/off fm of the combustion deviceis provided.d. The combustion device according to claim 1, wherein the gas flow is controlled during the period d. The control valve connected to the burner of n's tomr4 isThe combustion arrangement according to claim 71, which is a pressure regulating chamber. Housing means surrounding a mixing chamber of 0-hysteresis and a first openingprovided in the housing for air injection. and an aperture provided in the σ  housing for releasing hydrogen gas trapped in the σ  housing. The upper enclosed area of your ownhydrogen gas generator isA pressure release valve f that operates when hydrogen gas held therein exceeds a predetermined voltage:The combustion device described in item 1) is connected to the power source and the pressure release valve, and when the combustion device is inoperable, the hydrogen gasgenerator is connected to the voltage source and the pressure release valve. The combustion device according to item A4 of the +4f permission requirement, which is equippedwith a sensing switch that operates to shut off the wire. aS The means for connecting the hydrogen gas to the mixing chamber is provided with a one-way check valve, Claim I11 g12-mount combustion device. [I? 1. The combustion apparatus according to claim 11, wherein the means for connecting the hydrogen gas to the mixing chamber includes aquenching device. 112. The combustion of claim 111, wherein as said gas burner is an internal combustion engine and said source of non-volatile gas is the exhaust gas of saidengine. Device. Combustion 11 according to claim 10, comprising: an oil supply source and an oil spray connected to the oil supply source and the mixing chamber.
+Description translated from Japanese
+  P a t e n t s
+Show more
+
+[Detailed description of the invention] This book relates to a combustion device.
+The present applicant filed an application for "Hydrogen Generation/Stem" Q on September 76, 2007. Beiyuan Patent Application No. 302,No. g07 discloses a hydrogen generation system that converts water into hydrogen and oxygen gas.
+In the system disclosed in this mountain axis, water is passed between four non-oxidizing gold I/I plates of one kind, and these metal plates are subjected to a DCvoltage/current of non-tuning, non-tonami, and one-power. By applying , hydrogen atoms are dissociated from water molecules. By converting this non-V@regular, non-Tonami DC masticating pressure /@(& into a Noculus, sub-atomic (sub-atomic) action is promoted.
+The apparatus includes various configurations for separating the generated hydrogen from oxygen gas.
+In addition, Motoyama filed an application on September 5, 1997 for [Hydrogen Air Desimin Processing Equipment] in the U.S. Special Rods No. 6, Kuguda, which usesnon-elastic, royal gas. An apparatus is disclosed in which a volatile gas is controlled with a volatile gas in the mixing stage. This hydrogen aeration treatment system (hydragsnalrdatlon processor system) utilizes a rotary, waxy gas displacement device to charge, meter, mix, and pressurize the gas. When injecting the gas, ambient air is passed through the openframe gas combustion device to remove any gas or other substances present. Thereafter, the non-flammable gas mixture is cooled and mechanically mixed with F and acertain amount of hydrogen gas to remove impurities. In this way, new synthesis gas is produced. The rotary mechanical gas displacement device described abovemeasures the volume of synthesis gas thus produced and determines the correct gas mixture ratio to produce the desired combustion rate of hydrogen gas. Determinethe volume of synthesis gas that should be used.
+-Hydrogen Air Duration Process According to U.S. Patent Application No.The vjL is a multi-stage system useful in a variety of special applications. Also, the other tree [J+! +Patent Application Hydrogen Generation System discloses a uniquehydrogen generation device that is only 5kjli.
+In addition, the present applicant filed L U.S. Watch Application 2!37 on October 7g, /9g/. ;, No. 993 discloses a combustion device that can be applied to a mechanicallypumped device. The combustion device W is useful, for example, for driving a screw I in a private vehicle. This application discloses a hydrogen generator that produceshydrogen and non-volatile gases (eg, 1!l! and J4$). A non-volatile gas is injected into the hydrogen gas tank, one flow path and an air intake provided with control means,so that the hydrogen, non-volatile gas and air are combined and mixed with each other. After that, the exhaust gas of the combustion chamber is sent to the combustionchamber and ignited there, and the exhaust gas of the combustion chamber is mixed with R4 gas as a non-flammable gas, thus forming a closed loop. The applicationdiscloses a specific implementation of such a system such as VX+4.
+Accordingly, the present invention provides a combustion engine using hydrogen and non-flammable gas.It is intended to provide a mixture of hydrogen and non-flammable gas (7,An object of the present invention is to provide a combustion device which controls combustion temperature thereby.
+Yet another object of the present invention is to provide a combustion system that reduces the flow of fuel into the combustion chamber by 1°, especially when usinghydrogen gas.
+Other objects and features of the invention will become apparent from the description below.
+A particularly preferred embodiment of the device of the present invention is a furnace for driving a piston in a combustion device utilizing hydrogen gas, particularly anautomatic W# device.
+The apparatus of the present invention uses a hydrogen gas generator for generating hydrogen gas. Hydrogen gas and non-volatile gas are sent to a mixing chamber, andbeak material is also sent to this mixing chamber. A mixture 6 of these gases is controlled to adjust the combustion temperature. That is, the combustion temperatureand speed of hydrogen gas are controlled to be lowered by the combustion temperature of commercially available fuel a II (, i. kt).
+The air intake becomes the oxygen source, and the air intake is also, W has been done. Exhaust gas from the combustion chamber is controlled and utilized as a non-flammable gas. The nitrogen generator has a holding tank to provide astarting fuel source. The hydrogen gas generator also has a power switch that is activated from one position to the cabinet position by the action of a sensing switchabove the combustion chamber.
+The metered arrangement is provided with a bank of one-way valves, safety valves and cooling devices. A combination of these devices can be used to fuel a car engine(or any other fuel)Construct a pre-assembled assembly for converting from hydrogen to hydrogen gas mixtures.
+Hereinafter, the present invention will be explained along with the figure ([I].
+FIG. 7 shows the entire gas mixing and fuel flow primary system utilized in a JP Akatsuki engine, particularly an engine utilized in a motor vehicle.
+In FIG. 7, the hydrogen supply source is the hydrogen generator 10 disclosed and explained in the above-mentioned patent application by Tokusei Shipeng. The deviceaccommodates 10 water tanks 2.
+Water W! 2, s to the US patent application of the previous applicantThe first plates 3 are arranged in rows.
+A direct current, pressure/l current, is applied to the coil 8 by opening the electric power section 27.
+The upper part 7 of the device 10 is a water bulk storage area in which the required amount of hydrogen at pressure is maintained.
+In this way, a temporary flow of water-based gas occurs at the beginning of wJ. To replenish the consumed water, the generator has a continuous water supply l. Thus,the occurrence #ctIILFi is operated as described in the aforementioned patent application.
+The safety valve 28 will fail if excess gas occurs.
+On the other hand, the switch 26 is a gas pressure switch that operates the hydrogen generator when the gas volume decreases to maintain the gas pressure at aconstant I5T level.
+The generated hydrogen gas 4Fi is introduced into the gas mixing chamber 20 from the stop valve 16 to the gas mixing chamber 20, where the hydrogen gas is sentthrough the rPtL complex from the supply source described below. mixed with sexual gases.
+In the unlikely event that the one-way valve 75 malfunctions, it will be difficult to ignite the bulk gas 4 in the storage area 7 of the hydrogen generator 11O.In such a case, the spark generator 76 extinguishes the spark to prevent such ignition noise.
+To explain this with reference to the second example, the bulk gas passes through the η C path 5'kA, and the nonflammable gas passes through the flow path 9 to thecarburetor, that is, the gas mixing chamber 2o. The gas mixing chamber further includes an ambient air intake 14.
+The water-based gas 4 passes through the channel 5 and through the nozzle 11 into the trap area 46 of the mixing chamber 2o as sugley 16'. The nozzle 11 has anopening smaller than the opening in the plate in the cooling device 37, and has a suction hole smaller than the opening in the plate in the cooling device 37. - Preventflashbacks from occurring in the event of a failure.
+The non-volatile gas is injected through the nozzle 13 as soets gray 17 into the trap area 47 of the mixing chamber 2o. The emergency device 39 operates in the samemanner as the rapid cooling device 37.160 Aya Hmen A is 1 good 1. In the case of a strong inclusion mode, it becomes similar to the CLJT system, which is essential for the combustion of water-based gas.Furthermore, the hole opened in the above-mentioned shaft is a non-volatile gas, and the central part is the exhaust gas in the closed loop system. Of course - 1tThe IRX and/or non-volatile gases Q can also be supplied from independent sources.
+Further, referring to FIG. 2, the gas drag area 47 has a size of 19T feet. Since the water system is fighting, the water system will rise and become trapped within area 47.The size of the area 47 is such that it can contain enough water bulk gas to ignite within a short period of time when the fuel engine is started.
+It will be appreciated that the water-based gas is injected into the uptake area of the trap zone 47. The water rate is a volatile gas)However, it ascends at a very fast speed (11m, 3x f or faster). Therefore, when hydrogen gas enters the mosquito low habituation area of the drag zone 47 (mixing zone),the hydrogen gas enters the air I! It cannot be mixed with the lk system and will rise rapidly.
+In the drag section 1 shown in FIG. That is, the water-based gas t is forced downward into the air, and is easily mixed with it.
+The non-flammable gas and ambient air (oxygen) passing through the flow paths 9 have a specific controlled ratio, determined for each engine. #4 95 cubic meters ofnon-flammable gasSet the valve 45 to change the amount of air.5II! Once the correct firing speed k is determined by adjusting the ratio, the ratio is maintained.
+In systems where the non-flammable gas is the exhaust gas of an engine with a closed roof configuration, and the nitrogen gas is controlled by the ennon, the flow rateand therefore the mixture of chili/non-flammable gas is reduced by the acceleration of the engine. be done.
+A mixture of air and incompatible gases serves as a carrier for hydrogen gas. That is, the water-based gas is combined with the nitrogen/non-flammable gas mixture. Asthe water-based gas is combined with the smoke/non-flammable gas mixture, the rotational speed of the engine is increased.
+Next, the third evil will be explained. Figure 3 shows the details of fuel 9's axle load/type 1 flill m iron metal 53 in a new song.
+The water bulk gas 4 passes through the gas population 41 and enters the chamber 43. Hydrogen gas leaves chamber 43 and travels upstream from port 42 to chamber47'. The reservoir of gas entering chamber 47' from ♀ 43 is controlled by restricting the opening of port 42 (2).
+Control is achieved by inserting a bit 73 with an Ayasugi taper into the opening of the hole. The blunt end of pin 73 is fixed to rod 71. The Rondo door 1 passes throughthe supporting cylinder 75' and is connected to the housing 30 by the first rotor 8.1t- street, +#IL+--Shinsu 83 is carrying it.
+The spring 49 connects the rod 71 with the pin 73 and opens the opening 4.Hold against 2. When mechanism 83 is actuated, pin 73is withdrawn through opening 42, increasing the gas 11 passing from 43 to chamber 47.
+Stops 67, 69 hold spring 49 directly in position i>'. One rectangular position of the pin 73 relative to the opening 42 is adjusted by a nut 63,67 threaded onto the threadedrod 61. That is, by adjusting the screw, the idle speed is controlled and the minimum oscillation (ly gas is caused to flow from the shore 43 to the chamber 47) in order tocontinuously operate the combustion engine.
+In addition to the porridge, a nitrogen-containing device is shown for manipulating the amount of air delivered to the mixing chamber 20.
+One kzl layered on the plate 18 has h on its end 11'.Mouth 7 ゛  [7]. A control &42' is slidably mounted above the shadow opening. - The grommet 12 (i-) is operated by the low electric current of the control rod 19 connectedto the control board 11m to the control plate 1 relative to the mouth. In the event of an unaccompanied movement, the release valve 24 will break.
+As shown in Part 9, if hydrogen gas builds up to excessive pressure in the mixing chamber 20, the port 34 on the hood 32 of the vehicleA relief tube 36 connected to the X gas can safely escape into the atmosphere.
+In the event that a single movement of combustion occurs within the mixing chamber 20, the pressure pipe all valves 33 are broken and hydrogen gas is expelled withoutcombustion.
+FIG. 3 shows a gas control system that can be replaced in an internal combustion engine of a mechanical motor vehicle without making any changes or modifications tothe main meter or controller in the design of the motor vehicle.
+Since the flow of hydrogen (extensible gas) is of course small, a gas flow f6 is provided in the flow path 5 to reduce the flow of hydrogen.A t, l-valve 53 (FIG. 1) is provided. The quietness of the valve 53 is illustrated in FIG.
+The total air intake section 14 can also be provided in a carburetor assembly having an intake section 55 that adjusts the opening of the plate 42', as explained inconjunction with FIG.
+In order to maintain a constant pressure f in the water rod gas IFr zone during on-off operation of the engine, the gas related control valve is responsive to an electricalshutoff control switch 33'.
+Controlling the foot pressure in this manner allows for an abundant supply of gas at start-up, as well as an even more abundant supply of gas during certain periods ofoperation.
+Switch 33', on the other hand, is responsive to true full control switch 60. When the engine is running, the power is generated, and this real power creates a lead W 60aand passes through the negative switch 60, keeping the switch 33' in the state. When the engine is not running, the decreases and becomes low, and the switch 60'i [then switch 33'kfif! IJ [let me,The flow of hydrogen gas to the control valve 53 is stopped.
+When a low peak a'dL pressure/'Kaku is applied to the safety 9f28, the solenoid 29 is activated. The solenoid connects the pressure switch 26 and the assembly terminal27 to excite the hydrogen generator.A control voltage is applied to the plate 3 serving as the device.
+'When the solenoid 29 is actuated by electric power, hydrogen gas follows DE, rL, and the control valve 16, and becomes available for use.
+The differential pressure output of hydrogen gas for I-series mixer 20 is FIJYes, 'J-5ky or 1. -'75 4C, 30 pounds to 75 bonds). Water = X raw #C equipment 1゜ is M2I! When the Il gas ratio level is reached, the pressure switch 2BR will cut off the power supply to the water system. If the pressure in the chamber exceeds thear''JOE level, the safety release valve 28is activated, disconnects the #IL flow, and shuts down the entire system for safety inspection.
+In the 6th row, i', L, -1(8) of the fuel injection system in the current light is shown, and the m diagram is shown in Figure S. In a preferred embodiment, the device includesa housing 90 including a ventilator 14a;14e is provided. to the air, parts 14b, 14Caround the filter 91't-, and then to the inlet 14d of the mixing chamber 20. The hydrogen passes through the quenching device 37 and enters the mixing basket 20. Thenonvolatile gas enters the mixing chamber 20 through the flow path 9 and through the cooling device 139.
+Note that diagram W47 shows all the mechanical components of the mixing chamber 20 that are shown separately in other diagrams.
+Now, returning to Figure 1, the K11 K11 has a mixing pump 1 which is powered by the Guri 93 which is driven by the engine.A flow path 9 for a non-volatile gas to flow through the 91 is shown, in which a valve 95 for d, Jt II k Ayu sll is arranged.There is a pump 96 driven by r, L Urt path 85 to the south, this flow path 85 is connected to the 11 cap filter 92 and the valve 87, and is unfortunately crowded with the main 2 UL. *Soil removal, non-oil @?As in the case of Ilt-type engines, the oil supply is controlled by the oil supply tAr, the passage 85, and the chamber 2.It is called within 0 and performs the beak action.
+Now, in the past, there have been some research presentations on the properties of hydrogen gas, its latent uses, generation systems, and Anzensha.tional Bureau of 5standards Issued 1 water = -S selected B @ = (5eSelected Properties of Hydrogen) (Engineering Oerlgn)Pata).
+These spinning nine light tables, as kings, generate water systems and, which is an image line and expensive method. In addition, these research presentations are related to water-based gases that have been pirated because water-basedgases are miserable and have a serious problem. suggests dangers in practical use.
+^49 Doctor's graph (f, alcohol, grono41/,It shows that the combustion exhaustion of Mej1], Sori/, Daenen Gas and Diesel oil is at least 3S ρ ・ Ramenmanda5 [ij ■ . Sarari Jin, this graph shows that the combustionspeed of water-based gas is from a minimum of 265 to a maximum of 325. Simply put, the speed of a commercially available fuel in g7. ! It is about f*.
+Because hydrogen gas has an unusually high combustion rate, some previous researchers have not considered hydrogen gas as a substitute for salmonids. In general,even if the engine were to be modified to VLLiM to accommodate this extra combustion rate, the idea of using it commercially due to the risk of explosion would be ruledout. Probably.
+SUMMARY OF THE INVENTION The present invention, as stated above, solves the problems encountered in using hydrogen gas in standard commercially availableengines. As stated in the 1st issue of I/I, the cost of water-based gas is minimal. In addition, the method described in the above-mentioned process reduces thecombustion speed fJ of hydrogen gas. These U.S. applications only teach about the low points of a combustion series;It also teaches the control of water-based power pickpocket combustion branches.
+Thus, in accordance with the present invention, a practical example of applying a hydrogen generator to a combustion engine is presented as a preferred input relay. Inthis system, the flow of hydrogen gas is fi14m, and the non-flammable gas (oxygen) is mixed in a controlled manner and sent to the mixing chamber, thus reducing thecombustion rate of water-based gas. let The device of the invention therefore makes the use of hydrogen as safe as any other.
+Furthermore, as a major problem, the device of the present invention can be used even with an internal combustion engine of any size or type of reactor type, and whichoperates using only water as fuel. be done. Water-based gases are produced from water at very low voltages, without any chemical or chemical reactions. Thecombustion rate of hydrogen gas is reduced to the point where the combustion rate of the normal fuel remains. After the operation, all the parts rJ, one 'fc should havemore safety valves or bulges, so that the system of the car using hydrogen gas can also be made safe. There is.
+It must be understood that the terms non-volatile and non-combustible, which are used interchangeably in the above sequel, refer to the same thing and are merelyintended to mean a non-flammable gas.
+It is also important to note that the use of the term storage primarily in relation to the hydrogen storage area 7 is not intended to be interpreted in a literal sense; inpractice, this is not storage but temporary storage. It is a retention area. This area 7 holds a sufficient amount of water for temporary starting.
+Ii! Other terms, percentages, devices, etc. regarding the preferred embodiment of the invention! I made it clear. It must be understood that the present invention issusceptible to numerous modifications without departing from its technical scope.
+Figure 1 shows a partial block diagram of a large preferred embodiment of the apparatus of the present invention.
+#! Figure 2 shows the water jetting iron weight being removed from the example shown in @.
+The third factor is the fuel mc τ 11 at +1 in the example shown in Figure @1.1! This represents a $1 type system.
+FIG. 9 shows a fuel injection system for a moving wheel using the inventive device.
+Figure S shows the flat surface of the fuel injection device used in this workshop.
+FIG. 6 is a side sectional view of the fuel injection device of the present invention.
+FIG. 7 shows lI! of the fuel mixing chamber in the present invention. FIG. 1, which is a front view, is a diagram of the valve for introducing air into the fuel mixing valveaccording to the present invention.
+No.? The figure is an integragraph of the burning rate of various slagids for explaining the present invention.
+1... Water supply source, 3... Plate (excitation device), 4...Hydrogen gas, 7...Aqueous storage area, 10°...Hydrogen generator, 20...Gas mixing chamber.
+Drawing power engraving (no change in content) semi-studded / 7 empty raft middle I boke up be final law envy (c tn7s) Procedural amendment (Form) 586.5 ゜ Showa year, month, day, case description Showa II, Permanent Application No. J647*VSOS name Hydrogen gas injection device for internal combustion engine,Relationship with the case of the person making the amendment Applicant's name: S179-A Meyer. Agent, mEh+oBt Showa! L capital! Month J/11, subject to correctionAll simw
+Patent Citations (14)
+Publication number Priority datePublication dateAssignee Title
+JPS4946020A * 1972-09-081974-05-02
+Family To Family Citations
+GB591718A * 1944-11-281947-08-27 George Edward Heyl Apparatus for supplementing the fuel-air mixture of an internal combustion engineby a gas mixture produced by electrolysis
+US1996861A * 1929-10-281935-04-09 Dores Gaston Device for preventing back-firing, capable of being used as theft-preventingdevicesfor any applications
+FR721354A * 1931-08-141932-03-02 Method and device for increasing the power of automobile engines and the like
+US2109963A * 1936-08-131938-03-01 Alvin H Kruse Apparatus for supplying gas to internal combustion engines
+DE1021637B * 1954-03-291957-12-27 Botto Meccanica DiPrec E S R Pressure carburetor for internal combustion engines with liquefied petroleum gas
+US3948224A * 1970-04-221976-04-06 Knapp Edward M System to prevent pollution of atmosphere
+US3648668A * 1970-07-081972-03-14 Ebert Michael Gas-operated internal combustion engine
+JPS5241830B2 * 1975-03-051977-10-20
+US4031865A * 1975-10-011977-06-28 Patrick Dufour Hydrogen-oxygen fuel cell for use with internal combustion engines
+US3982878A * 1975-10-091976-09-28 Nissan Motor Co., Ltd. Burning rate control in hydrogen fuel combustor
+DE2641228A1 * 1976-09-141978-06-01 Rudolf Werner SchmitzGas mixt. powered vehicle - uses hydrogen and oxygen produced by electrolysis asfuel source
+AU523583B2 * 1978-07-131982-08-05 Interx Research Corp. Thiazolidine prodrugs
+US4271793A * 1979-08-311981-06-09 Valdespino Joseph MInternal combustion engine
+* Cited by examiner, †  Cited by third party
+Cited By (33)
+Publication number Priority datePublication dateAssignee Title
+Family To Family Citations
+DE3280143D1 * 1982-08-251990-05-03 Stanley A Meyer DEVICE FOR GENERATING GASES FROM WATER AND FOR CONTROLLEDCOMBUSTION OF THESE GASES.
+EP0106917A1 * 1982-10-211984-05-02 Stanley A. Meyer Gas electrical hydrogen generator
+CA1231872A * 1983-03-231988-01-26 Stanley A. Meyer Hydrogen injection system
+PL167622B1 * 1990-08-191995-09-30 Sheikh Bahaeddin Inst Sl Heat generating apparatus
+WO1992008046A1 * 1990-11-021992-05-14 Meyer Stanley A Hydrogen gas fuel and management system for an internal combustionengine utilizing hydrogen gas fuel
+US5293857A * 1990-11-021994-03-15 Stanley Meyer Hydrogen gas fuel and management system for an internal combustionengine utilizing hydrogen gas fuel
+JP3116169B2 * 1991-04-172000-12-11 本田技研工業株式会社Fuel control method for hydrogen engine
+US5178119A * 1991-12-111993-01-12 Southwest Research Institute Combustion process and fuel supply system for engines
+MX9206040A * 1992-03-051994-03-31 Southwest Res Inst FUEL AND ADDITIVE TO REDUCE THE EMISSIONS OF PARTICLES FROMCOMPRESSION IGNITION ENGINES.
+US5231954A * 1992-08-051993-08-03 J. C. Conner Hydrogen/oxygen fuel cell
+US5501185A * 1995-01-061996-03-26 Kohler Co. Biogas-driven generator set
+RU2093696C1 * 1996-03-191997-10-20 Конструкторское  бюрохимавтоматики Method for failure protection of power plants using hydrogen as workingmedium
+JP3800020B2 * 2001-03-132006-07-19 日産自動車株式会社Compression self-ignition engine
+US6681749B2 2001-11-132004-01-27 Raymond B. Bushnell Vapor fueled engine
+US20080032245A1 * 2003-11-112008-02-07 Vapor Fuel Technologies, Llc Fuel utilization
+US7028675B2 * 2003-11-112006-04-18 Vapor Fuel Technologies, Inc. Vapor fueled engine
+US6907866B2 * 2003-11-112005-06-21 Vapor Fuel Technologies, Inc. Vapor fueled engine
+US20070277790A1 * 2006-06-012007-12-06 Raymond Bryce Bushnell System for improving fuel utilization
+US7631637B2 * 2006-06-012009-12-15 Vapor Fuel Technologies, Llc System for improving fuel utilization
+US8141523B2 * 2008-09-032012-03-27 Petrolfree, Inc. Method and apparatus for controlling an electric motor
+US8720389B2 2008-09-032014-05-13 Petrolfree, Inc. Method and apparatus for controlling an electric motor and an internalcombustion engine
+US8336508B2 * 2008-09-172012-12-25 Timothy Huttner System and method for use with a combustion engine
+AU2009298157A1 * 2008-10-022010-04-08 David Inwald System and method for improving combustion using an electrolysis fuelcell
+US8709221B1 2010-02-242014-04-29 Andrew L. Smith Current regulator for mobile water electrolyzer
+US20110214593A1 * 2010-03-052011-09-08 Prabir Kumar Roychoudhury Eco-friendly system and process for generating thermal energy fromwaste biomass
+BR112016006095A2 * 2013-10-302017-08-01 Kumar Barthakur Jitendra explosive exothermic implosion-type motor (ieex-em) employing a safepiping system (sps) and other safety devices
+WO2016054371A1 * 2014-10-022016-04-07 Imagestatistics, Inc. Voltage calculator and generator for on-board diagnostic system andmethod of using the same
+US9771859B2 2015-10-192017-09-26 Christopher Haring Hydrogen generator and control for internal-combustion vehicle
+US9771658B2 2015-10-192017-09-26 Christopher Haring Hydrogen generation and control for internal-combustion vehicle
+CN106351741B * 2016-08-302018-07-31 合肥恒信汽车发动机部件制造有限公司 A kind of hydrogen comburant engine system
+US20190264609A1 * 2016-11-182019-08-29 Hydrive Aps Method of cleaning an internal combustion engine and system therefor
+US12104560B1 2022-10-172024-10-01 Budhadeb Mahakul Direct in cylinder injector for gaseous fuel
+US12018631B1 2023-08-292024-06-25 Christopher Haring Enhanced control of hydrogen injection for internal combustion enginesystem and method
+* Cited by examiner, †  Cited by third party, ‡  Family to family citation
+Similar Documents
+Publication Publication DateTitle
+JPS58202352A 1983-11-25 Hydrogen gas injector for internal combustion engine
+EP0815902B1 2001-08-29 Method for lighting fire and apparatus for carrying out said process
+US11092117B2 2021-08-17 System and method of improving fuel efficiency in vehicles using HHO
+US6689259B1 2004-02-10 Mixed gas generator
+DE112012006249B42016-09-01 Method for designing a working flow of a piston gas engine with spark ignition
+DE10202172A1 2003-08-07 Process for disposing of boil-off gas from a cryogenic tank and motor vehicle operated in this way
+EP2439395B1 2018-05-09 Device for pressurising a lift tank
+DE2816115A1 1978-11-02 METHOD AND DEVICE FOR OPERATING COMBUSTION ENGINES
+DE102021004278A12023-02-23 Blanket Pistol
+EP1414663A1 2004-05-06 Method for operating a motor vehicle fuel tank system, especially a cryotank system and corresponding tank system, for example,for liquid hydrogen
+CA1231872A 1988-01-26 Hydrogen injection system
+EP0111574B1 1991-09-11 Combustion system for mechanical drive systems using gaseous hydrogen as fuel
+Al-Khaledy 2008 High performance and low pollutant emissions from a treated diesel fuel using a magnetic field
+JPS5765850A 1982-04-21 Vapor lock prevention unit
+JPS59153922A 1984-09-01 Hydrogen aeration type injector
+JPS5778491A 1982-05-17 Liquefied petroleum gas-containing gas oil fuel for diesel engine
+DE3630345C2 1992-11-05
+DE19704587A1 1998-09-24 Emergency ballast tank blowing device for submarine
+EP0187212B1 1988-06-01 Power system independent of the ambient air for burning propellant combinations
+DE566436C 1933-11-01 Internal combustion engine with mixture amplification by adding hydrogen or oxyhydrogen gas to the charge
+CA1227094A 1987-09-22 Hydrogen/air and non-cumbustible gas mixing combustion system
+KR20240094365A 2024-06-25 The system for generating the energy
+RU2083856C1 1997-07-10 Plant for producing hydrogen and oxygen from water for feeding internal-combustion engines
+DE3545049A1 1987-06-25 USE OF HYDROGEN PEROXIDE AS A FUEL AND / OR OXYGEN SUPPLIER IN PISTON PISTON ENGINES
+CN107701333A 2018-02-16 One kind processing water injection system
+Priority And Related Applications
+Applications Claiming Priority (2)
+Application Filing date Title
+US06/349,185 1982-02-17 Hydrogen gas injector system for internal combustion engine
+US349185 1994-12-07
+Concepts
+machine-extracted  DownloadFilter table
+Name Image Sections Count Query match
+Hydrogen title,claims,abstract,description790.000
+combustion reaction title,claims,abstract,description620.000
+gas claims,abstract,description1060.000
+mixing claims,abstract,description370.000
+hydrogen claims,abstract,description350.000
+hydrogen claims,abstract,description350.000
+fuel claims,abstract,description200.000
+oxygen claims,abstract,description50.000
+oxygen claims,abstract,description50.000
+water claims,description390.000
+air claims,description230.000
+mixture claims,description110.000
+cooling claims,description60.000
+injection claims,description60.000
+injection claims,description60.000
+ambient air claims,description50.000
+Dioxygen claims,description30.000
+quenching claims,description30.000
+quenching effect claims,description30.000
+regulatory effect claims20.000
+L-glutamine claims10.000
+natural gas claims10.000
+natural water claims10.000
+oxygen atom claims10.000
+rolling process claims10.000
+spray claims10.000
+atomic oxygen abstract,description40.000
+Show all concepts from the description section
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

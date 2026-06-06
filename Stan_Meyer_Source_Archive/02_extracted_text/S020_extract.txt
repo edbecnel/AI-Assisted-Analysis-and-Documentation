@@ -1,0 +1,216 @@
+Hydrogen generator system
+Abstract
+ABSTRACT
+Process and apparatus for dissociating hydrogen atoms from a water molecule by electrical force.Particularly, the separation of the hydrogen and oxygen atoms from the water molecule by theapplication of a non-regulated, non-filtered, low-power, direct current voltage electrical potentialapplied to two non-oxidizing similar metal plates having water passing therebetween. The directcurrent voltage may be continuous, but the action can be enhanced by pulsing the non-regulated andnon-filtered direct current voltage. The apparatus comprises various constructional configurationsand alternative embodiments for segregating the generated hydrogen gas from the oxygen gas. Thewater need not be pure and may contain contaminants. The release of the hydrogen and oxygenatoms causes the contaminants to fall away, thereby enabling the system to be utilized in a liquidslurry removal system. Alternatively, the recombining of the hydrogen and oxygen would give purewater.
+Classifications
+Y02E60/36 Hydrogen production from non-carbon containing sources, e.g. by waterelectrolysis
+Landscapes
+Electrolytic Production Of Non-Metals, Compounds, ApparatusesTherefor
+CA1234774A
+Canada
+ Find Prior Art  Similar
+Other languages: French
+Inventor: Stanley A. Meyer
+Current Assignee: Individual
+Worldwide applications
+1983CA
+Application CA000420908A events 
+1983-02-04Application filed by Individual
+1983-02-04Priority to CA000420908A
+1988-04-05Application granted
+1988-04-05Publication of CA1234774A
+Status Expired
+Info: Cited by (1), Legal events, Similar documents, Priority andRelated Applications
+External links: Espacenet, Global Dossier, CIPO, Discuss
+Claims (15) Hide Dependent 
+THE EMBODIMENTS OF THE INVENTION IN WHICH AN EXCLUSIVE PROPERTYOR PRIVILEGE IS CLAIMED ARE DEFINED AS FOLLOWS:
+1. A system for the release of hydrogen and oxygen gas from natural water having no electrolyte added thereto, comprising:
+a housing of non-corrosive, non-reactive, and non-oxidizing material, a pair of similar electrical voltage conductive plates of a non-reactive, non-corrodable, and non-oxidizingmaterial positioned in said housing with a spatial relationship to one another, means for passing said natural water between said plates;and means connecting one of said plates to a negative output terminal and the other of said plates to a positive output terminal of a variable D.C. voltage source which includescircuit means for restricting the current thereof to a negligible value relative to the magnitude of the voltage, said voltage forming a positive electrical voltage zone adjacent saidplate having said positive terminal connected thereto and a negative voltage zone adjacent said plate having said negative output terminal connected thereto, voltage whenapplied to said plates having a sufficient magnitude to cause the hydrogen atoms of the water molecule to be attracted to said negative zone, and the oxygen atoms to beattracted to said positive zone, and thereby force the hydrogen atoms and the oxygen atoms to disassociate themselves from the water molecule at a rate in dependence on themagnitude of the voltage applied to said plates.
+2. The system as set forth in claim 1 including means selectively to vary the voltage and maintain it at a constant level.
+3. The system as set forth in claim 1 wherein said variable voltage source further comprises pulsing circuit means and wherein the rate of release of said hydrogen andoxygen gas is directly related to the repetition rate of the voltage output pulses of said pulsing circuit.
+4. The system as set forth in claim 3 wherein the magnitude of the output voltage of said variable voltage source is interrelated to the pulse repetition rate of the outputpulse of sand pulsing circuit, and wherein the rate of the hydrogen and oxygen atoms disassociating from the water molecule is related to the magnitude of said voltageand the pulse repetition rate of said pulses.
+5. The system as set forth in claim 1 wherein said variable voltage source includes means for varying the magnitude of said voltage from 0 volts to in excess of 110 voltsand for restricting the current thereof to less than 1 ampere.
+6. The system as set forth in claim 1, characterized in that said non-oxidizing plates are coaxial or alternatively have concentric surfaces.
+7. The system as set forth in claim 1, characterized in that said non-oxidizing plates are a plurality of plates in an array.
+8. The system as set forth in claim 1, characterized in that said non-oxidizing plates are a cluster of coaxial plates in an array.
+9. The system as set forth in claim 1, characterized in that said non-oxidizing housing further comprises a gas collection chamber for maintaining a preset volume of gasunder pressure.
+  P a t e n t s
+Show more
+
+10. The system as set forth in claim 7, characterized by switching means interconnected to each of said plates in said array and to said voltage source for switching inand out selected ones of said array of plates from said voltage source.
+11. The system as set forth in claim 1 wherein at least one of the spacing between the plates, the length of the plates, the surface area of the plates, the number ofplates, the configuration of the plates and the voltage applied to the plates is adapted to be changed so as to alter the production rate of hydrogen and oxygen gas.
+12. The system as set forth in claim 1 further comprising means to separate the produced hydrogen and oxygen gases.
+13. The process of releasing hydrogen and oxygen gas from natural water having no electrolyte added thereto, comprising:
+passing said natural water through a contained area having a pair of similar non-oxidizing, non-corrodable,non-reactive electrically conductive plates therein, applying a variableD.C. positive voltage across one of said plates and applying a variable D.C. negative voltage across the other of said plates, restricting the current of said variable voltagesapplied to said plates to a negligible value relative to said voltage, said positive voltage forming a positive voltage zone adjacent said plate having a positive voltage appliedthereto and said negative voltage forming a negative voltage zone adjacent the plate having a negative voltage applied thereto, said variable voltages applied to said platesbeing of sufficent magnitude to cause the positive atoms of the water molecule to be attracted to the negative voltage zone and said plate and the negative atoms of the watermolecule to be attracted to the positive voltage zone on said other plate, thereby forcing the hydrogen atoms and the oxygen atoms to disassociate themselves from the watermolecules at a rate dependent on the magnitude of said variable voltage, and varying the magnitude of the variable voltage applied to said plates to vary the rate at which thehydrogen atoms and the oxygen atoms disassociate themselves from the water molecule
+14. The process of claim 13 further comprises pulsing the variable voltage applied to said plates at a variable repetition rate and varying the physical parameters of saidplates in an interrelationship with said variable voltages.
+15. The system as set forth in claim 7 further comprising switching means interconnected to each of said plates in said array and to said voltage source for switching inand out selected ones of said array of plates from said voltage source and wherein the number of said plates having said voltage source switched therein is directlyrelated to the rate of hydrogen atoms and oxygen atoms disassociating from said water molecule.
+Description
+Background 34~The potential availability of hydrogen as a supplement to and eventually complete replacement of the present day available fuels is most appreciated. The efficiency ofhydrogen as a fuel and its pollution free qualities further enhances its attractiveness.
+The prior art systems have been successful in splitting the of 10 hydrogen atoms from the oxygen. However, cents per But is most prohibitive and completely restrictsthe known pry from commercialization. I`
+The most commonly understood method of separating the hydrogen and oxygen atoms from water is electrolysis. This comprises placing a direct current voltage to asolution of water and potassium hydroxide. When current flows, an exchange ; of ions and electrons occurs between the electrodes. Hydrogen atoms collect at thenegative electrode (cathode) and oxygen atoms at the positive electrode (anode). A separation between electrodes separates the gases.
+Significantly, this process requires a chemical solution;that is, it does trot operate when using pure water.Furthermore, the cost per million But is in the order of three times the cost of gasoline.
+Other electrolysis processes have teen devised and disclosed but are more sophisticated, complicated, complex and costly with attendant unreliability. Another processunder study comprises nuclear energy to supply heat in a thermal of the hydrogen dissociation. The problems with the process include the lack of container materialsthat can withstand temperatures involved (900C) and a practical method of attaining such temperatures. The addition of inorganic ; compounds to the water permitslower temperatures but again, adds to the complexity of the process.
+, I, :, - .
+~.~3~74 A commercial method known as the Bosch process, consists in passing steam over highly heated carbon in the presence of a suitable catalyst. Carbonmonoxide, CO, and hydrogen are first formed as shown in the following equation:
+H20 + C -- CO + Ho The resulting carbon monoxide then reacts with more steam, forming carbon dioxide and hydrogen:
+CO H20 --- C02 + Ho The carbon dioxide is separated from the hydrogen by passing the mixture through water under pressure; the carbon dioxide dissolves in the waterand leaves the hydrogen pure or nearly so.
+Another process consists in the action of steam on methane, SHEA. The equations for the reactions that take place are:SHEA + HO -- CO + 3H2 CO + H20 -- C2 + Ho The resulting carbon dioxide and hydrogen are separated as in Bosch process. In a similar way, hydrogen may be obtainedfrom other hydrocarbons.' Hydrogen is also obtained as a by-product from processes designed to prepare other substances, for example in the preparation of chlorine by electrolysis of sodiumchloride solution:
+Noah + (a), Of - awoke)) + 2H20 -- Noah (a), OH -awoke) + Ho + C12 and other important processes. The symbol (a) tells us that the substances are present in water(aqueous) solutions.
+;:-.;;
+I;' ' Finally, there is the natural way of attaining hydrogen by photosynthesis. At best the process is still in the laboratory small-scale stage and those in the artacknowledge the process can produce hydrogen with an efficiency of only 37%.
+It is generally acknowledged by scientists that every form of hydrogen production must be explored -- even if it is too costly, inefficient, or impractical. But, moresignificantly, hydrogen will be the fuel of the future.
+The only question remains how and when it will be produced.
+Reference is made to the publication Cheaper Hydrogen. Popular Science, September 1981, pages 10 through 14, that reviews and updates the above-noted processes.
+Summary of Invention Roy process of the present invention, unlike those of the prior art, is a simple, efficient, and low cost process or separating the hydrogen andoxygen atoms from water. No chemicals are added to the water and the electrical power utilized is only negligible..In its most fundamental concept the water (which may be uncontaminated or pure water, salt water, or contami-noted water) is passed between two plates of similarnon-oxidizing metal. The one plate has placed thereon a positive potential and the other a negative potential from a very low direct current voltage power source. Thehydrogen atoms are separated and collected for utilization.
+The contaminants in the water are dissociated and the dissociated parts may be collected and disposed of or utilized. This in turn leads to recombining the hydrogen andoxygen to form pure water.
+The direct current voltage is non-regulated and non-filtered. Experimentation demonstrated that the direct current voltage acts as a static force on the water molecules;I:
+. .. .So :
+.
+lZ3477~
+whereas the rippling direct current voltage acts as a dynamic force. Pulsating the direct current further aye dynamic force and enhances considerably the splitting of theatoms from the water molecules.s The apparatus for carrying out the process is extremely simple and can be manufactured most inexpensively. Certain plate arrangements and configurations aredisclosed with graphical illustration of relative efficiency. Alternative structure for separating and collecting the hydrogen from the oxygen is disclosed.
+Objects It is accordingly a principal object of the present invention to provide method and means that is operable for producing hydrogen and oxygen from any naturalwater irrespective of its purity.
+Another object of the present invention is to provide a hydrogèn/oxygen generator that is operable from very low electrical power, extremely efficient, and wherein thecost of operation is minimal.
+Another object of the present invention is to provide a hydrogen/oxygen generator using water containing contaminants, and thereafter recombining thehydrogen/oxygen to form pure water.
+30~ Still another object of the present invention is to provide a hyd~rogen/oxy~en generator that utilizes apparatus of simple and luckiest materials, and which structurecan be made in varying sizes, and duplicated without loss of efficiency.
+Other objects and features of the present invention will become apparent from a reading of the detailed description of the preferred embodiment and its alternativestructures when T : taken in conjunction with the drawings in which:
+.
+lZ3gL~
+BRIEF DESCRIPTION OF TOE DRAWINGS
+Figure 1 is an illustration in cross-section of the operable constructed preferred embodiment of the present invention;
+Figure 2 illustrates a coaxial cluster or array of plates utilized in the embodiment of Figure l;
+Figure 3 is a first alternative plate arrangement, a concentric coaxial array;
+Figure 4 is another alternative plate arrangement, a flat plate array;
+Figure 5 diagrammatically illustrates applying a voltage potential to several plates;
+Figure 6 illustrates the principles of the present ; invention in its most simplified embodiment;
+Figure 7 is the preferred embodiment shown in Figure 1 except in this illustration, the view is perspective;Figure 8 is a graphical illustration of amperage versus gas ` generated, and effect as to condition of water;:.Figure 9 is a graphical illustration of DO voltage versus gas generated and increases in water temperatures;
+Figure 10 is a graphical illustration of gas eater versus tube length in a tubular plate arrangement;
+35~ Figure 11 is a graphical illustration of applied power versus gas generated for portray;
+foe : ` ' ' :
+~L~34~7~
+Figure 12 is a graphical illustration of gas generation for three different geometrical configurations of plate structure;
+Figure 13 is a graphical illustration of gas generated with the plates having increasing separation;
+Figure 14 is a graphical illustration of electrical costs versus gas generated, and increases in Exciter Plate 5;
+Figure 15 is a graphical illustration of different applied : power versus gas generated, for various types of water conditions; and Figure 16 is a graphical illustration of gasgenerated versus pulse direct current repetition rate.
+: ::
+IJo :
+.: : :
+' .. ~.`~ , :: `. .
+:: , ,::::
+Detailed Description of Invention as Depicted in Drawings With particular reference now to Figure 6, there is illustrated schematically in cross-section the invention in itsmost simplified embodiment.
+A structure 110 contains water supply 15 comprising molecules aye xxx 62n, of hydrogen aye xxx 38n, oxygen, aye xxx 39n, and foreign substances aye xxx 64n. A pair ofplates go and 9b consisting of non-oxidizing metal -- and both of the same metal, are submerged in the water 15.-Attached to terminal 32 on the first of the plates pa is aware having its other end connected to the negative terminal power source 30 and another wire is connected toterminal 31 on plate 9b the other end of such wire being connected to the positive terminal of the aforesaid direct current voltage electrical source 30.
+The direct current voltage applied to the water passing between plates pa and 9b is sufficient to dissociate the hydrogen atoms aye xxx 38n and oxygen atoms aye xxx39n (appearing as bubbles) from the water molecules aye xxx 62n.The forceful action of the applied potential attacks the molecule structure of the water and not its atomic structure The foreign substance or contaminants aye xxx 64nare broken away from the water molecule aye xxx 62n, and spill over the outside area of the plates pa and 9b to a collector at the bottom of the tank 10.The hydrogen gas aye xxx 63n and oxygen gas aye xxx 65n rises above the liquid. The gases are separated, collected and thereafter utilized all asset forth below.. : :3~5~ The process shown with the apparatus of Figure 6 is operable, as depicted schematically, in its most crude form. To increase and enhance the action, the processand the apparatus are improved upon as shown in the constructed and preferred .:
+123~L77~
+embodiment of Figure 1 (a cross sectional view) and Figure 7 (a perspective view).,., The voltage source 30 (shown schematically in Figure 5) supplies a direct current voltage that is rectified but not filtered and not regulated. That is, the direct currentvoltage is rippled and unregulated. The varying amplitude eke/ripples, in terms of applied force act as a constant static physical force.The amount of electrical power required by the hydrogen/oxygen generator of the preferred embodiment, as illustrated, is surprisingly minimal. For the embodimentshown in Figures 1, 2 and 7, the power source 30 supplies 12 volts at 1 ampere.
+It can be appreciated, that increasing the voltage would enhance the forceful action upon the water molecule. The correlation of gas generated vs. electrical energy isgraphically illustrated in Figure 11. The gas generated is a linear function of the magnitude of voltage applied. However, there is a serious limitation to increasing thevoltage. As the voltage/current is increased the temperature of the water increases and eventually reaches a condition where steam is generated -- as illustratedgraphically in Figure 9. Further, as shown graphically in Figure 8, the current versus gas ?Jo generated is also a function of the type of water utilized.
+Therefore, in lieu of increasing the electrical power to enhance the action on the water molecules, other conditions must I; be considered. The first is to alter the platesource direct current voltage waveform p:With particular reference to Figure 5 there is illustrated an electronic switch for switching on and off the rippled DOoutput of supply 30~ The ripple is not removed. The plates aye xxx 32n are connected to common ground 34. The positive terminals aye xxx 33n are connectedrespectively to contacts aye , , 9 ~34~4 xxx 31n of switch 35 rotatively making and breaking contact with the direct-current voltage source 30.
+In function the pulsed rippled output voltage functions to forcefully apply to the water molecules a dynamic force, the pulse repetition rate determining the amount of gasgenerated.
+Other structured factors affecting the hydrogen gas generation comprise altering (1) plate size, I plate spacing r ( 3) number of plates, and (4) the plate configuration.All of these factors have been taken into consideration in the development of a plate configuration to provide optimum results for a preferred embodiment.With reference to Figure 2, there is shown an array or cluster of tubular plates utilized in the preferred embodiment of Figures 1 and 7. The term "plate" hereinafter, isintended to convey a large area electrical surface;and whether the surface is flat, curved, tubular or otherwise, is of no consequence except as hereinafter defined. Portico-laxly, each tubular plate comprises an outside
+tube aye xxx 32n, and an inside tube aye xxx 33n. Connecting each of the inner tubes aye xxx 33n is a terminal wire 34; and connecting each of the outside tubes througha common ground is a terminal wire 36. The two terminal wires 34 and 36 are connected to the positive and negative side respectively of the direct current voltagesource 30. Intermediate the outside and inside tubes are a series of spacers aye xxx 35n. The coaxial tubes in an array are shown pictorially in the perspective view ofFigure 7..With particular reference to Figure 3 there is illustrated, as an alternative to that utilized in the preferred embodiment another plate arrangement and configure-lion. thisconcentric ring array comprises a series of co-axial radially spaced tubes with equal spacing between adjacent tubes. The center tube aye and the alternate tubes 38band 38c serve as the positive plates connected to positive wire terminal ~;23~7~
+34. Each of the tubular plates aye, 3~b, and 38c is interconnected via connectors pa and 8b to wire terminal 34.The three spacers aye, 39b, and 39c maintain a uniform spacing between the respective tubular plates.
+With particular reference to Figure 4 there is shown still another plate arrangement and configuration. In this embodiment shown in cross-section, the positive plates paxxx on are interconnected by electrode aye whereas the negative plates ha xxx fin are interconnected by the electrode 12b.
+With particular reference to Figure 12 there is illustrated graphically the efficiency of the tubular plate array of Figure
+2, the cluster tubular array of Figure 3, and the flat plate array of Figure 4. Specifically there is shown the gas generation versus the plate configuration. It can beappreciated from this graph why the embodiment of Figure 1 includes the cluster tubular array of figure 2.
+As stated above another factor affecting the gas generation output is the plate separation. With particular reference to Figure 13 there is illustrated graphically platespacing versus gas generation. As can be seen, the greater the spacing the less gas generation. The efficiency versus spacing of the plates is a linear decrease withspacing.
+As stated above, the applied direct current voltage across the positive current voltage plates having water there between is a force applied -- in the nature of a physicalforce -- to the water molecules. The applied force is sufficient to cause the hydrogen and oxygen atoms to dissociate themselves from the water molecule and anythingelse that may be included therewith.
+In the aforementioned prior art system of hydrogen gas generation such as the electrolysis process, it is essential that the water be distilled or otherwise made pure..
+. I:
+I' ' ' ' .
+123~7'^~
+To determine the relative differences of the amount of gas generated versus the purity of the water, analysis was made of distilled water, rain water, city tap water, riverwater! well water untreated, well water treated, and sea water. The results of gas generation versus electrical power are illustrated in Figures 8 and 15 graphically for eachof the waters tested.
+It appears that water containing contaminants aids gas generation; however, the nature of the water contaminants appears to have no significance. The hydrogen atomsand oxygen atoms dissociate themselves from the water molecule. Anything else that may be included in the water is also bombarded loose and overflows the tank 37and falls to the bottom 43.
+Having now examined the applied electrical force phenomena the physical configuration of the electrical plates, the power applied, and the condition of the water,reference is made specifically to-the construction, function and operation of the hydrogen gas generator of the present invention which is shown in cross-section inFigure 1 and in perspective in Figure 7.
+The container 10 is a square elongated box configuration completely enclosing and sealing the components as hereinafter described.
+Water, from which the hydrogen gas is to be taken, enters via inlet 42 to the chamber 36. The water is pumped or enters under normal pressure from a source via line 56.As mentioned above, the water need not be pure and hence may originate from any source. The water from source 42 enters chamber 36 which is a free area to an opentop enclosure 3?.
+The water entering chamber 36 is caused to rise upwardly through the plates of the cluster 60 previously described in more detail relative to Figure 2.
+Jo "I,, ,~, . ....
+~Z~4~74 Applied to the inner tubular structures is a positive direct current voltage, and to the outer tubular structures of the cluster array 60 is applied a negative directcurrent voltage. The direct current voltage is applied via terminals 4 S connected to a suitable direct current voltage power source 30.I' The hydrogen gas is depicted in Figure 1 as a solid circle 38 whereas the oxygen gas is depicted as the open circles 39.
+Sue The separated hydrogen and oxygen rise into the accumulator chamber 47.
+Not all of the water molecules are broken up into their various atomic components. Thus, the unspent water 41 spills over the top of chamber 37 and drops down throughouter chamber 54 and back to reservoir 43.
+As aforesaid, it is not necessary to utilize water, the intake water will include several forms of contaminants. As best understood, when the water molecule is bombardedwith the dynamic and static electrical force, the contaminants adhering to the water molecules are shaken loose and released therefrom.The contaminants, too, rise to the top of chamber 37 and fill a part of the spool 41. in that the contaminants do not contain hydrogen or oxygen, there will be no atomicbreakup.
+The combination of water with contaminants drops down into extraction chamber 43.
+In the extraction chamber 43 most of the sediment or sludge will drop to the bottom of the chamber 32. The water with most of the sediment removed passes throughthe ports aye xxx 33n, through charcoal filter 31, and into return water chamber 44.The uppermost portion of the water in chamber 44 drops into stand pipe 35.The water cleansed of substantially all contaminants, exits via pipe 45 and then through line 55 and back to inlet pipe 42.
+` I
+..: : .
+. : .
+~LZ~3~7~
+;
+The combined water from inlets 55 and 56 is again processed as aforesaid.
+:
+, .:: ,:: :: : : ' , .,.. -:: : ' -: -
+Cited By (1)
+Publication number Priority datePublication dateAssignee Title
+US6896789B2 2001-06-042005-05-24 Canadian Hydrogen Energy CompanyLimited Electrolysis cell and internal combustion engine kit comprisingthe same
+Family To Family Citations
+* Cited by examiner, †  Cited by third party, ‡  Family to family citation
+Similar Documents
+Publication Publication Date Title
+US4457816A 1984-07-03 Electrolysis method for decomposing water into hydrogen gas and oxygen gas
+JP4806017B2 2011-11-02 Hydrogen generation system
+US4416747A 1983-11-22 Process for the synthetic production of ozone by electrolysis and use thereof
+US4726888A 1988-02-23 Electrolysis of water
+US20130175163A1 2013-07-11 Apparatus and method for generating hydrogen from water
+EP0276789A2 1988-08-03 Electrochemical deoxygenation process for corrosion control in deionized waters
+JP6250531B2 2017-12-20 Cell for depolarization electrodialysis of salt solution
+US20060011489A1 2006-01-19 Electrolysis process and apparatus
+NL2023775B1 2021-05-12 Compact electrochemical stack using corrugated electrodes
+US4784735A 1988-11-15 Concentric tube membrane electrolytic cell with an internal recycle device
+Rahman et al. 2020 Batch electrocoagulation treatment of peat water in Sarawak with galvanized iron electrodes
+CN102308028A 2012-01-04 Device and method for producing combustible gas from carbonaceous matter and water
+RU2641645C2 2018-01-19 Method and plant for gas production
+CA1234774A 1988-04-05 Hydrogen generator system
+US3262869A 1966-07-26 Process of producing potable water from urine by electrochemical means
+EP0111573A1 1984-06-27 Hydrogen generator system
+JP3406390B2 2003-05-12 Deuterium enrichment method and apparatus
+JP2012007206A 2012-01-12 Electrolytic cell
+Williams 1975 Electrolysis of sea water
+WO2020009572A1 2020-01-09 Electrolysis system comprising an electrode array
+FI60723B 1981-11-30 MED KVICKSILVERKATOD FOERSEDD VERTIKAL ELEKTROLYSERINGSANORDNING
+US3474014A 1969-10-21 Electrogravitational desalination of saline water
+JP7843182B2 2026-04-09 Valuable material recovery device
+KR960009108Y1 1996-10-15 Hydrogen and Oxygen Gas Separation Generator
+RU2147555C1 2000-04-20 Magneto-dynamic apparatus for alternate-current electrochemical sodium hydroxide production
+Priority And Related Applications
+Priority Applications (1)
+Application Priority date Filing date Title
+CA000420908A 1983-02-04 1983-02-04 Hydrogen generator system
+Applications Claiming Priority (1)
+Application Filing date Title
+CA000420908A 1983-02-04 Hydrogen generator system
+Legal Events
+Date Code Title Description
+2005-04-05 MKEX Expiry
+Concepts
+machine-extracted  DownloadFilter table
+Name Image Sections Count Query match
+Hydrogen title,claims,abstract,description430.000
+hydrogen title,claims,abstract,description370.000
+hydrogen title,claims,abstract,description370.000
+water claims,abstract,description760.000
+method claims,abstract,description240.000
+oxygen atom claims,abstract,description140.000
+atomic oxygen claims,abstract,description130.000
+oxygen claims,abstract,description130.000
+oxygen claims,abstract,description130.000
+hydrogen atom claims,abstract,description110.000
+oxidative effect claims,abstract,description100.000
+Dioxygen claims,abstract,description70.000
+dioxygen claims,abstract,description70.000
+gas claims,description250.000
+natural water claims,description50.000
+atom claims,description30.000
+material claims,description30.000
+manufacturing process claims,description20.000
+electrolyte claims20.000
+dependent effect claims10.000
+noncorrosive effect claims10.000
+sand claims10.000
+contaminant abstract,description130.000
+metal abstract,description40.000
+metal abstract,description40.000
+regulatory effect abstract,description40.000
+separation method abstract,description40.000
+liquid abstract,description20.000
+slurry abstract 10.000
+Show all concepts from the description section
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

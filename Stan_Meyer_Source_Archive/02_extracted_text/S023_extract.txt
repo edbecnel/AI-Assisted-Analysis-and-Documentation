@@ -1,0 +1,196 @@
+Controlled process for the production of thermal energy from gases and apparatus useful therefor.
+Abstract
+A method of and apparatus for obtaining the release of energy from a gas mixture includinghydrogen and oxygen in which charged ions are stimulated to an activated state, and then passedthrough a resonant cavity, where successively increasing energy levels are achieved, and finallypassed to an outlet orifice to produce thermal explosive energy.
+Classifications
+F02K99/00 Subject matter not provided for in other groups of this subclass
+Landscapes
+Engineering & Computer Science
+Chemical & Material Sciences
+EP0333854A4
+European Patent Office
+ Find Prior Art  Similar
+Other languages: German, French
+Inventor: Stanley A Meyer
+Current Assignee: Individual
+Worldwide applications
+1987US1988EPWO
+Application EP19890900379 events 
+1988-08-04Application filed by Individual
+1989-09-27Publication of EP0333854A1
+1989-10-24Publication of EP0333854A4
+Status Withdrawn
+Info: Patent citations (6), Cited by (11), Legal events, Similardocuments, Priority and Related Applications
+External links: Espacenet, EPO GPI, EP Register, Global Dossier,Discuss
+Claims Hide Dependent 
+WHAT IS CLAIMED IS:
+1. A method of obtaining the release of energy from a gas mixture including hydrogen and oxygen consisting of:
+(A) providing a first gas mixture including at least a portion of hydrogen and oxygen gases;
+(B) subjecting the gas mixture to a pulsating, polar electric field whereby electrons of the gas atoms are distended in their orbital fields by reason of their subjection to electricalpolar forces, at a frequency such that the pulsating electric field induces a resonance with respect to an eletron of the gas atom;
+(C) cascading said gas atoms with respect to the pulsating electric field such that the energy level of the resonant electron is increased in cascading incremental steps;
+(D) ionizing said gas atoms;
+(E) subjecting the ionized gas atoms to electromagnetic wave energy having a predetermined frequency to induce a further election resonance in the ion, whereby the energylevel of the electron is successively increased;
+(F) extracting further electrons from the resonating ions while such ions are in an increased energy state to destabilize the nuclear and electron configuration of said ions; and
+(G) subjecting the destabilized ions to thermal ignition.
+2. An apparatus for obtaining the release of energy from a gas mixture including hydrogen and oxygen consisting of successively interconnected:
+(A) first means for providing a first gas mixture including at least a portion of hydrogen and oxygen gas;
+(B) second means for providing a pulsating, polar electric field to the gas mixture, whereby electrons of the gas atoms are distended in their orbital fields by reason of theirsubjection to electrical polar forces, at a frequency such that the pulsating electric field induces a resonance with respect to an electron of the gas atom; and the energy level ofthe resonant electron is increased in cascading, incremental steps;
+(C) third means for providing a further electric field to ionize said gas atoms;
+(D) an electromagnetic wave energy source for subjecting the ionized gas atoms to wave energy of a predetermined frequency to induce a further election resonance in the ion,whereby the energy level of the electron is further successively increased;
+(E) an electron sink for extracting electrons from the resonanting ions while such ions are in an increased energy state to destabilize the nuclear and electron configuration ofsaid ions; [and]
+  P a t e n t s
+Show more
+
+(F) fourth means for directing particle flow in a continuous manner through the elctric fields, wave energy source and electron sink to a final orifice at which the destabilized ionsare thermally ignited; and
+(G) a final orifice at which the mixture initially provided by the first means, after having passed through and been processed by the preceeding means of the apparatus, isthermally ignited.
+Description
+CONTROLLED PROCESS FOR THE PRODUCTION OF THERMAL ENERGY FROM GASES AND APPARATUS USEFUL THEREFORE
+Field of the Invention
+This invention relates to a method of and apparatus for obtaining the release of energy from a gas mixture including hydrogen and oxygen in which charged ions arestimulated to an activated state, and then passed through a resonant cavity, where successively increasing energy levels are achieved, and finally passed to an outletorifice to produce thermal explosive energy.
+Background of the Prior Art
+Processes have been proposed for many years in which controlled energy producing reactions of atomic particles are expected to occur under "cold" conditions. fSee,e.g.. Rafelski, J. and Jones, S.E., "Cold Nuclear Fusion," Scientific American. July, 1987, page 84] . The process and apparatus described herein are considered variationsto and improvements in processes by which energy is derived from excited atomic components in a controllable manner.
+Ob.iects of the Invention
+It is an object of the invention to realize significant energy-yield from water atoms. Molecules of water are broken down into hydrogen and oxygen gases. Electricallycharged gas ions of opposite electrical polarity are activated by electromagnetic wave energy and exposed to a high temperature thermal zone. Significant amounts ofthermal energy with explosive force beyond the gas burning stage are released.
+An explosive thermal energy under a controlled state is produced. The process and apparatus provide a heat energy source useful for power generation, aircraft, rocketengines, or space stations. Brief Description of the Drawings
+Figure 1 illustrates a staged arrangement of apparatus useful in the process, beginning with a water inlet and culminating in the production of thermal explosive energy.
+Figure 2A shows a cross-section of a circular gas resonant cavity used in the final stage assembly of Figure 1.
+Figure 2B shows an alternative final stage injection system useful in the apparatus of Figure 1.
+Figure 2C shows an optical thermal lens assembly for use either final stage of Figure 2A or Figure 2B.
+Figures 3A, 3B, 3C and 3D are illustrations depicting various theoretical bases for atomic phenomena expected to occur during operation of the invention herein.
+Figure 4 is an electrical schematic of the voltage source for the gas resonant cavity.
+Figures 5A and 5B, respectively, show (A) an electron extractor grid used in the injector assemblies of Figure 2A and Figure 2B, and (B) the electronic control circuit forthe extractor grid. Description of the Preferred Embodiment
+The hydrogen fracturing process, follows the sequence of steps shown in the following Table I in which beginning with water molecules, the molecule is subjected tosuccessively increasing electrical, wave energy and thermal forces. In the succession of forces, radomly oriented water molecules are aligned with respect to molecularpolar orientation and are themselves polarized and "elongated" by the application of an electric potential to the extent that covalent bonding of the water molecule is soweakened that the atoms disassociate and the molecule breaks down into hydrogen and oxygen elemental components. The released atomic gases are next ionized andelectrically charged in a vessel while being subjected to a further energy source that promotes inter-particle impact in the gas at an increased overall energy level. Finally,the atomic particles in the excited gas, having achieved successively higher energy levels, are subjected to a laser or electromagnetic wave energy source that producesatomic destabilization and the final release of thermal explosive energy. Engineering design parameters based on known theoretical principles of atomic physicsdetermine the incremental levels of electrical and wave energy input required to produce resonance in each stage of the system. Instead of a dampening effect, aresonant energization of the molecule, atom or ion provides a compounding energy interaction resulting in the final energy release.
+TABLE I
+PROCESS STEPS LEADING TO IGNITION
+RELATIVE STATE OF WATER MOLECULE AND/OR HYDROGEN/OXYGEN/OTHER ATOMS
+1st Stage
+RANDOM Water to Gas
+ALIGNMENT
+POLARIZATION
+MOLECULAR ELONGATION
+ATOM LIBERATION 2nd Stage
+Gas Ionization
+LIQUID TO GAS IONIZATION
+ELECTRICAL CHARGING EFFECT
+PARTICLE IMPACT
+ELECTROMAGNETIC WAVE, LASER OR PHOTON 3rd Stage INJECTION Priming
+ELECTRON EXTRACTION
+ATOMIC DESTABILIZATION
+THERMAL IGNITION Final Stage Ignition
+After the first stage in which water is broken down into its atomic components in a mixture of hydrogen, oxygen and formerly dissolved entrapped gasses, the gas atomsbecome elongated during electron removal as the atoms are ionized. Laser, or light wave energy of a predetermined frequency is injected into a containment vessel in agas ionization process. The light energy absorbed by voltage stimulated gas nuclei causes destabilization of gas ions still further. The absorbed laser energy causes thegas nuclei to increase in energy state, which, in turn, causes electron deflection to a higher orbital shell.
+The electrically charged and laser primed combustible gas ions from a gas resonant cavity may be directed into an optical thermal lens assembly for triggering. Beforeentry into the optimal thermal lens, however, electrons are stripped from the ions and the atom is destabilized. The destabilized gas ions which are electrically and massunbalanced atoms having highly energized nuclei are pressurized during spark ignition. The unbalanced, destablized atomic components thermally interact; the energizedand unstable hydrogen gas nuclei collide with highly energized and unstable oxygen gas nuclei, causing and producing thermal explosive energy beyond the gas burningstage. The ambient air gas components in the initial mixture aid the thermal explosive process under a controlled state.
+In the process, the point of optimum energy-yield is reached when the electron deficient oxygen atoms (having less than a normal number of electrons) lock onto andcapture a hydrogen atom electron prior to or during thermal combustion of the hydrogen/oxygen mixture. Atomic decay results in the release of energy.
+In a general outline of the method, a first gas mixture including at least a portion of hydrogen and oxygen gases is provided. The gas mixture is subjected to a pulsating,polar electric field whereby electrons of the gas atoms are distended in their orbital fields by reason of their subjection to electrical polar forces. The polar pulsatingfrequency applied is such that the pulsating electric field induces a resonance with respect to an election of the gas atom. A cascade effect results and the energy levelof specific resonating electron is increased in cascading, incremental steps.
+Next, the gas atoms are ionized and subjected to electro-magnetic wave energy having a predetermined frequency to induce a further election resonance in the ion,whereby the energy level of the election is successively increased. Electrons are extracted from the resonating ions while such ions are in an increased energy state todestabilize the nuclear electron configuration of said ions; and the gas mixture of destabilized ions is thermally ignited.
+In the apparatus shown in Figure 1, water is introduced at inlet 1 into a first stage water fracturing module 2 in which water molecules are broken down into hydrogen,oxygen and released entrapped gas components by an electrical disassociation process and apparatus. The released atomic gases and other gas components formerlyentrapped as dissolved gases in water may be introduced to a successive stage 3 or other number of like resonant cavities, which are arranged in either a series orparallel combined array. The successive energization of the gas atoms provides a cascading effect, successively increasing the voltage stimulation level of the releasedgasses as they sequentially pass through cavities 2, 3, etc. In a final stage, an injector system 4, of a configuration of the type shown in Figures 2A or 2B, receivesenergized atomic and gas particles where the particles are subjected to further energy input, electrical excitation and thermal stimulation, whereby thermal explosiveenergy results 5, which may be directed thru a lens assembly of the type shown in Figure 2C to provide a controlled thermal energy output.
+Electromagnetic wave activated and electrically charged gas ions of hydrogen and oxygen (of opposite polarity) are expelled from the cascaded cells 2, 3, etc. The effectof cascading successively increases the voltage stimulation level of the released gases, which then are directed to the final injector assembly 4. In the injector assembly,gas ions are stimulated to a yet higher energy level. The gases are continually exposed to a pulsating laser or other electromagnetic wave energy source together with ahigh intensity oscillating voltage field that occurs within the cell between electrodes or conductive plates of opposite electrical polarity. A preferred construction materialfor the plates is a stainless steel T-304 which is non-chemically reactive with water, hydrogen, or oxygen. An electrically conductive material which is inert in the fluidenvironment is a desirable material of construction for the electrical field producing plates, through which field the gas stream of activated particles passes. Gas ions ofopposite electrical charges reach and maintain a critical energy level state. The gas ions are oppositely electrically charged and subjected to oscillating voltage fields ofopposite polarity and are also subjected to a pulsating electromagnetic wave energy source. Immediately after reaching critical energy, the excited gas ions are exposedto a high temperature thermal zone in the injection cell, 4, that causes the excited gas ions to undergo gas combustion. The gas ignition triggers atomic decay andreleases thermal energy, 5, with explosive force.
+Once triggered, the thermal explosive energy output is controllable by the attenuation of operational parameters. With reference to Figure 4A, for example, once thefrequency of resonance is identified, by varying applied pulse voltage to the initial water fuel cell assemblies, 2, 3, the ultimate explosive energy output is likewise varied.By varying the pulse shape and/or amplitude or pulse train sequence of the electromagnetic wave energy source, final output is varied. Attenuation of the voltage fieldfrequency in the form of OFF and ON pulses likewise affects output of the staged apparatus. Each control mechanism can be used separately, grouped in sections, orsystematically arranged in a sequential manner.
+The overall apparatus thus includes means for providing a first gas mixture consisting of at least a portion of hydrogen and oxygen gas. The gases may be obtained bydisassociation of the water molecule. An electrical circuit of the type shown in Figure 4 provides a pulsating, polar electric field to the gas mixture as illustrated in Figure3A, whereby electrons of the gas atoms are distended in their orbital fields by reason of their subjection to electrical polar forces, changing from the state conceptuallyillustrated by Figure 3B to that of Figure 3C, at a frequency such that the pulsating electric field induces a resonance with respect to electrons of the gas atoms. Theenergy level of the resonant electrons is thereby increased in cascading, incremental steps. A further electric field to ionize said gas atoms is applied and anelectromagnetic wave energy source for subjecting the ionized gas atoms to wave energy of a predetermined frequency to induce a further electron resonance in the ion,whereby the energy level of the election is successively increased is an additional element of the apparatus as shown in Figure 3D.
+An electron sink, which may be in the form of the grid element shown in Figure 5A, extracts further electrons from the resonating ions while such ions are in an increasedenergy state and destabilizes the nuclear electron configuration of the ions. The "extraction" of electrons by the sink means is coordinated with the pulsating electricalfield of the resonant cavity produced by the circuit of Figure 4, by means of an interconnected synchronization circuit, such as shown in Figure 5B. A nozzle, 10 in Figure2B, or thermal lens assembly, Figure 2C, provides the directing means in which the destabilized ions are finally thermally ignited.
+As previously noted, to reach and trigger the ultimate atomic decay of the fuel cell gases at the final stage, sequential steps are taken. First, water molecules are split intocomponent atomic elements (hydrogen and oxygen gases) by a voltage stimulation process called the electrical polarization process which also releases dissolvedgases entrapped in the water. In the injector assembly, a laser produced light wave or other form of coherent electromagnetic wave energy capable of stimulating aresonance within the atomic components is absorbed by the mixture of gases (hydrogen/oxygen/ambient air gases) released by the polarization process. At this point,as shown in Figure 3B, the individual atoms are subjected to an electric field to begin an ionization process.
+The laser or electromagnetic wave energy is absorbed and causes gas atoms to lose electrons and form positively charged gas ions. The energized hydrogen atomswhich, as ionized, are positively charged, now accept electrons liberated from the heavier gases and attract other negatively charged gas ions as conceptually illustratedin Figure 3C. Positively and negatively charged gas ions are re-exposed to further pulsating energy sources to maintain random distribution of ionized atomic gasparticles.
+The gas ions within the wave energy chamber are subjected to an oscillating high intensity voltage field in a chamber 11 in Figures 2A and 2B formed within electrodes12 and 13 in Figures 2A and 2B of opposite electrical polarity to produce a resonant cavity. The gas ions reach a critical energy state at a resonant state.
+At this point, within the chamber, additional electrons are attracted to said positive electrode; whereas, positively charged ions or atomic nuclei are attracted to thenegative electrode. The positive and negative attraction forces are co-ordinate and operate on said gas ions simultaneously; the attraction forces are non-reversible. Thegas ions experience atomic component deflection approaching the point of electron separation. At this point electrons are extracted from the chamber by a grid systemsuch as shown in Figure 5A. The extracted electrons are consumed and prevented from re-entering the chamber by a circuit such as shown in Figure 5B. The elongatedgas ions are subjected to a thermal heat zone to cause gas ignition, releasing thermal energy with explosive force. During ionic gas combustion, highly energized andstimulated atoms and atom nuclei collide and explode during thermal excitation. The hydrogen fracturing process occurring sustains and maintains a thermal zone, at atemperature in excess of normal hydrogen/oxygen combustion temperature, to wit, in excess of 2500°F. To cause and maintain atomic elongation depicted in Figure 3Cbefore gas ignition, a voltage intensifier circuit such as shown in Figure 4 is utilized as a current restricting voltage source to provide the excitation voltage applied to theresonant cavity. At the same time the interconnected eletron extractor circuit, Figure 5B, prevents the reintroduction of electrons back into the system. Depending oncalculated design parameters, a predetermined voltage and frequency range may be designed for any particular application or physical configuration of the apparatus.
+In the operation of the assembly, the pulse train source for the gas resonant cavity shown at 2 and 3 in Figure 1 may be derived from a circuit such as shown in Figure 4.It is necessary in the final electron extraction that the frequency with which electrons are removed from the system by sequenced and synchronized with the pulsing ofthe gas resonant cavity. In the circuit of Figure 5B, the coordination or synchronization of the circuit with the circuit of Figure 4 may be achieved by interconnecting point"A" of the gate circuit of Figure 5B to coordinate point "A" of the pulsing circuit of Figure 4.
+Together the hydrogen injector assembly 4 and the resonant cavity assemblies 2, 3 form a gas injector fuel cell which is compact, light in weight and design variable. Forexample, the hydrogen injector system is suited for automobiles and jet engines. Industrial applications require larger systems. For rocket engine applications, thehydrogen gas injector system is positioned at the top of each resonant cavity arranged in a parallel cluster array. If resonant cavities are sequentially combined in aparallel/series array, the hydrogen injection assembly is positioned after the exits of said resonant cavities are combined.
+From the outline of physical phenomena associated with the process described in Table 1, the theoretical basis of the invention considers the respective states ofmolecules, gases and ions derived from liquid water. Before voltage stimulation, water molecules are randomly dispersed throughout water within a container. When aunipolar voltage pulse train such as shown in Figure 3A (53a xxx 53n) is applied, an increasing voltage potential is induced in the molecules, gases and/or ions in a linear,step-like charging effect. The electrical field of the particles within a chamber including the electrical field plates increases from a low energy state (A) to a high energystate (J) in a step manner following each pulse-train as illustrated in Figure 3A. The increasing voltage potential is always positive in direct relationship to negativeground potential during each pulse. The voltage polarity on the plates which create the voltage fields remains constant. Positive and negative voltage "zones" are thusformed simultaneously.
+In the first stage of the process described in Table 1, because the water molecule naturally exhibits opposite electrical fields in a relatively polar configuration (the twohydrogen atoms are positively electrically charged relative to the negative electrically charged oxgen atom), the voltage pulse causes initially randomly oriented watermolecules in the liquid state to spin and orient themselves with reference to positive and negative poles of the voltage fields applied. The positive electrically chargedhydrogen atoms of said water molecule are attracted to a negative voltage field; while, at the same time, the negative electrically charged oxygen atoms of the samewater molecule an attracted to a positive voltage field. Even a slight potential difference applied to the inert, conductive plates of a containment chamber will initiatepolar atomic orientation within the water molecule based on polarity differences.
+When the potential difference applied causes the orientated water molecules to align themselves between the conductive plates, pulsing causes the voltage fieldintensity to be increased in accordance with Figure 3A. As further molecular alignment occurs, molecular movement is hindered. Because the positively chargedhydrogen atoms of said aligned molecules are attracted in a direction opposite to the negatively charged oxygen atoms, a polar charge alignment or distribution occurswithin the molecules between said voltage zones, as shown in Figure 3B. And as the energy level of the atoms subjected to resonant pulsing increases, the stationarywater molecules become elongated as shown in Figure 3C. Electrically charged nuclei and electrons are attracted toward opposite electrically charged voltage zones —disrupting the mass equilibium of the water molecule. In the first stage, as the water molecule is further exposed to a potential difference, the electrical force ofattraction of the atoms within the molecule to the electrodes of the chamber also increases in intensity. As a result, the covalent bonding between said atoms whichforms the molecule is weakened and ultimately terminated. The negatively charged electron is attracted toward the positively charged hydrogen atoms, while at the sametime, the negatively charged oxygen atoms repel electrons.
+Once the applied resonant energy caused by pulsation of the electrical field in the cavities reaches a threshold level, the disassociated water molecules, now in the formof liberated hydrogen, oxygen, and ambient air gases begin to ionize and lose or gain electrons during the final stage in the injector assembly. Atom destablization occursand the electrical and mass equilibrium of the atoms is disrupted. Again, the positive field produced within the chamber or cavity that encompasses the gas streamattracts negatively charged ions while the positively charged ions (and/or hydrogen nuclei) are attracted to the negative field. Atom stabilization does not occur becausethe pulsating voltage applied is repetitive without polarity change. A potential of approximately several thousand volts triggers the ionization state.
+As the ionized particles accumulate within said chamber, the electrical charging effect is again an incremental stepping effect that produces an accumlative increasedpotential while, at the same time, resonance occurs. The components of the atom begin to "vibrate" at a resonant frequency such that an atomic instability is created. Asshown in Figure 3D, a high energy level is achieved, which then collapses resulting in the release of thermal explosive energy. Particle impact occurs when liberated ionsin a gas are subjected to further voltage. A longitudinal cross section of a gas resonant cavity is shown in Figure 2A. To promote gas ionization, electromagnetic waveenergy such as a laser or photon energy source of a predetermined wave length and pulse-intensity is directed to and absorbed by the ions forming said gas. In thedevice of Figure 2A, semiconductor optical lasers 20a-20p, 20xxx surround the gas flow path. In the device of Figure 2B, photon energy 20 is injected into a separateabsorption chamber 21. The incremental stimulation of nuclei to a more highly energized state by electromagnetic wave energy causes electron deflection to a higherorbital state. The pulse rate as well as intensity of the electromagnetic wave source is varied to match the absorption rate of ionized particles to produce the steppedincremental increase in energy. A single laser coupled by means of fiber optic light guides is an alternative to the plurality of lasers shown in Figure 2B. Continuedexposure of the gas ions to different forms of wave energy during voltage stimulation maintains individual atoms in a destabilized state and prevents atomicstabilization.
+The highly energized gas ions are thermally ignited when said combustible gas ions pass from injector 4 and enter into and pass through a nozzle, 10 in Figure 2B, or anoptical thermal lens assembly such as shown in Figure 2C. In Figure 2C, the combustible gas ions are expelled through and beyond a quenching circuit, 30, and reflectedby lenses, 31 and 32, back and forth through a thermal heat zone, 33, prior to atomic breakdown beyond exiting through a final port, 34. A quenching circuit is a restrictedorifice through which the particle stream passes such that flashback does not occur. The deflection shield or lens, 31, superheats beyond 3,000° F. and the combustiblegas ions passing through said exiting-ports are regulated to allow a gas pressure to form inside said thermal zone. The energy yield is controlled by varying the appliedvoltage, or pulse-train since said thermal-lens assembly is self-adjusting to the flow-rate of said ionized and primed gases. The combustible ionic gas mixture iscomposed of hydrogen, oxygen, and ambient air gases. The hydrogen gas provides the thermal explosive force, the oxygen atoms aid the gas thermal ignition, and theambient air gases retard the gas thermal ignition process to a controllable state. As the combustible gas mixture is exposed to a voltage pulse train, the steppedincreasing voltage potential causes said moving gas atoms to become ionized (losing or gaining electrons) and changes -the electrical and mass equilibrium of said
+atoms. Gases that do not undergo the gas ionization process may accept the liberated electrons (electron entrapment) when exposed to light or photon stimulation. Theelectron extractor grid circuit, Figures 5A and 5B, is applied to the assembly of Figure 2A or Figure 2B, and restricts electron replacement. The extractor grid, 56, is appliedadjacent to electric field producing members, 44 and 45, within the resonant cavity. The gas ions incrementally reach a critical-state which occurs after a high energyresonant state. At this point the atoms no longer tolerate the missing electrons, the unbalanced electrical field, and the energy stored in the nucleus. Immediate collapseof the system occurs and energy is released as the atoms decay into thermal explosive energy.
+The repetitive application of a voltage pulse train (A through J of Figure 3A) incrementally achieves the critical state of said gas ions. As the gas atoms or ions (la xxx In)shown in Figure 3C become elongated during electron removal, electromagnetic wave energy of a predetermined frequency and intensity is injected. The wave energyabsorbed by the stimulated gas nuclei and electrons causes further destabilization of the ionic gas. The absorbed energy from all sources causes the gas nuclei toincrease in energy state, and induces the ejection of electrons from the nuclei.
+To further stimulate the electron entrapment process beyond the atomic level (capturing the liberated electrons during the hydrogen fracturing process) the electronextractor grid (as shown in Figure 5A) is placed in spaced relationship to the gas resonant cavity structure shown in Figure 2A. The electron extractor grid is attached toan electrical circuit (such as shown in Figure 5B) that allows electrons to flow to an electrical load, 55, when a positive electrical potential is placed on the opposite sideof said electrical load. The electrical load may be a typical power consuming device such as a light bulb or resistive heat producing device. As the positive electricalpotential is switched on or pulse-applied, the negative charged electrons liberated in the gas resonant cavity are drawn away and enter into resistive load where they areconsumed and released as heat or light energy. The consuming electrical circuit can be directly connected to the gas resonant cavity positive electrical voltage zone. Theincoming positive wave form applied to resonant cavity voltage zone through a blocking diode is synchronized with the pulse train applied to the gas resonant cavity bythe circuit of Figure 4 via alternate gate circuit. As one pulse train is gated "ON," the other pulse train is switched "OFF." A blocking diode directs the electron flow to saidelectrical load while resistive wire prevents voltage leakage during pulse train "ON" time.
+The electron extraction process is maintained during gas flow-rate change by varying the trigger pulse rate in relationship to applied voltage. The electron extractionprocess also prevents spark-ignition of the combustible gases traveling through the gas resonant cavity because electron - build-up and potential sparking is prevented.
+In an optical thermal lens assembly or thrust-nozzle, such as shown in Figure 2C, destablized gas ions (electrically and mass unbalanced gas atoms having highlyenergized nuclei) can be pressurized during spark-ignition. During thermal interaction, the highly energized and unstable hydrogen gas nuclei collide with the highlyenergized and unstable oxygen gas nuclei and produce thermal explosive energy beyond the gas burning stage. Other ambient air gases and ions not otherwiseconsumed limit the thermal explosive process.
+Variations of the process and apparatus may be evident to those skilled in the art.
+Patent Citations (6)
+Publication number Priority datePublication dateAssignee Title
+DE2440618A1 * 1974-08-221976-03-04 Herbert Radwainski Combustion air ozonising system - incoming air passes through electricalcapacitor cylinders in air filter
+US4569737A * 1984-04-051986-02-11 W. Scott Anderson Method of increasing the efficiency of a liquid hydrocarbon fuel
+Family To Family Citations
+US4233109A * 1976-01-161980-11-11 Zaidan Hojin Handotai KenkyuShinkokai Dry etching method
+JPS56105627A * 1980-01-281981-08-22 Fuji Photo Film Co Ltd Manufacture of amorphous semiconductor
+US4687753A * 1985-10-251987-08-18 Exxon Research AndEngineering Company Laser produced iron carbide-based catalysts
+US4695357A * 1985-11-251987-09-22 The Dow Chemical Company Removal of unsaturated hydrocarbons in anhydrous hydrogen halide byinfrared laser radiation
+* Cited by examiner, †  Cited by third party
+Cited By (11)
+Publication number Priority datePublication dateAssignee Title
+Family To Family Citations
+US5149407A * 1987-08-051992-09-22 Meyer Stanley A Process and apparatus for the production of fuel gas and the enhancedrelease of thermal energy from such gas
+WO1992022679A1 * 1991-05-171992-12-23 Meyer Stanley A Water fuel injection system
+US5632870A * 1994-05-131997-05-27 Kucherov; Yan R. Energy generation apparatus
+US8141523B2 * 2008-09-032012-03-27 Petrolfree, Inc. Method and apparatus for controlling an electric motor
+US8720389B2 2008-09-032014-05-13 Petrolfree, Inc. Method and apparatus for controlling an electric motor and an internalcombustion engine
+US20110214593A1 * 2010-03-052011-09-08 Prabir KumarRoychoudhury Eco-friendly system and process for generating thermal energy from wastebiomass
+WO2012079596A1 2010-12-142012-06-21 Harzim Gmbh Dissociation and separation of water molecules in an electric field
+GB201113786D0 * 2011-10-202011-10-20 Foy Andrew G Hydroxy generator
+EP3946715A4 2019-05-292022-12-28 Davis Technologies, LLC High efficiency hydrogen oxygen generation system and method
+US11492938B2 2020-02-282022-11-08 Applied ResonanceTechnology Llc Carbon capture in an internal combustion engine
+RU2749933C1 * 2020-06-172021-06-21 Виктор  ФедоровичКарбушев Liquid propulsion engine
+* Cited by examiner, †  Cited by third party, ‡  Family to family citation
+Similar Documents
+Publication Publication Date Title
+US5149407A 1992-09-22 Process and apparatus for the production of fuel gas and the enhanced release of thermal energy from such gas
+EP0381722A1 1990-08-16 Process and apparatus for the production of fuel gas and the enhanced release of thermal energy from such gas
+US4826581A 1989-05-02 Controlled process for the production of thermal energy from gases and apparatus useful therefore
+DE69116142T2 1996-08-01 MINIATURE IGNITER FOR A ENGINE ACCORDING TO THE RAIL LADDER PRINCIPLE
+US6477216B2 2002-11-05 Compound plasma configuration, and method and apparatus for generating a compound plasma configuration
+US4401618A 1983-08-30 Particle-induced thermonuclear fusion
+Yonas 1978 Fusion power with particle beams
+US2728877A 1955-12-27 Apparatus for obtaining extremely high temperatures
+US3094474A 1963-06-18 Apparatus for carrying on nuclear reactions
+US3125492A 1964-03-17 baker
+US3935504A 1976-01-27 Method and apparatus for injection of a plasma
+US20110170647A1 2011-07-14 Method and apparatus for controlling charged particles
+US2900566A 1959-08-18 Ultra-rapid displacement of gases
+US4121128A 1978-10-17 Collective ion accelerator with foil-less beam extraction window
+Tropina et al. 2020 Modeling of laser ignition in hydrogen-air mixture
+US20260049583A1 2026-02-19 Pulsed-Plasma-Discharge Engine and its Method of Operation
+Hagerman et al. 1963 Two high velocity plasma guns
+RU2490498C1 2013-08-20 Intermittent detonation engine
+WO1992022679A1 1992-12-23 Water fuel injection system
+Adams et al. 2010 Resonant laser induced breakdown for fuel-air ignition
+US11692516B1 2023-07-04 Quantum kinetic injector
+US12129838B2 2024-10-29 Fusion thruster
+SU434890A1 1980-06-15 Method of plasma generation
+Abdullah et al. 2023 Atmospheric Pressure Plasma Jet Assisted by Magnetic Field: A Simulation Study
+RU2173032C2 2001-08-27 Device for producing high-temperature plasma and neutron radiation
+Priority And Related Applications
+Applications Claiming Priority (2)
+Application Filing date Title
+US81859 1987-08-05
+US07/081,859 1987-08-05 Controlled process for the production of thermal energy from gases and apparatus useful therefore
+Legal Events
+Date CodeTitle Description
+1989-08-12PUAI Public reference made under article 153(3) epc to a published international application that has entered the european phaseFree format text:ORIGINAL CODE:0009012
+1989-09-27AK Designated contracting states Kind code of refdocument: A1
+Designated state(s): ATBE CH DE FR GB IT LI LUNL SE
+1989-12-1317P Request for examination filed Effective date:19891018
+1989-12-13A4 Supplementary search report drawn up and despatched Effective date:19891024
+1993-08-19STAAInformation on the status of an ep patent application or granted ep patent Free format text:STATUS: THEAPPLICATION ISDEEMED TO BEWITHDRAWN
+1993-10-0618DApplication deemed to be withdrawn Effective date:19930302
+Concepts
+machine-extracted  DownloadFilter table
+Name Image Sections Count Query match
+gas title,claims,abstract,description1350.000
+method title,claims,abstract,description270.000
+process title,description230.000
+manufacturing process title,description30.000
+ions claims,abstract,description590.000
+hydrogen claims,abstract,description280.000
+hydrogen claims,abstract,description280.000
+Hydrogen claims,abstract,description270.000
+mixture claims,abstract,description200.000
+atomic oxygen claims,abstract,description190.000
+oxygen claims,abstract,description190.000
+oxygen claims,abstract,description190.000
+electric field claims,description200.000
+particle claims,description140.000
+Dioxygen claims,description40.000
+dioxygen claims,description40.000
+preceeding effect claims10.000
+explosive abstract,description180.000
+Show all concepts from the description section
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

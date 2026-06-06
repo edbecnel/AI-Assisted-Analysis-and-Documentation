@@ -1,0 +1,63 @@
+Europaisches  Patentamt 
+European  Patent  Office 
+Office  europeen  des  brevets 
+©  Publication  number: 0  103  656 
+A3 
+© EUROPEAN  PATENT  APPLICATION 
+©  Application  number:  82111598.7 
+©  Date  of  filing:  14.12.82 
+©  Int.  CI.3:  C  01  B  3/04 
+©  Priority:  24.09.82  US  422594  @  Applicant:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+@  Date  of  publication  of  application: 
+28.03.84  Bulletin  84/13  @  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway ®  Date  of  deferred  publication  of  search  report:  22.08.84  Grove  City  Ohio  43123(US) 
+©  Designated  Contracting  States:  @  Representative:  Wasmeier,  Alfons,  Dipl.-lng.  et  al, AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE  Postfach  382  Gref  lingerstrasse  7 
+D-8400  Regensburg(DE) 
+< 
+ID 
+10 
+ID 
+w 
+o 
+@  Resonant  cavity  for  a  hydrogen  generator. 
+©  A  direct  current  voltage  exciter  for  utilization  in  a 
+non-electrolysis  process  and  apparatus  for  separating  hyd- 
+rogen<oxygen  gas  from  water.  The  non-oxidizing  exciters 
+comprise  a  plate  structure  with  negative  potential  applied  to 
+one  such  exciter  plate  (9)  and  a  positive  potential  applied  to 
+the  other  (15).  The  spacing  between  plates  comprises  a 
+resonant  cavity  (3)  to  a  particular  frequency.  The  direct 
+current  voltage  is  pulsed  at  a  repetition  rate  that  matches  the 
+frequency  of  the  resonant  cavity  (3).  The  sub-atomic  action  of 
+the  direct  current  voltage  on  the  plates  is  enhanced  consider- 
+ably  by  the  bombardment  of  the  atoms  within  the  resonant 
+structure.  A  spherical  plate  construction  is  described  with 
+alternative  structures  of  a  resonant  line. 
+0. 
+A.. 
+,roydon  Printing  Company  Ltd. 
+
+
+uui  upoai  i  i  aiui  il 
+Office tUHUrtAN  SEARCH  REPORT 
+01  03656 
+Application  number 
+EP  82  11  1598 
+uuuuMcrc  i  &  WNSlUfcHfcD  TO  dc  RELEVANT 
+—  -  —  —  —  —  @@•  —  •@«  •  @@»  wiwuiiwii,  niiBis  dp^lupilOtBi of  relevant  passages rmitsvani to  claim CLASSII-ICA  I  IUN  Or  THE APPLICATION  (Int.  CI.  ') 
+eK-.fw  cs«J  ^4/  (INOUE  JAP  AX) *  Page  2,  lines  1-40  * 
+C  01  B  3/04 
+F  02  B  43/10 
+TECHNICAL  FIELDS iEARCHED  (Int.  CI.  ') 
+—  r'**™1"  •  wfwi  *  »TO  uwvi  »  uionn  up  iui  ail  wiBiniB 
+b  02  B 
+:  oi  b 
+2  25  B 
+CHE  HAGUE rare^i^omgie^ior^o^ine^eari Examiner ASSENAAR  G. 
+L_ 
+:  particularly  relevant  if  taken  alone :  particularly  relevant  if  combined  with  another document  of  the  same  category :  technological  background »  :  non-written  disclosure 
+:  intermediate  document 
+.  meory  or  principle  underlying  the  invention :  :  earlier  patent  document,  but  published  on,  or after  the  filing  date >  :  document  cited  in  the  application :  document  cited  for  other  reasons 
+.  meinuer  oi  me  same  patent  lamiiy,  corresponding document 

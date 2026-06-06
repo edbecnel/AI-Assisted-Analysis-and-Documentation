@@ -1,0 +1,135 @@
+Hydrogen/air and non-cumbustible gas mixing combustion system
+Abstract
+ABSTRACT
+An internal combustion engine fuel supply and control that includes apparatus for disassociatinghydrogen atoms and oxygen atoms from water and mixing the gas so produced with a non-combustible gas in a predetermined ratio. The gas mixture is mixed with air in suitable proportionsand controllably directed to the combustion chamber of the internal combustion engine.
+Classifications
+Y02T10/30 Use of alternative fuels, e.g. biofuels
+Landscapes
+Output Control And Ontrol Of Special Type Engine
+CA1227094A
+Canada
+ Find Prior Art  Similar
+Other languages: French
+Inventor: Stanley A. Meyer
+Current Assignee: Individual
+Worldwide applications
+1983CA
+Application CA000420889A events 
+1983-02-04Application filed by Individual
+1983-02-04Priority to CA000420889A
+1987-09-22Application granted
+1987-09-22Publication of CA1227094A
+Status Expired
+Info: Legal events, Similar documents, Priority and RelatedApplications
+External links: Espacenet, Global Dossier, CIPO, Discuss
+Claims (21) Hide Dependent 
+THE EMBODIMENTS OF THE INVENTION IN WHICH AN EXCLUSIVEPROPERTY OR PRIVILEGE IS CLAIMED ARE DEFINED AS FOLLOWS:
+1. A combustion system comprising:a hydrogen source;a gas mixing chamber connected by suitable fluid flow passage means respectively to said hydrogen source and a further gas supply means via control valve means regulatingthe gas mixture ratio; and means for mixing air with mixed gases from said mixing chamber and supplying the same to a gas burner wherein the gas/air mixture is ignited bysuitable igniting means.
+2. The combustion system of Claim 1 including valve means for controlling the amount of air mixed with said mixed gases.
+3. The combustion system of Claim 1 wherein said means to ignite said gas/air mixture is a combustion chamber having an igniter.
+4. The combustion system of Claim 3 further including a drive mechanism associated with said combustion chamber and wherein said drive mechanism is responsive tosaid air-gas burning in said combustion chamber.
+5. The combustion system of Claim 3 wherein said combustion chamber further comprises outlet means for expelling the exhaust gases therefrom, and means forreturning a portion of said exhaust gases to said mixing chamber.
+6. The combustion system of Claim 4 wherein said hydrogen source is a hydrogen generator.
+7. The combustion system of Claims 3, 4 or 5 wherein said hydrogen source comprises a hydrogen-oxygen generator which includes:a housing having a water reservoir for retaining natural water therein and a gas collection chamber for maintaining a preset volume of gas under pressure; and a pair ofsimilar non-oxidizing plates, positioned in said water reservoir, adapted to be connected to a direct current voltage source to disassociate the hydrogen atoms andoxygen atoms from said water molecules and thereby provide a gas.
+8. The combustion system of Claim 1 wherein said hydrogen source is a hydrogen reservoir.
+9. The combustion system of Claim 3, further including a pilot light ignition means and means for directing a portion of said gas/air mixture thereto.
+10. The combustion system of Claim 3 wherein said means to ignite said mixed gases comprises an electrical ignition means and a source of electrical energy.
+11. The combustion system of Claim 3 wherein said combustion chamber comprises a mixed gas/air dispersing chamber having a series of ports therein.
+12. The combustion system of Claim 4 wherein said drive mechanism comprises an internal combustion engine.
+  P a t e n t s
+Show more
+
+13. The combustion system of Claim 4 further comprising a source of electrical energy connected to said igniter in a closed loop mechanical arrangement with said drivemechanism.
+14. The combustion system of Claim 5 wherein said means for returning a portion of said exhaust gases to said mixing means further includes cooling means for coolingsaid exhaust gases.
+15. The combustion system of Claim 5 wherein said means for returning a portion of said exhaust gases to said mixing means further includes a spark arrestor forpreventing uncontrolled combustion.
+16. The combustion system of Claim 6 wherein said hydrogen generator includes a source of electrical potential, and wherein said source of electrical potential isconnected in a closed loop mechanical arrangement with said drive mechanism.
+17. A fuel supply and control system for a vehicle having a combustion engine that includes a combustion chamber and means for igniting the combustible fuel thereincomprising:(a) means for disassociating hydrogen atoms and oxygen atoms from water molecules to thereby provide a combustible gas;(b) a gas mixing chamber;(c) means directing a flow of said combustible gas and a portion of the products of combustion from said combustion chamber into said gas mixing chamber;(d) means regulating the mixture ratio of said products of combustion and combustible gas to provide a first gas mixture;(e) means for proportionately mixing said first gas mixture and air providing a second gas mixture; and (f) means for controllably directing said second gas mixture into saidcombustion chamber for ignition therein by suitable igniting means.
+18. A fuel supply and control system as defined in Claim 17 wherein said means for disassociating said hydrogen and oxygen atoms comprises a water reservoir withpairs of similar spaced apart non-oxidizing plates therein selectively connected to a direct current voltage source and a gas collection chamber.
+19. A fuel supply and control system as defined in Claims 17 or 18 wherein said portion of exhaust gases pass through a cooler upstream of said gas mixing chamber.
+20. A fuel supply and control system as defined in Claims 17 or 18 wherein said mixture regulating means comprises first and second control valves controllingrespectively the flow of said combustible gas and said portion of the products of combustion to said gas mixing chamber.
+21. A fuel supply and control system as defined in Claim 18 wherein water is controllably recirculated through said water reservoir.
+Description
+o9~Titl~__ I~YDROGEN COMBUSTIOW SYSTEM
+Field oE Invention This invention relates to a combustion system and more particularly to one where the combustible gas mixture is hydrogen, oxygen and non-combustible gases.
+Backqround of Invention There is disclosed in my co-pending Canadian patent Application Serial No. 420,908, filed February 4, 1983, entitled "A ~ydrogen Generator" agenerating system converting natural water into hydrogen and oxygen gases. In that system and method, the hydrogen atoms are disassociated from a water moleculeby the application of a non-regulated, non-filtered, low-power, direct current voltage electrical potential applied to two non-oxidizing similar metal plates having waterpassing therebetween. The action is enhanced by pulsing the non-r~gulated and non-filtered direct current voltage. Particularly significant with my hydrogen generatordisclosed in my co-pending application supra is that the hydrogen/oxygen generated is in a quantity in excess of that necessary for practical utiliæation. Further, andequally significant is that the generation of the hydrogenJoxygen is controlled by any one of or combination of several factors, e.g. varying voltage~ varying pulse rate,varying spacing between plates, switching the number of plates, and changing the plate configuration.r~
+, .~, ' ;' t~
+The hydrogen/oxygen generation is a demand system; that is, the hydrogen/oxygen is generated only upon the need. Then, the generation is controlled in quantity by theneed; such as, accelerator Eor an automotive device.In an earlier hydrogen processox, non-combustible gases are controlled in a mixing stage with a combustible gas. The hydrogen processor system utilizes a rotationalmechanical gas displacement system to transfer, meter, mix, and pressurize the various gases. In the gas transformation process, ambient air is passed through an openflame gas burner system to eliminate gases and other present substances.Thereafter, the non-combustible gas-mixture is cooled, filtered for impurity removal, and mechanically mixed with a predetermined amount of hydrogen gas. The gasmixture provides the desired burn-rate. The rotational mechanical gas displacement system in that process determines the quantity by volume of combustible gasmixture to be producedOThe above-noted hydrogen processor is a multi-stage system having utility in special applications.The aforementioned co-pending application discloses a very simple and unique hydrogen generator.
+Summary oE Invention The system of the present invention in its pre~erred embodiment is for a combustion system having utility in a mechanical drive systemparticularly, in one instance, to drive a pistQn in an automotive device.
+The system utilizes the hydrogen generator of my co pending patent application Serial No. 420,908, for developing hydrogen gas, and other non-combustible gases suchas oxygen and nitrogen. The hydrogen gas with the attendant non-combustible gases in a controlled ratio are fed via a line to a controlled air intake system. Thecombined hydrogen, non-combustible gases, and the air after intermixing are fed to a comhustion chamber wherein the mixture is ignited. The exhaust gases of thecombustion chamber are returned in a closed loop arrangement to the mixing chamber to provide the non-combustible gases for the mixture. More speci~ically,generated hydrogen gas is fed to a gas mixing chamber where it is intermixed with non-combustible gases and such gas mixture is then fed to a carburetor ~air-mixture)system.The gas mixture is fed through nozzle means in a jet spray in a chamber and a valve or gate controls the amount of air intake to the jet spray. The gas mixture combineswith the air to form a combustible mixture o hydrogen, non-combustible gas, and oxygen. The combustible mixture enters into a combustion chamber conventional indesign and comprising a cylinder capable of withstanding high pressure. At the uppermost end of the combusti.on chamber is a spark plug igniter.Objects A principal ob~ect of the present invention is to provide a combustion system utilizing qases combined from a source of combustible an~ non-comb~stible
+qases.
+` ~2~7~4 Another ob~ect of the lnventit~n is to provlde a combu3tion system that utilizes hydrog~n as the combustible ya~and the ei~hau~t of the combustion ~yst~m a8 -the non--combustible gas.A further object of the present invention is to provide a combustion system of the foregoing in a mechanical drive system.Brief _es_~ption of _he Drawin~s The invention is illustrated by way of example in the accompanying drawings wherein Figure 1 is a schematic, cross-sectionalillustration of the present invention in it3 preferred embodi~ent;Figure 2 i5 a bloc~ schematic illustration of the preferred embodiment of Figure 1;Figure ~ is an alternative gas system for that shown in Figure 1;Figure 4 is a block schematic illustration of a gas control system for retrofittin~ existing automobiles to a combustion system of the pres~nt invention; and Fi~ure 5 is ablock schematic illustratiQn of regeneratlve energy feedba~k arran~ement accordi~g to the present invention.
+Description of P J Embodiments of_the Invention Referring particularly to Figure L the complete overall combustion system is illustrated toge-ther with a mechanicaldrive piston. Similarly, Figure 2 illustrates the complete systern in its preferred embodiment.With particular reference to Figure 1, the hydrogen source 10 is the hydrogen genera-tor disclosed and described in my aforementioned Application Serial No. ~20,908and includes an enclosure for a natural water bath 2.Immersed in the water 2 is an array of plates 3 of similar non-oxidizing material. Applied to plates 3 is a source of pulsed direct current potential via electrical inlet 27.The action of the pulsed direct current, a voltage/current potential, on the plates causes the hydrogen and oxygen atoms ~o become disassociated from the watermolecule.In that the action is not a chemical action, any water irrespective of source may be utilized.Varying either the potential of the direct current SQUrce or the pulse rate of the pulsing of the direct current potential will vary proportionately the generation oE thehydrogen/oxygen. Other factors are disclosed for varying the output of the generator. The water expended in the generator i5 replenished f~om continuous water source1.The hydrogen generator has a sa~ety valve 28 which is rupturable upon excessi~e gas buildup. Switch 29 i5 a ga3 pressure switch to maintain a predetermined gaspressure level above a regulated low-volume.
+,~ 5 The generated hydroyen gas 4 is fed via pipe 5 to a gas mi~ing chamber 7, wherein khe hydrogen gas is intermixed with non-combustible gases 22 from a sourcehereinafter described.The mixture of combustible gas and non-combustible gases are fed via pipe line 9 to a carburetor (air-mixture) system 20.The gas mixture 8 is fed through nozzle 11 to chamber 47 in a jet spray 46. Valve or gate 45 in the air intake controls the amount of air the jet spray 46 of gases combineswith to form combustible mixture lS whlch compri~e hydrogen, non-combustible gases and oxygen. This mixture enters into combustion chamber 30, via pipe line 1~.The chamber 30 may be conventional in design comprising a cylinder 17 capable of withstanding high pressure. At the uppermost end of combustion chamber 30 is aspark plug igniter 18.In a controlled manner, relative to the piston 23 stroke, the spark ignition 19 via plug 1~ causes the mixed gases 15 to combust. The compression 21 caused by thecombustion, forces the piston 23 to push downwardly in the cylinder 17.The exhaust gases 22, the residue of -the combust on 21~ now comprise a non-combustible mixture.A portion of these exhaust gases 22 are fed via pipe line 24 to the gas mixing chamber 4Q providin~ the non-combustible gases for mixing with the generated hydrogengas.
+:~ .
+~ ~27q)94~The pipe line 24 passes through cooling chamber 50 Eor cooling of the gases therein. The coollng chamber 50 also f-lnctions as a spark arrestor to eliminate thepossibility of gas ignition inside the mixing chamber 40.The excess non-combustible gases are exhausted via outlet 49, to be expelled into the atmosphere.The apparatus of Figure 2 comprises much -the same system as Fiyure 1. In this embodiment the components are depicted more explicitly in their structural relationshipin an alternate arrangement. Basically, the system is operable in the same manner as that in Figure 1, i.e. it utili~es a mixture of combustible (hydrogen) gas and non-combusti~le gases (exhaust).The hydrogen generator 10, as aforesaid, may be any form of a generator, however, in the preferred embodlment the hydrogen genarator is that of my aforementioned co-pending patent application. The water system Eor the generator is a closed loop system comprising a reservoir or tank 39 wlth piping to and from the generator. Thereservoir has an outlet 32 connected to a pipe line 33 provided with a water control valve 54 operahle to adjust the water Flow rate and a pump 34 connected by pipe line35 to the generator 10.The overflow water expended and non-expended is expelled fxom generator 10 into line 36, filtered in filter 41 to remove contaminants and returned to tank 39 via pipeline 37.
+. ~ ~
+1~709~
+The gases genera-ted from the water in generator 10 also .includes the oxygen component of the water in addition to nitrogen.The outlet 5 on the generator 10 receives the combustible(hydrogen)and non-combustible gases generated thereby and directs the same to the mixing chamber 40.The flow of the hydrogen gas is, of course, critical; therefore, there is incorporated in line S a gas Elow valve 53 to adjust the hydrogen gas ~low.
+The exhaust gases entering input 22 are fed via inlet pipe 31 through the cool.ing chamber also enter the mixing chamber and spark arrestor 50 and into outlet pipe 24.These gases from chamber 50 are flow controlled by flow control valve 51 in pipe line 2~.
+The output of mixing chamber 40, as clescribed relative to Figure 1 is fed via line 9 to a gas mix~u.re system 42. In this instance the intake air 14 may be in a carburetorarrangement with an intake adjustment 55 that adjusts the plate 42 opening. The gas mixture 15 is fecl into the carburetor by nozzle 11 and mixed with the air 14.With particular re~erence to Fiqure 3 there is illustrated an alternat.i~e combustiQn chamber 60 that may be utilized in lieu of the chamber 30 of Fi~ures 1 ancl 2.. In this embodiment the combustible and non-combustible gas mixture that is ~enerated and mixed in the arran~emeE~t of Pigures 1 and 2, enters inlet 8 and isdirected by pipe line 9 and nozzle 11 to the cone 65. The gas mixture combines with air 14 as it enters the cone area 65 and ~he combined ~: 8 ; - ~
+mixture combustible gas 15 i~ rec-ted by the cone 65 to the dispersing chamber 66. The gas/air m:ixture 15 is clispersed via ports 67a xxx 67n from the disperslng
+chamber 66 into the firing area oE the combustion chamber 60.The gas mixture erlterirlg inlet 8 is also fed by pipe line 9 to a separation chamber 71. This chamber sections off a controlled amount of the intake gas mixture to a pilotli.ght line 58. The pilot light firing gas 57 is also sequenced by the separatlon chamber 71 such as through an associated mechanical drive, much in the same manner asthe cylinder of an automobile engine.The mixture designated gas 56, ejected from ports 67a xxx 67n of the dispersing chamber 66, is ignited by the pilot light and thereby causing combustion 59 of themainstream gases.As the non-combustible gases 64 (exhaust gases 22 of Figure 1) rise upwardly in the cylinder 61, of the combustion chamber 60, the cone 63 captures a portion of thenon-combustible gases 64. The captured exhaust gas is returned via pipe line 68 and outlet 74 to the combustion process as set in Figure 1 or expelled for otherpurposes.The major portiol~ of the non-combustible gases 64 by-pass the cone 63 and rise further to the outlet e~haust 69 and are expelled through opening 73.In Figure 4, there is illustrated a gas control system that may be retrofitte~ to an existing automobile internal combustion engine without changing or modifying its designparameters or characteristics.As los~-voltage direct current is applied to safety valve 28, soleno1d 86 is activated. The solenoicl .i ~2~applies a control voltage to the hydrogen generator pla-tes ~via terminal 27 through pressure swi-tch 29. As the electrical power activates electric solenoid 86~ hydrogen gas is caused to pass through flow adjustment valve 53 andthen outlet pipe 5 for utilization.Gas regulator valve 75 is utilized to reduce the pressure level inside the hydrogen generator lO. The pressure differential hydrogen gas output to gas mixing chamber 40is, for example, 30 lbs. to 15 lbs. Once hydrogen generator 10 reaches an optimum gas pressure level, pressure switch 29 shuts off electrical power to the hydrogenexciters.If the chamber pressure exceeds a predetermined level, the safety release valve 28 is activated disconnecting the electrical current and thereby shutting down the entiresystem for safety inspection.Similar to an automobile engine or other drive force requiring an electrical energizing source, the present invention may include the regenerative energy feedbackarrangement shown in Figure~.The process utilizes a mechanical drive system as described relative to Figures l and 2, and whioh mechanical drive may be that of a piston such as utilized in a gasolineengine. In operation, the process mixture is ignited much in the same manner as in Figure l. The drive mechanism in tu~n activates electrical voltage of aIternator 95whose output is ~ed back to the hydroqen generator and utili2ed as the firing voltage on the spark plug 1~; again, in a closed loop arrangement.
+,~ 10 , ~
+09'~Further, as aforesald in my bo-pending appLication, the Hydrogen Generator utilizes an electrical direct current vol-tage source on the energizer plates. In addition to thefeedback closed loop as set forth with respect to the ignition system, the feedback system of Figure 6 is equally, and perhaps more significantly, applicable to theprocess of the hydrogen generator. That is, again referring to Figure l, the electrical voltage appliecl to contact 27 is in the closed loop with the alternator/mechanicaldrive lQ of Figure ~r. In this way, the voltage requirements for the hydrogen generator are drastically reduced.~ epending upon the utility of the combustion chamber, the ratio of the combustible hydrogen gas and the non-combustible gas controls the combustion rate.Further, as understood oxygen is required for combustion, and it is present in ambient air that enters into the gas mixture line through the air intake. Again, the ambient airis understood to contain many and variable gases other than oxygen. Accordingly, air intake will add non-combustible gases to the gas mixture. This may require that thenon-combustible gas intake be varied . . . and in some instances may not be necessary.
+Similar Documents
+Publication Publication DateTitle
+CA1233379A 1988-03-01 Hydrogen gas injector for internal combustion engine
+JP3513662B1 2004-03-31 Cogeneration system
+CA1171672A 1984-07-31 Hydrogen-oxygen thermochemical combustion initiation
+CN103939895B 2016-04-13 Fuel feed-vaporization-pressure regulation-full premix combustion system and comprise temperature difference electricity generationdevice and the method for this system
+US4382771A 1983-05-10 Gas and steam generator
+AU2002223294B22007-03-01 Hydrogen assisted combustion
+US12134990B2 2024-11-05 System for remotely monitoring and controlling operation of a hydro-diesel engine
+AU2002223294A12002-08-08 Hydrogen assisted combustion
+WO2019028289A12019-02-07 Redesigned burner
+CA1227094A 1987-09-22 Hydrogen/air and non-cumbustible gas mixing combustion system
+US5771847A 1998-06-30 Fuel oxidizer emulsion injection system
+DE10226445C1 2003-06-12 Motor vehicle auxiliary power unit for converting heat into mechanical energy has steam generator driven by exhaust gases to driveelectrical generator
+CA1231872A 1988-01-26 Hydrogen injection system
+EP0111574A1 1984-06-27 Combustion system for mechanical drive systems using gaseous hydrogen as fuel
+CO4870787A1 1999-12-27 ALTERNATIVE MOVING MACHINES WITH GAS FUEL COLA BLACK SMOKE
+Park et al. 2019 Auto-ignited hydrogen combustor using NaBH4 thermal decomposition for ignition of aluminum powders
+CN203501169U 2014-03-26 Fuel oil supply-vaporization-pressure regulation-full premixing combustion system and temperature-difference power generationdevice comprising same
+RU2555486C2 2015-07-10 Gas-generator
+CN1120880C 2003-09-10 Gas generating system and its usage
+RU2050512C1 1995-12-20 Method for igniting fuel/air mixture
+JPS59153922A 1984-09-01 Hydrogen aeration type injector
+US9914642B2 2018-03-13 Method for producing hydrogen-containing gaseous fuel and thermal gas-generator plant
+RU2148195C1 2000-04-27 Method of operation of gas-ejector-turbine set
+RU25069U1 2002-09-10 HEAT GENERATOR
+RU2080470C1 1997-05-27 Thermodynamic turbojet engine
+Priority And Related Applications
+Priority Applications (1)
+Application Priority date Filing date Title
+CA000420889A 1983-02-04 1983-02-04 Hydrogen/air and non-cumbustible gas mixing combustion system
+Applications Claiming Priority (1)
+Application Filing date Title
+CA000420889A 1983-02-04 Hydrogen/air and non-cumbustible gas mixing combustion system
+Legal Events
+Date Code Title Description
+2004-09-22 MKEX Expiry
+Concepts
+machine-extracted  DownloadFilter table
+Name Image Sections Count Query match
+gas title,claims,abstract,description1160.000
+combustion reaction title,claims,abstract,description540.000
+Hydrogen title,claims,description470.000
+hydrogen title,claims,description400.000
+hydrogen title,claims,description400.000
+mixture claims,abstract,description420.000
+water claims,abstract,description210.000
+oxygen atom claims,abstract,description50.000
+hydrogen atom claims,abstract,description40.000
+fuel claims,abstract 70.000
+oxygen claims,description130.000
+oxygen claims,description130.000
+regulatory effect claims,description50.000
+cooling claims,description40.000
+oxidative effect claims,description40.000
+natural water claims,description30.000
+controlling effect claims20.000
+fluid claims10.000
+upstream manufacturing claims10.000
+Show all concepts from the description section
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

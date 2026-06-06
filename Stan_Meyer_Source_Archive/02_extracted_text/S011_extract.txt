@@ -1,0 +1,493 @@
+J 
+Europaisches  Patentamt 
+European  Patent  Office 
+Office  europeen  des  brevets 
+0111  574  B1 ©  Publication  number: 
+©  EUROPEAN  PATENT  SPECIFICATION 
+©  Date  of  publication  of  patent  specification:  11.09.91  ©  Int.  Cl.5:  F02B  47/10,  F02B  43/10, 
+F02M  21/02,  F02M  25/06, 
+©  Application  number:  82111596.1  F23L  7/00  F23C  9/00 
+©  Date  of  filing:  14.12.82 
+Combustion  system  for  mechanical  drive  systems  using  gaseous  hydrogen  as  fuel. 
+©  Proprietor:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+@  Inventor:  Meyer,  Stanley  A. 
+3792  Broadway 
+Grove  City  Ohio  43123(US) 
+Date  of  publication  of  application: 
+27.06.84  Bulletin  84/26 
+Publication  of  the  grant  of  the  patent: 
+11.09.91  Bulletin  91/37 
+Designated  Contracting  States: 
+AT  BE  CH  DE  FR  GB  IT  LI  LU  NL  SE 
+©  Representative:  Wasmeier,  Alfons,  Dipl.-lng.  et 
+al 
+Postfach  382  Greflingerstrasse  7 
+W-8400  Regensburg(DE) 
+References  cited: 
+DE-A-  2  641  228 
+FR-A-  1  178  241 
+FR-A-  2  383  247 
+GB-A-  2  079  441 
+US-A-  3  971  847 
+US-A-  4  059  076 
+FR-A-  721  354 
+FR-A-  2  096  416 
+GB-A-  1  517  799 
+US-A-  3  648  668 
+US-A-  3  982  878 
+US-A-  4  111  160 
+CD 
+ID 
+Note:  Within  nine  months  from  the  publication  of  the  mention  of  the  grant  of  the  European  patent,  any  person 
+may  give  notice  to  the  European  Patent  Office  of  opposition  to  the  European  patent  granted.  Notice  of  opposition 
+shall  be  filed  in  a  written  reasoned  statement.  It  shall  not  be  deemed  to  have  been  filed  until  the  opposition  fee 
+has  been  paid  (Art.  99(1)  European  patent  convention). 
+LU 
+Rank  Xerox  (UK)  Business  Services 
+
+EP  0  111  574  B1 
+Description 
+This  invention  refers  to  a  combustion  system 
+according  to  the  introductory  part  of  claim  1  . 
+The  hydrogen-oxygen  generation  according  to 
+this  system  is  a  demand  system,  in  which  the 
+hydrogen/oxygen  is  generated  only  upon  the  need. 
+The  generation  is  controlled  in  quantity  by  the 
+need,  such  as  an  accelerator  for  an  automotive 
+device. 
+From  FR-A-1  178  241  a  process  for  operating 
+a  combustion  system  for  mechanical  drive  systems 
+using  gaseous  fuel  is  known,  which  comprises  a 
+hydrogen/oxygen  generator,  a  water  reservoir  for 
+retaining  water  therein,  a  pair  of  similar  electrode 
+plates  positioned  in  said  water  reservoir,  a  direct 
+current  voltage  source  connected  to  said  plates  to 
+supply  an  electrical  voltage/low  current  thereto  and 
+to  dissociate  the  hydrogen  gas  atoms  and  oxygen 
+gas  atoms  from  said  water  molecules,  a  gas  mixing 
+chamber,  air  intake  means  for  combining  air  with 
+the  mixture  of  hydrogen  and  oxygen  gases,  a  gas 
+burner  having  a  controlled  amount  of  mixed  gases 
+from  the  mixing  chamber  fed  thereto,  means  to 
+ignite  said  gas/air  mixture  in  said  burner,  and  de- 
+mand  controlled  means  for  varying  the  release  of 
+said  hydrogen/oxygen  gas  atoms  from  said  water 
+molecules  to  thereby  accelerate  and  decelerate  the 
+ignition  of  the  gas/air  mixture  in  said  burner.  The 
+hydrogen  generator  produces  a  uniform  gas  mix- 
+ture  (hydrogen,  oxygen  and  ambient  air)  by  an 
+electrical  polarization  effect.  The  gas  mixture  is 
+introduced  to  and  intermixed  with  ambient  air  to 
+produce  an  extra  supply  of  gases  beyond  the  ca- 
+pacity  of  the  fuel  cell.  The  combustible  gas  mixture 
+enters  into  the  combustion  chamber  and  by  spark 
+ignition  acts  upon  a  mechanically  displaceable  pis- 
+ton.  The  supply  of  hydrogen  gas  determines  the 
+engine  speed  and  is  directly  related  to  the  applied 
+voltage  by  way  of  the  electrical  polarization  pro- 
+cess.  This  system  uses  pure  water,  which  is  slight- 
+ly  acid,  and  metallic  electrodes,  one  each  within 
+interconnected  chambers;  one  electrode  generates 
+oxygen  and  the  other  generates  hydrogen  from  the 
+water  supply  within  a  third  chamber.  Moreover,  this 
+system  uses  the  combination  of  air  and  oxygen 
+plus  hydrogen  mixed  within  the  gas  mixing  charts 
+ber  and  delivered  to  the  gas  burner. 
+FR-A-2  096  416  discloses  a  gas  fuel  internal 
+combustion  engine,  which  includes  a  mixing  cham- 
+ber,  within  which  air,  hydrogen  gas  and  exhaust 
+gases  are  mixed  and  the  mixture  is  fed  into  the 
+combustion  chamber,  where  it  is  ignited  and  where 
+exhaust  gases  exit  through  a  manifold  and  pass 
+through  a  heat  exchanger,  which  heats  the  hy- 
+drogen  fuel  stored  in  a  tank.  Liquid  hydrogen  within 
+an  insulated  tank  is  gasified  and  hydrogen  gas 
+flows  into  a  gas  store  and  from  there  into  a  mixing 
+chamber.  Part  of  the  exhaust  gas  from  the  combus- 
+tion  chamber  is  passed  to  the  mixing  chamber 
+separate  from  the  hydrogen  gas  and  the  oxygen 
+gas.  In  addition,  air  is  supplied  into  the  mixing 
+5  chamber.  The  gaseous  fuel  mixed  with  air  is 
+pumped  under  relatively  high  pressure  into  the 
+engine  combustion  chamber  to  achieve  a  high 
+compression  ratio 
+FR-A-2  382  247  discloses  a  method  and  an 
+io  apparatus  for  generating  oxygen  and  hydrogen  gas 
+in  an  electrolytical  manner;  the  apparatus  com- 
+prises  at  least  one  pair  of  electrodes,  which  partly 
+are  emerged  into  electrolytical  water  and  conduct 
+current,  which  is  a  pulsed  dc  current.  The  electrical 
+75  source  is  a  constant  current  source,  and  an  elec- 
+trical  commutator  is  provided  for  operating  the 
+switching  on  and  off  of  the  current  and  thus  gen- 
+erates  the  electrolysis  current,  which  pulsates  with 
+the  period  of  the  pulses  and  at  controlled  intervals. 
+20  With  this  method  and  apparatus  exclusively  oxygen 
+and  hydrogen  gases  are  produced,  and  a  com- 
+bined  gas  is  made  available  at  the  output  end  of  a 
+pipe,  a  nozzle  or  the  like. 
+It  is  an  object  of  this  invention  to  provide  a 
+25  combustion  system  combined  from  a  source  of  any 
+type  of  natural  water,  hydrogen  generator  for  de- 
+velopping  the  hydrogen/oxygen  gases,  and  exhaust 
+gases  incorporated  in  a  mechanical  drive  system. 
+Such  combustion  system  of  the  present  inven- 
+30  tion  is  characterised  in  that 
+(a)  the  direct  current  voltage  source  is  a  source 
+of  pulsed  direct  current  potential  for  dissociating 
+the  hydrogen  and  oxygen  atoms  from  said  water 
+molecules,  and  the  demand  control  means  var- 
+35  ies  the  pulse  rate, 
+(b)  an  exhaust  gas  mixing  chamber  is  connected 
+with  the  hydrogen/oxygen  generator  and  with  an 
+exhaust  gas  return  passage  of  the  gas  burner, 
+and  the  gas  mixture  of  hydrogen  and  oxygen  is 
+40  mixed  therein  with  exhaust  gases  to  adjust  the 
+burn  rate  of  hydrogen, 
+(c)  an  exhaust  gas  cooling  chamber  functioning 
+as  a  spark  arrester  is  provided  upstream  of  the 
+exhaust  gas  mixing  chamber, 
+45  (d)  the  exhaust  gas  mixing  chamber  is  con- 
+nected  via  a  pipeline  with  a  distribution  chamber 
+from  which  the  mixed  gases  are  supplied  to  a 
+pilot  light  line  and  to  a  main  line  with  a  jet 
+nozzle, 
+50  (e)  the  air  mixing  device  comprises  a  cone  at 
+the  inlet  of  a  passage  leading  to  a  dispersing 
+chamber  of  the  gas  burner,  the  gas  ejected  from 
+the  nozzle  and  Intermixed  with  intake  air  is  sup- 
+plied  via  said  cone  into  said  dispersing  cham- 
+55  ber,  which  is  provided  with  outlet  ports  through 
+which  the  combustible  gas  mixture  is  dispersed 
+into  the  combustion  chamber  of  the  gas  burner. 
+The  invention  now  will  be  described  by  way  of 
+
+EPO  111  574  B1 
+examples  with  reference  to  the  accompanying 
+drawings: 
+Figure  1  is  a  schematic  illustration  of  a  part 
+of  the  present  invention  showing 
+the  hydrogen/oxygen  generator, 
+and 
+Figure  2  is  another  part  of  the  invention 
+showing  the  combustion  system. 
+Figure  1  shows  the  hydrogen  source  10  which 
+is  a  hydrogen/oxygen  generator.  The  water  reser- 
+voir  2  is  filled  with  natural  water.  Immersed  in  the 
+water  is  an  array  of  plates  3  of  similar  non-oxidizing 
+material.  Applied  to  plates  3  is  a  source  27  of 
+pulsed  direct  current  potential  via  electrical  inlet  27. 
+The  action  of  the  pulsed  direct  current,  a 
+voltage/current  potential,  on  the  plates  causes  the 
+hydrogen  atoms  and  oxygen  atoms  to  become 
+dissociated  from  the  water  molecule.  Because  the 
+action  is  not  a  chemical  action  any  natural  water 
+irrespective  of  source  may  be  utilized. 
+Varying  either  the  potential  of  the  direct  current 
+voltage  source  or  the  pulse  rate  of  the  pulsing  of 
+the  direct  current  potential  will  vary  proportionally 
+the  generation  of  the  hydrogen/oxygen.  Other  fac- 
+tors  are  disclosed  for  varying  the  output  of  the 
+generator.  To  replenish  the  expended  water  the 
+generator  provides  a  continuous  water  source  1  . 
+A  safety  valve  28  is  rupturable  upon  excessive 
+gas  build-up.  Switch  29  is  a  gas  pressure  switch  to 
+maintain  a  predetermined  gas  pressure  level  about 
+a  regulated  low-volume. 
+The  generated  hydrogen  gas  4  is  fed  via  pipe 
+5  to  a  gas  mixing  chamber  7,  wherein  the  hy- 
+drogen  gas  is  intermixed  with  exhaust  gases  22 
+from  a  source  hereinafter  described. 
+The  mixture  of  hydrogen  gas  4  and  exhaust 
+gases  22  is  fed  via  pipe  line  9  to  a  carburettor  (air- 
+mixture)  system.  The  gas  mixture  8  is  fed  through 
+a  nozzle  to  a  chamber  in  a  jet  spray.  The  jet  spray 
+of  gases  combines  with  the  intake  air  to  form  a  gas 
+mixture  of  hydrogen  gas,  which  together  with  oxy- 
+gen  is  entered  into  a  combustion  chamber. 
+The  exhaust  gases  64,  the  residue  of  the  com- 
+bustion,  now  comprise  an  exhaust  mixture  64. 
+These  exhaust  gases  64  are  fed  via  pipe  line  24  to 
+the  gas  mixing  chamber  40.  The  pipeline  24 
+passes  through  cooling  chamber  50  for  cooling  the 
+gases  therein.  The  cooling  chamber  50  also  func- 
+tions  as  a  spark  arrestor  to  eliminate  the  possibility 
+of  gas  ignition  inside  the  mixing  chamber  40.  The 
+excess  exhaust  gases  are  expelled  into  the  atom- 
+sphere. 
+The  gases  generated  from  the  water  in  gener- 
+ator  1  0  also  include  the  oxygen  component  of  the 
+water  in  addition  to  nitrogen.  The  outlet  5  on  the 
+generator  10  receives  the  oxygen  and  nitrogen 
+gases  generated  thereby  and  feeds  the  same  to 
+the  mixing  chamber  40.  The  flow  of  the  hydrogen 
+gas  is,  of  course,  critical;  therefore,  there  is  incor- 
+porated  in  line  5  a  gas  flow  valve  to  adjust  the 
+hydrogen  flow. 
+With  particular  reference  to  Figure  2  there  is 
+5  illustrated  the  combustion  chamber  60.  The  gas 
+mixture  8,  which  is  generated  and  mixed  in  the 
+arrangement  of  Figure  1  ,  is  directed  by  pipe  line  9 
+and  nozzle  11  to  the  cone  65.  The  gas  mixture 
+combines  with  air  14  as  it  enters  cone  area  65.  The 
+w  combined  gas  mixture,  atomized  by  the  jet  nozzle 
+11  with  air  intake  14  is  directed  by  the  cone  65  to 
+the  dispersing  chamber  66.  There,  the  gas  mixture 
+15  is  further  mixed  with  air  14  to  form  combustible 
+gas  15.  The  gas/air  mixture  is  dispersed  via  ports 
+15  67a  xxx  67n  from  the  dispersing  chamber  66  into 
+the  firing  area  of  the  combustion  chamber  60.  The 
+gas  mixture  8  is  also  fed  by  pipeline  9  to  a  separa- 
+tion  chamber  71  .  This  chamber  sections  off  a  con- 
+trolled  amount  of  the  intake  gas  mixture  to  the  pilot 
+20  light  line  58.  The  pilot  light  firing  gas  57  is  also 
+sequenced  by  the  separation  chamber  71  such  as 
+through  an  associated  mechanical  drive,  much  in 
+the  same  manner  as  the  cylinder  of  an  automobile 
+engine. 
+25  The  mixed  gas  56a,  56n  ejected  from  ports  67a 
+xxx  67n  of  the  dispensing  chamber  66  is  ignited  by 
+the  pilot  combustion  57  and  thereby  causes  com- 
+bustion  of  the  mainstream  gases.  As  the  exhaust 
+gases  64  rise  upwardly  in  the  cylinder  61  of  the 
+30  combustion  chamber  60  the  cone  63  captures  a 
+portion  of  the  exhaust  gases  64.  The  captured 
+exhaust  gas  is  returned  via  pipe  line  68  and  outlet 
+74  to  the  combustion  process  as  set  in  Figure  1  or 
+expelled  for  other  purposes.  The  major  portion  of 
+35  the  exhaust  gases  64  by-pass  the  cone  63  and  rise 
+further  to  the  outlet  exhaust  69  and  are  expelled  at 
+opening  73. 
+As  low-voltage  direct  current  is  applied  to  safe- 
+ty  valve  28,  a  solenoid  is  activated,  which  applies  a 
+40  control  voltage  to  the  hydrogen  generator  plates  3 
+via  terminal  27  through  pressure  switch  29.  As  the 
+electrical  power  activates  the  electric  solenoid,  hy- 
+drogen  gas  is  caused  to  pass  through  a  flow  ad- 
+justment  valve  and  then  outlet  pipe  5  for  utilization. 
+45  A  gas  regulator  valve  is  utilized  to  reduce  the 
+pressure  level  inside  the  hydrogen  generator  10. 
+Once  hydrogen  generator  10  reaches  an  optimum 
+gas  pressure  level,  pressure  switch  29  shuts  off 
+electrical  power  to  the  hydrogen  exciters.  If  the 
+50  chamber  pressure  exceeds  a  predetermined  level, 
+the  safety  release  valve  28  is  activated  disconnect- 
+ing  the  electrical  current  and  thereby  shutting  down 
+the  entire  system  for  safety  inspection. 
+55  Claims 
+1.  A  combustion  system  for  mechanical  drive 
+systems  using  gaseous  hydrogen  as  fuel,  com- 
+
+EP  0  111  574  B1 
+prising  a  hydrogen/oxygen  generator  (10)  pro- 
+ducing  hydrogen  and  oxygen  gases  by  an 
+electrical  polarization  process  and  mixing  the 
+hydrogen  and  oxygen  gases  to  a  uniform  gas 
+mixture,  having  a  water  reservoir  (2)  filled  with 
+natural  water,  a  pair  of  similar  non-oxidizing 
+plates  (3)  positioned  in  said  water  reservoir  (2), 
+a  direct  current  voltage  source  (27)  connected 
+to  said  plates  (3)  to  apply  an  electrical 
+voltage/low  current  thereto  and  dissociate  the 
+hydrogen  gas  atoms  and  oxygen  atoms  from 
+said  water  molecules,  an  air  mixing  device 
+which  is  provided  with  an  air  intake,  and  in 
+which  air  is  mixed  with  the  mixture  of  hy- 
+drogen  and  oxygen  gases,  a  gas  burner  (60) 
+which  is  supplied  with  a  controlled  amount  of 
+gas/air  mixture,  and  which  comprises  means 
+(57,  58)  to  ignite  said  gas/air  mixture  in  said 
+gas  burner  (60),  and  an  exhaust  gas  outlet,  the 
+system  further  comprises  demand  control 
+means  for  varying  the  release  of  said 
+hydrogen/oxygen  gas  atoms  from  said  water 
+molecules, 
+characterised  in  that 
+(a)  the  direct  current  voltage  source  (27)  is 
+a  source  of  pulsed  direct  current  potential 
+for  dissociating  the  hydrogen  and  oxygen 
+atoms  from  said  water  molecules,  and  the 
+demand  control  means  varies  the  pulse 
+rate; 
+(b)  an  exhaust  gas  mixing  chamber  (7)  is 
+connected  with  the  hydrogen/oxygen  gener- 
+ator  (10)  and  with  an  exhaust  gas  return 
+passage  (68)  of  the  gas  burner  (60),  and  the 
+gas  mixture  of  hydrogen  and  oxygen  is 
+mixed  therein  with  exhaust  gases  (64)  to 
+adjust  the  burn  rate  of  hydrogen, 
+(c)  an  exhaust  gas  cooling  chamber  (50) 
+functioning  as  a  spark  arrester  is  provided 
+upstream  of  the  exhaust  gas  mixing  cham- 
+ber  (7), 
+(d)  the  exhaust  gas  mixing  chamber  (7)  is 
+connected  via  a  pipeline  (9)  with  a  distribu- 
+tion  chamber  (71)  from  which  the  mixed 
+gases  are  supplied  to  a  pilot  light  line  (58) 
+and  to  a  main  line  with  a  jet  nozzle  (11), 
+(e)  the  air  mixing  device  comprises  a  cone 
+(65)  at  the  inlet  of  a  passage  leading  to  a 
+dispersing  chamber  (66)  of  the  gas  burner 
+(60),  the  gases  ejected  from  the  nozzle  and 
+intermixed  with  intake  air  are  supplied  via 
+said  cone  (65)  into  said  dispersing  chamber, 
+which  is  provided  with  outlet  ports  (67a  - 
+67n)  through  which  the  combustible  gas 
+mixture  is  dispersed  into  the  combustion 
+chamber  of  the  gas  burner  (60). 
+Revendications 
+1.  Systeme  a  combustion  pour  la  propulsion  de 
+systemes  mecaniques  utilisant  I'hydrogene  ga- 
+zeux  comme  carburant  comprenant  un  genera- 
+5  teur  d'hydrogene/oxygene  (10)  produisant  de 
+I'hydrogene  et  de  I'oxygene  gazeux  par  un 
+procede  d'electrolyse  et  melangeant  I'oxygene 
+etl'hydrogene  gazeux  avec  obtention  d'un  me- 
+lange  gazeux  uniforme,  ayant  un  reservoir 
+10  d'eau  (2)  rempli  d'eau  naturelle,  une  paire  de 
+plaques  nonoxydantes  similaires  (3)  disposees 
+dans  le  reservoir  d'eau  (2),  une  source  de 
+tension  continue  (27)  connectee  aux  plaques 
+precitees  afin  de  leur  appliquer  une  tension 
+J5  electrique/bas  courant  et  de  dissocier  les  mo- 
+lecules  d'eau  precitee  en  hydrogene  et  oxyge- 
+ne  gazeux,  un  dispositif  de  melange  d'air  muni 
+d'une  admission  d'air  et  dans  lequel  de  I'air 
+est  melange  avec  le  melange  d'hydrogene  et 
+20  d'oxygene  gazeux,  un  bruleur  de  gaz  (60)  qui 
+est  alimente  avec  une  quantite  controlee  de 
+melange  de  gaz/air  et  qui  comprend  des 
+moyens  (57,  58)  pour  enflammer  le  melange 
+de  gaz/air  precite  dans  le  bruleur  de  gaz  (60) 
+25  precite,  et  une  sortie  de  gaz  d'echappement,  le 
+systeme  comprenant  en  outre  un  moyen  de 
+controle  de  la  demande  pour  faire  varier  la 
+liberation  d'hydrogene/oxygene  gazeux  a  partir 
+des  molecules  d'eau  precitee  caracterise  en  ce 
+30  que 
+a)  la  source  de  tension  continue  (27)  est 
+une  source  de  potentiel  de  courant  continu 
+pulsatoire  pour  dissocier  les  molecules 
+d'eau  precitees  en  hydrogene  et  oxygene  et 
+35  le  moyen  de  controle  de  la  demande  fait 
+varier  le  taux  d'impulsions; 
+b)  une  chambre  de  melange  du  gaz 
+d'echappement  (7)  est  reliee  au  generateur 
+d'hydrogene/oygene  (10)  et  a  un  passage 
+40  de  retour  du  gaz  d'echappement  (68)  du 
+bruleur  (60)  et  le  melange  gazeux  d'hydro- 
+gene  et  d'oxygene  y  est  melange  avec  les 
+gaz  d'echappement  (64)  pour  regler  la  vi- 
+tesse  de  combustion  de  I'hydrogene, 
+45  c)  une  chambre  de  refroidissement  de  gaz 
+d'echappement  (50)  fonctionnant  comme 
+dispositif  d'arret  d'etincelles  est  prevue  en 
+amont  de  la  chambre  de  melange  de  gaz 
+d'echappement  (7), 
+so  d)  la  chambre  de  melange  de  gaz  d'echap- 
+pement  (7)  est  reliee  par  I'intermediaire 
+d'une  canalisation  (9)  a  une  chambre  de 
+distribution  (71)  a  partir  de  laquelle  les  gaz 
+melanges  sont  amenes  a  une  conduite  d'al- 
+55  lumage  pilote  (58)  et  a  une  conduite  princi- 
+pale  avec  un  gicleur  (11), 
+e)  le  dispositif  de  melange  d'air  comprend 
+un  cone  (65)  a  I'entree  d'un  passage  ame- 
+
+EPO  111  574  B1 
+nant  a  une  chambre  de  dispersion  (66)  du 
+bruleur  de  gaz  (60),  les  gaz  ejectes  du 
+gicleur  et  melanges  a  I'air  admis  sont  ame- 
+nes  par  I'intermediaire  du  cone  (65)  precite 
+dans  la  chambre  de  dispersion  qui  est  mu- 
+nie  d'orifices  de  sorties  (67a  -  67n)  a  travers 
+lesquels  le  melange  gazeux  combustible  est 
+disperse  dans  la  chambre  de  combustion 
+du  bruleur  de  gaz  (60). 
+Patentansprtiche 
+1.  Verbrennungseinrichtung  fur  mechanische  An- 
+triebssysteme  unter  Verwendung  von  Wasser- 
+stoffgas  als  Brennstoff,  mit  einem 
+Wasserstoff/Sauerstoff-Generator  (10),  der 
+Wasserstoff-und  Sauerstoffgase  durch  einen 
+elektrischen  Polarisiervorgang  erzeugt  und  die 
+Wasserstoff-  und  Sauerstoffgase  zu  einem 
+gleichformigen  Gasgemisch  mischt,  mit  einem 
+mit  naturlichem  Wasser  gefulltem  Behalter  (2), 
+einem  Paar  ahnlicher,  nichtoxydierender,  im 
+Wasserbehalter  (2)  angeordneter  Platten  (3), 
+einer  Gleichstromquelle  (27),  die  an  die  Platten 
+(3)  angeschlossen  ist  und  eine  elektrische 
+Spannung  geringer  Stromstarke  anlegt  sowie 
+die  Wasserstoff-  und  Sauerstoffgas  atome  aus 
+den  Wassermolekulen  dissoziiert,  eine  Luft- 
+mischvorrichtung,  die  einen  Lufteinla/3  aufweist 
+und  in  der  Luft  mit  dem  Gemisch  aus 
+Wasserstoff-  und  Sauerstoffgasen  gemischt 
+wird,  einem  Gasbrenner  (60),  der  mit  einer 
+gesteuerten  Menge  an  Gas/Luft-Gemisch  ge- 
+speist  wird  und  der  eine  Vorrichtung  (57,  58) 
+zum  Zunden  des  Gas/Luft-Gemisches  im  Gas- 
+brenner  (60)  aufweist,  sowie  einem  Abgasaus- 
+lafi,  wobei  die  Einrichtung  ferner  eine  Bedarfs- 
+steuervorrichtung  zur  Anderung  der  Freigabe 
+der  Wasserstoff/Sauerstoffgasatome  aus  den 
+Wassermolekulen  besitzt, 
+dadurch  gekennzeichnet,  da/3 
+a)  die  Gleichstromspannungsquelle  (27) 
+eine  Quelle  gepulsten  Gleichstrompotentials 
+zum  Dissoziieren  der  Wasserstoff-und  Sau- 
+erstoffatome  aus  den  Wassermolekulen  ist, 
+und  die  Bedarfssteuervorrichtung  die  Im- 
+pulsrate  verandert, 
+b)  eine  Abgasmischkammer  (7)  mit  dem 
+Wasserstoff/Sauerstoff-Generator  (10)  und 
+mit  einer  Abgasruckfuhrleitung  (68)  des 
+Gasbrenners  (60)  verbunden  ist,  und  das 
+Gasgemisch  aus  Wasserstoff  und  Sauerstoff 
+darin  mit  Abgasen  (64)  gemischt  wird,  urn 
+die  Brennrate  des  Wasserstoffes  einzustel- 
+len, 
+c)  eine  Abgaskuhlkammer  (50),  die  als 
+Zundfunkensperre  wirkt,  stromaufwarts  in 
+bezug  auf  die  Abgasmischkammer  (7)  ange- 
+ordnet  ist, 
+d)  die  Abgasmischkammer  (7)  uber  eine 
+Leitung  (9)  mit  einer  Verteilkammer  (71) 
+verbunden  ist,  aus  der  diegemischten  Gase 
+in  eine  Leitung  (58)  fur  die  Pilotflamme  und 
+in  eine  Hauptleitung  mit  einer  Strahldtise 
+(11)  eingespeist  wird, 
+e)  die  Luftmischvorrichtung  einen  Konus 
+(65)  am  Einla/3  eines  zu  einer  Dispersions- 
+kammer  (66)  des  Gasbrenners  (60)  fuhren- 
+den  Kanales  aufweist,  wobei  die  Gase,  die 
+aus  der  Duse  abgegeben  und  mit  Einlafiluft 
+gemischt  werden,  uber  den  Konus  (65)  in 
+die  Dispersionskammer  eingespeist  werden, 
+die  mit  Auslafioffnungen  (67a  -  67n)  verse- 
+hen  ist,  durch  die  das  brennbare  Gasge- 
+misch  in  die  Brennkammer  des  Gasbren- 
+ners  (60)  dispergiert  wird. 
+10 
+75 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+
+EPO  111  574  B1 
+?  IFO1TT0  . 
+m^ 
+^o 
+FIG.  I 
+
+EPO  111  574  B1 
+FIG.  2. 
+68 

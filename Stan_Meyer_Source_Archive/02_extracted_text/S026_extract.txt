@@ -1,0 +1,127 @@
+Electric particle generator
+Abstract translated from Japanese
+(57) [Summary] This bulletin contains application data before electronic filing, so abstract data isnot recorded.
+Classifications
+H01F30/10 Single-phase transformers
+View 1 more classifications
+Landscapes
+Engineering & Computer Science
+Power Engineering
+JPS58207610A
+Japan
+ Find Prior Art  Similar
+Other languages: Japanese
+Inventor: スタンリ − ・エイ・メイヤ −
+Current Assignee: Individual
+Worldwide applications
+1982EP1983CAJP
+Application JP58023664A events 
+1983-02-15Application filed by Individual
+1983-12-03Publication of JPS58207610A
+Status Pending
+Info: Patent citations (5), Cited by (2), Similar documents,Priority and Related Applications
+External links: Espacenet, Global Dossier, Discuss
+Claims (9) Hide Dependent translated from Japanese
+[Claims](1) A non-magnetic closed loop tube through which magnetic lines of force pass, a particle accelerator disposed adjacent to one end of the tube, and a second particleaccelerator disposed adjacent to the tube and on the opposite side of the accelerator. a secondary induction winding and a substantial amount of magnetizing elements enclosedin the tube, the accelerator having means for supplying a low input voltage, and the secondary winding having means for supplying a high voltage/current. An electric particlegenerator characterized by having a means for taking out and using it.(2) Claim 11, wherein the magnetizing element is a particle suspended in a fluid medium.The electric particle generator described in +.(3) The electro-silver particle generator according to claim (2), wherein the magnetizing element is a gas.(4) The electric particlegenerator according to claim (2), wherein the magnetization element is a liquid.(5) The electric particle generator according to claim (2), wherein the pre-magnetizing element issolid.(6) The electric particle accelerator according to claim 1, wherein the coordinating particle accelerator is an electromagnetic particle accelerator.(7) The electric particlegenerator according to claim 1, wherein the particle accelerator further includes a primary induction winding and a low voltage input to the primary winding. .(8) Claim (4)characterized in that the low voltage input is an angularly variable voltage input for controlling the magnitude of the voltage/flow generated in the secondary winding. The electricparticle generator described in .(9) The input voltage to the primary winding is direct.The electric particle generator according to claim 4, wherein the output voltage is a direct current. Electric particle generation according to claim (4), characterized in that the inputvoltage to the primary winding is alternating current, and the output current/voltage is alternating current/voltage. Device. (b) The input voltage to the primary winding is in the formof a loop, and the output chamber f#L/voltage is -J? The electric particle generator according to claim (4), characterized in that the electric particle generator generates a lasingcurrent/voltage. O2 The input voltage to the primary winding has a variable waveform, and the output current/voltage has a waveform similar to the input voltage waveform.Electric particle generator according to paragraph 0 O31, characterized in that the particle accelerator further includes a magnetically forming core, and the core is slightly largerthan the outer diameter of the tube and has an opening for receiving the tube. An electric particle generator according to claim (4). (141) said tube has three parallel separatebranches at said opposite ends, and said secondary coils are three separate coils each having a separate output; The electric particle generator according to claim 1, characterizedin that the electric particle generator is disposed in each one of the tube branches, and is provided with a three-phase output from the electric particle generator K. 11. The electricparticle generator according to claim 10, comprising a mechanical pump, and wherein the magnetized element is a permanently magnetized element. 0. Magnetized particles usedin the electric particle generator. A chamber and a pair of electrodes made of a magnetizable material disposed in the chamber, and voltages of mutually different polarities appliedto the first 11 pairs of electric poles.a current source, the voltage/current source being adapted to evaporate the magnetizable pigment when the voltage/current is applied to the camellia; means for sending particlesand a magnetic field generator, the other end of the /4' tube being placed in the magnetic field of the magnetic field generator, and the evaporated particles entering the mother tubeand being further ejected from the pipe. , an assembly characterized in that it is magnetized by passing through said magnetic field generator.
+Description translated from Japanese
+DETAILED DESCRIPTION OF THE INVENTION According to the teachings of the prior art, a voltage/current is generated that passes a magnetic field through an inductivewinding and, if this winding is a secondary winding, It explains the basic principle that the higher the voltage generated in the
+The prior art also teaches that the magnetic elements within the primary induced magnetic field are attracted to one end of the coil and repelled to the other end. That is,the attraction and repulsion of the moving magnetic primary induction winding by the magnetic field is accelerated.
+  P a t e n t s
+Show more
+
+In conventional step-up transformers, the voltage developed across the secondary winding depends on the ratio of the number of turns between the primary andsecondary windings. Other factors are the size of the windings and whether the core is made of air or magnetic material.
+Now, the basic principle of the present invention is to use a particle accelerator, and the basic principle is to induce a voltage in the secondary winding by passingmagnetic particles through the secondary winding. be.
+The device of the present invention includes a primary groove winding having a magnetically formed core and a low voltage input. The secondary winding has a largernumber of turns than the primary winding, and has an output for utilizing the voltage induced in the secondary winding.
+Thus, the primary visiting winding and its core are disposed at one location on the non-magnetic motherboard which is endless (i.e. forming a closed loop), while thesecondary winding is It is arranged around the endless mother eve at a position opposite to the primary winding.
+The pipe is filled with magnetic elements having a magnetically distributed charge. This magnetic element is a particle,Preferably, the gas is used.
+The magnetic particles due to polarization move, and the particles move through the accelerator (the firstWhen approaching the next winding), the magnetic field of the device attracts the particles,The particles are accelerated and introduced into the space inside the coil. As the magnetic elements (particles) advance, the repulsive end of the accelerator exerts afurther magnetic force on the particles. The magnetic attraction and repulsion significantly strengthens the motion of each particle in the pipe. . L, the particle leaves theregion of the accelerator with increased velocity.
+Due to the action of the accelerator, the magnetic element moves in a closed loop at a speed that is significantly greater than its normal motion. When the magneticelement passes through the core of the secondary winding, theA voltage is induced in the next winding.
+In this way, a fairly large voltage is induced in the secondary winding of the transformer.
+The main object of the invention is to provide a power generation device capable of generating voltage/current values significantly greater than those that were otherwisepossible.
+Another object of the invention is to provide such a power generation device and a magnetic accelerator device using magnetized elements.
+Another object of the present invention is to provide a power generation device that can control the amplitude of the output.
+Another object of the present invention is to provide a power generation device that can be used with direct current, alternating current, pulsed or other waveforms.
+Another object of the present invention is to provide a power generation device that can be used in single-phase or three-phase electrical systems.
+Still another object of the present invention is to provide a generator for generating magnetized particles used in an electric particle accelerator.
+Still another object of the present invention is to provide a power generation device that can be easily implemented using easily available components.
+1 and 2 show the simplest diagrams of the embodiments of the present invention.
+The system according to the invention comprises a primary winding coil magnetic accelerator assembly 10. Closed loop non-magnetic nozzle 30. and a secondarywinding 20.
+The magnetic accelerator assembly includes a primary winding 12 and a magnetic core 14.and voltage tap 16. The primary winding is wound around the end 32 of a closed loop tube 30 made of non-magnetic material.
+Closed loop i? A secondary winding 20 is wound around the end 34 on the opposite side of the eve 300. A voltage tap 22 at 2° of the secondary winding makes it possibleto utilize the voltage applied to the secondary winding.
+Enclosed within the i4 ide 30 is a substantial amount of magnetic element 40 as shown in FIG. element 40The pawn must be sufficiently light and movable. Therefore, this element can be used for gases, liquids, etc.particles suspended in a fluid, or lightweight mobile solid particles, more preferably a gas. When applying suspended solid magnetic particles, it is desirable to reduce thepressure within the tube to reduce resistance to particle flow. The magnetizing element 40 is an independent element, in other words each or a small portion of theparticles is magnetized separately.
+Furthermore, the effects described below are effects on each particle and not on the whole particle.
+The voltage applied to terminal 16 of primary winding 12 is a low voltage, the magnitude of which can be used as an input power control. By varying the input voltage, theaccelerator changes the velocity of the particles. As a result, the voltage/current output of the secondary winding 20 changes.
+The output 22 of the secondary transformer 20 has a high voltage/output.
+The system of Figures 1 and 2 using a single closed loop provides a single phase output to the secondary winding. Also shown in FIG. 3 is a closure loop system havingsix parallel non-magnetic tubes 31, 33 and 35. A secondary winding 21, 23 and 25, respectively, is wound around each chip.
+Each of the secondary windings 21, 23 and 25 is single-phase, similar to the secondary windings shown in Figures 1 and 2. These three pipes have a common input andoutput. They form connection points and each have a secondary winding, forming a balanced three-phase electrical system.
+The power generating device shown in FIG. 4 is electrically operationally equivalent to the power generating device shown in FIGS. 1 and 2. The physical configuration ofthis device is adapted for use in high humidity environments. An insulating coating 45 completely covers the pipe 30 and all electrical windings. Figure 4 shows that for agiven winding size, increasing the number of turns in the coil increases the voltage/current output. The condition is shown. The illustrated physical configuration allowsfor the use of horizontal as well as vertical aspects. In this way, it is possible to use the high r-gear high current electric wire by winding it around the large-diameter/mother eve an infinite number of times.
+FIG. 5 shows a coil device 49 that makes full use of the magnetic flux in the closed-button Luso tube 47. In this device, it is arranged coaxially with the primary winding 43serving as the central core.
+FIG. 6 shows a concentric spiral tube 50 having a secondary winding 53 wound thereover.
+In FIG. 7, a particle accelerator 1i10 is wound around a tube 30, similar to FIGS. 1 and 2.
+However, in this actual M'9++, the cheap 30 is a continuous closed loop, but it is because it is configured in series and parallel.
+That is, three ws each have an output electrically,There are secondary windings, but the tube 30 σ  is in series through these three secondary windings.
+In FIG. 8, a reverse configuration of the configuration in FIG. 7 is shown.
+That is, although several pickup coils are wound in series, the tube 80 is not continuous. The principle of this device is that there is an input manifold 82 and an outputmanifold 84 connected to several tubes 60a-60n.
+Each of the secondary coils 70a-70n is wound around a respective tube.
+The magnetic particle accelerator 10 may have a different arrangement and structure from the electric accelerator shown in Figure 1. Figure '749 shows the mechanicalparticle accelerator 100. In this embodiment, magnetic particles 102 are permanently magnetized before being encapsulated in non-magnetic pipe 110. 102 particlesMechanical drive assembly 10fan plate 9 or pump 1 rotated by 6;It is accelerated by 04. The mechanical drive system of assembly 106 is coupled to an electric motor by a belt or the like, andContains 2. A sealed bearing 114 retains the particles 102 within the pipe 110.
+As mentioned above, when a particle traverses the secondary coil, a voltage/current is generated in the secondary coil. What should be understood here is that theparticles do not actually traverse the coil, they actually traverse the magnetic field of the coil.
+As previously explained, the f-tube 30 is a non-magnetic pipe. There are some non-magnetic pipes that cannot be used with the present invention. That is, the Zeip 30needs to have the ability to pass magnetic lines of force. That is, in order to induce a voltage/[current in the secondary winding 20 across the induced magnetic field inthis winding,These are the lines of magnetic force.
+As explained in conjunction with the various aspects above, one of the essential features of the present invention is the generation of magnetized particles enclosed in atube. FIG. 10 shows an apparatus for carrying out the steps of evaporating a substance to turn it into evaporated particles and then applying a magnetic field to theparticles to magnetize them.
+The chamber 155 is made of a magnetizable (magnetizable) material.'1 with a pair of electrodes 160 and 162 disposed in its lower half;It is a c9 chamber. Voltages ω  150 and 152 provide voltages/currents of opposite polarity to electrodes 160 and 162 via terminals 154 and 156 and connecting lines 164and 166. Electrode 160 and electrode 16There is a 170-meter spark between the two.
+When power is applied to the magnetic material electrodes 160 and 162,The tips of the electrodes in the S.G.G.It is at 0.
+Particles 180 rise and enter non-magnetic pipe 165. The particles move along and pass between the magnetic field generators 175. Each particle is magnetized tobecome a magnetized particle 185, and then sent to the above-mentioned electric particle generator via a boat 190fr.
+In the preferred embodiment described above and the simplified preferred embodiment of FIGS. 1 and 2, a low voltage is applied to the particle accelerator 10 and isshown to be effective.
+Upon acceleration, high voltage/current is induced in the secondary pickup coil 20. The most important advantage of the invention is that the voltage amplification isindependent of the waveform of the input voltage. That is, if the input voltage is DC, the DC voltage will be the output, and if the input is AC voltage, the AC voltage will bethe output. Furthermore, in the case of a pulse voltage, a nollus voltage becomes the output.
+In this way, if a voltage with an arbitrary waveform is applied as an input, a voltage with a similar waveform will be output.
+Although the present invention has been described above with reference to specific embodiments, various modifications can be made without departing from the spiritand scope of the present invention.
+[Brief explanation of the drawing]
+FIG. 1 is a simple explanatory diagram of the principle of the present invention partly in cross-section and partly pictorially; FIG. 2 is a schematic diagram electricallyexplaining the embodiment of FIG. 1; and FIG. FIG. 4 is a diagram illustrating another preferred configuration of the present invention; FIG. 5 is a diagram illustrating stillanother preferred configuration of the present invention; FIG. 7 is a diagram illustrating still another preferred configuration of the present invention. FIG. 8 is a diagramillustrating still another preferred configuration of the present invention. , FIG. 9 is a diagram showing another configuration of the magnetic drive accelerator, and FIG. 10is a diagram illustrating the configuration of a magnetic particle generator for generating magnetic particles used in the present invention. 10.100... Particle accelerator,]6... Tap means, 20.21, 23.25.53.70a-70n....Secondary induction winding, 30.31.33.35.47.80...Non-magnetic closed loop tube, 40°102.180... Magnetizing element, 106... Evaporated particle sending means, 150.152... Voltage/current source, 155......Chamber, 160.162... Electrode made of magnetic material, 165... Mother Eve, 175... Magnetic field generator. Drawing 3 (Contents J - No changes) / Mr. Commissionerof the Japan Patent Office ■ , Indication of the case Showa Jr. Patent Application No. 2JA, g4'No. 2 Name of the invention Electric particle generator 3, Relationship with the person making the amendment Applicant's name Stanley A. Mayer 4, Agent 5, Date ofamendment order 6/3/J/1920 6, Subject of amendment All drawings 7 Contents of amendment As attached, 48-
+Patent Citations (5)
+Publication number Priority datePublication dateAssignee Title
+Family To Family Citations
+DE544908C * 1927-11-151932-02-23 J P Arend Process for generating electrical currents
+US3034002A * 1958-06-171962-05-08 Honeywell Regulator Co Conductive fluid power transformer
+US3300663A * 1963-12-301967-01-24 Nils O Rosaen Power transfer circuits
+US3859789A * 1972-01-311975-01-14 Battelle DevelopmentCorp Method and apparatus for converting one form of energy into another form ofenergy
+US4064409A * 1976-07-281977-12-20 Redman Charles M Ferrofluidic electrical generator
+* Cited by examiner, †  Cited by third party
+Cited By (2)
+Publication number Priority date Publication date Assignee Title
+Family To Family Citations
+DE9419371U1 * 1994-12-05 1995-03-09 Zimmermann, Johann, Dipl.-Ing., 88281 Schlier Solar generator
+BR102012000838A2 * 2012-01-13 2015-03-31 Evoluç Es En Ltda Earth's electron pickup
+* Cited by examiner, †  Cited by third party, ‡  Family to family citation
+Similar Documents
+Publication Publication Date Title
+JPH10501119A 1998-01-27 Current generator
+KR20090018914A 2009-02-24 Electric generator using single magnetic flux path
+Zacharias 2022 Magnetic Components: Basics and Applications
+US20140091890A1 2014-04-03 Switching power supply
+US4015174A 1977-03-29 Devices for magnetic control with permanent magnets
+US12149144B2 2024-11-19 Apparatus, systems, and methods for generating force in electromagnetic system
+JPS5961763A 1984-04-09 Apparatus for generating uniform magnetic field
+US2324634A 1943-07-20 Electromagnetic inductance apparatus
+US10547218B2 2020-01-28 Variable magnetic monopole field electro-magnet and inductor
+JPS58207610A 1983-12-03 Electric particle generator
+US7422709B2 2008-09-09 Electromagnetic rheological (EMR) fluid and method for using the EMR fluid
+Djuri ć 1975 Spinning magnetic fields
+US10629367B2 2020-04-21 Permanent magnet induction generator (PMIG)
+RU2130227C1 1999-05-10 Electromagnetic vibrator
+US5221892A 1993-06-22 Flux compression transformer
+JPH11204353A 1999-07-30 Stationary magnet generator
+JP5127030B2 2013-01-23 Demagnetizing device and demagnetizing method
+Chandrasekaran 2026 Magnetic flux tube, absolute negative resistanec and magnetic monopole-strings attached.
+Gill 2022 Faraday’s Iron Ring Experiment 1831’Explained Better with ‘Gill’s Electronic Theory of Magnetism after 1964
+Atkinson 1931 Mechanical Aspects of Electricity
+Karaoglu 2020 Faraday’s Law–Induction
+Gobbi 0 The Device of Clemente Figuera
+WO1983004340A1 1983-12-08 Alternating-current attracting electromagnet
+JPH01310516A 1989-12-14 Method for pulse magnetization and magnetizer used for it
+Lewis 1981 Magnetism
+Priority And Related Applications
+Applications Claiming Priority (2)
+Application Filing date Title
+US36705182A 1982-04-09
+US367051 1982-04-09
+Data provided by IFI CLAIMS Patent Services
+About Send Feedback Public DatasetsTermsPrivacy Policy Help

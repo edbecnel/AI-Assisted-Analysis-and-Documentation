@@ -1,0 +1,13 @@
+| Original File Name                                                                         | Suggested Canonical File Name                                                                               |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| `Stanley Meyer-The Birth of New Technology OCR.docx`                                       | `R001_Meyer_OCR_SOURCE_Birth_of_New_Technology_UNDATED_ocr.docx`                                            |
+| `The Birth of a New Technolog - Executive summary.docx`                                    | `R002_Meyer_SUMMARY_Birth_of_New_Technology_Executive_Summary_UNDATED_created.docx`                         |
+| `The Birth of a New Technology - Reconstruction Oriented Executive summary.docx`           | `R003_Meyer_SUMMARY_Birth_of_New_Technology_Reconstruction_Oriented_Executive_Summary_UNDATED_created.docx` |
+| `The Birth of a New Technology - Parts-and-Subassemblies Worksheet.docx`                   | `R004_Meyer_WORKSHEET_Birth_of_New_Technology_Parts_and_Subassemblies_UNDATED_created.docx`                 |
+| `The Birth of a New Technology - Reconstruction Checklist.docx`                            | `R005_Meyer_CHECKLIST_Birth_of_New_Technology_Reconstruction_UNDATED_created.docx`                          |
+| `Stan Meyer Airdation and Exhaust Recycle - Startup and Steady-State Operating Model.docx` | `R006_Meyer_MODEL_Airdation_and_Exhaust_Recycle_Startup_and_Steady_State_UNDATED_created.docx`              |
+| `Figures from EP0122472A2.docx`                                                            | `R007_Meyer_FIGURES_EP0122472A2_Figures_UNDATED_created.docx`                                               |
+| `EPG Divider Plate 01.jpg`                                                                 | `F001_Meyer_DIAGRAM_EPG_Divider_Plate_01_UNDATED_original.jpg`                                              |
+| `EPG Divider Plate A1.jpg`                                                                 | `F002_Meyer_DIAGRAM_EPG_Divider_Plate_A1_UNDATED_original.jpg`                                              |
+| `Figures from EP0122472A2.docx`                                                            | `F003_Meyer_FIGURES_EP0122472A2_Hydrogen_Aeration_Injection_System_UNDATED_extracted.docx`                  |
+| `Stanley Meyer Technology posted on Nasseim Haramein FB group.jpg`                         | `F004_Meyer_IMAGE_Stanley_Meyer_Technology_Nasseim_Haramein_FB_Group_UNDATED_original.jpg`                  |
